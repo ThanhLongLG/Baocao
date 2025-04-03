@@ -1,5 +1,6 @@
 ﻿@page
 @model LoginModel
+
 @{
     Layout = null;
 }
@@ -8,7 +9,7 @@
     ViewData["Title"] = "Log in";
 }
 <head>
-   
+
 
     <!-- Favicon -->
     <link rel="icon" type="image/x-icon" href="~/img/favicon/favicon.ico" />
@@ -94,7 +95,7 @@
                     </p>
                     <p class="text-center">
                         <a asp-controller="Home" asp-action="Index">Về Trang Chính</a>
-                     </p>
+                    </p>
                 </div>
             </div>
             <!-- /Register -->
@@ -102,38 +103,38 @@
     </div>
 </div>
 
-    <div class="col-md-6 col-md-offset-2">
-        <section>
-           
-            <hr />
-            @{
-                if ((Model.ExternalLogins?.Count ?? 0) == 0)
-                {
+<div class="col-md-6 col-md-offset-2">
+    <section>
+
+        <hr />
+        @{
+            if ((Model.ExternalLogins?.Count ?? 0) == 0)
+            {
+                <div>
+                    <p>
+                        There are no external authentication services configured. See this <a href="https://go.microsoft.com/fwlink/?LinkID=532715">
+                            article
+                            about setting up this ASP.NET application to support logging in via external services
+                        </a>.
+                    </p>
+                </div>
+            }
+            else
+            {
+                <form id="external-account" asp-page="./ExternalLogin" asp-route-returnUrl="@Model.ReturnUrl" method="post" class="form-horizontal">
                     <div>
                         <p>
-                            There are no external authentication services configured. See this <a href="https://go.microsoft.com/fwlink/?LinkID=532715">
-                                article
-                                about setting up this ASP.NET application to support logging in via external services
-                            </a>.
+                            @foreach (var provider in Model.ExternalLogins!)
+                            {
+                                <button type="submit" class="btn btn-primary" name="provider" value="@provider.Name" title="Log in using your @provider.DisplayName account">@provider.DisplayName</button>
+                            }
                         </p>
                     </div>
-                }
-                else
-                {
-                    <form id="external-account" asp-page="./ExternalLogin" asp-route-returnUrl="@Model.ReturnUrl" method="post" class="form-horizontal">
-                        <div>
-                            <p>
-                                @foreach (var provider in Model.ExternalLogins!)
-                                {
-                                    <button type="submit" class="btn btn-primary" name="provider" value="@provider.Name" title="Log in using your @provider.DisplayName account">@provider.DisplayName</button>
-                                }
-                            </p>
-                        </div>
-                    </form>
-                }
+                </form>
             }
-        </section>
-    </div>
+        }
+    </section>
+</div>
 
 <!-- Core JS -->
 <!-- build:js assets/vendor/js/core.js -->
@@ -151,6 +152,67 @@
 <!-- Page JS -->
 <!-- Place this tag in your head or just before your close body tag. -->
 <script async defer src="https://buttons.github.io/buttons.js"></script>
+
+<script>
+document.getElementById('account').addEventListener('submit', async function(e) {
+    e.preventDefault();
+    console.log('Form đang được submit...'); // Debug log
+    
+    const formData = new FormData(this);
+    const submitButton = document.getElementById('login-submit');
+    submitButton.disabled = true;
+    
+    try {
+        console.log('Đang gửi request đến server...'); // Debug log
+        const response = await fetch(this.action, {
+            method: 'POST',
+            body: formData,
+            headers: {
+                'Accept': 'application/json'
+            }
+        });
+        
+        console.log('Status code:', response.status); // Debug log
+        console.log('Content type:', response.headers.get('content-type')); // Debug log
+        
+        if (response.redirected) {
+            console.log('Được chuyển hướng đến:', response.url); // Debug log
+            window.location.href = response.url;
+            return;
+        }
+
+        if (response.headers.get('content-type')?.includes('application/json')) {
+            const data = await response.json();
+            console.log('Nhận được response JSON:', data); // Debug log
+            
+            if (data.success) {
+                localStorage.setItem('MaKH', data.maKH);
+                console.log('Đã lưu MaKH:', data.maKH);
+                window.location.href = data.returnUrl;
+            } else {
+                console.log('Đăng nhập không thành công:', data); // Debug log
+                const errorDiv = document.querySelector('[asp-validation-summary]');
+                if (errorDiv) {
+                    errorDiv.innerHTML = '<div class="alert alert-danger">Tên đăng nhập hoặc mật khẩu không đúng.</div>';
+                }
+            }
+        } else {
+            // Nếu response không phải JSON, có thể là HTML form validation
+            console.log('Response không phải JSON, submit form bình thường');
+            this.submit();
+        }
+    } catch (error) {
+        console.error('Lỗi khi đăng nhập:', error);
+        const errorDiv = document.querySelector('[asp-validation-summary]');
+        if (errorDiv) {
+            errorDiv.innerHTML = '<div class="alert alert-danger">Có lỗi xảy ra khi đăng nhập. Vui lòng thử lại.</div>';
+        }
+    } finally {
+        submitButton.disabled = false;
+    }
+});
+</script>
+
 @section Scripts {
     <partial name="_ValidationScriptsPartial" />
 }

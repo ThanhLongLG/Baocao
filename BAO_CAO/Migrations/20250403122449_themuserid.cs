@@ -6,7 +6,7 @@ using Microsoft.EntityFrameworkCore.Migrations;
 namespace BAO_CAO.Migrations
 {
     /// <inheritdoc />
-    public partial class adddentity : Migration
+    public partial class themuserid : Migration
     {
         /// <inheritdoc />
         protected override void Up(MigrationBuilder migrationBuilder)
@@ -30,6 +30,9 @@ namespace BAO_CAO.Migrations
                 columns: table => new
                 {
                     Id = table.Column<string>(type: "nvarchar(450)", nullable: false),
+                    Fullname = table.Column<string>(type: "nvarchar(max)", nullable: false),
+                    Address = table.Column<string>(type: "nvarchar(max)", nullable: true),
+                    Age = table.Column<string>(type: "nvarchar(max)", nullable: true),
                     UserName = table.Column<string>(type: "nvarchar(256)", maxLength: 256, nullable: true),
                     NormalizedUserName = table.Column<string>(type: "nvarchar(256)", maxLength: 256, nullable: true),
                     Email = table.Column<string>(type: "nvarchar(256)", maxLength: 256, nullable: true),
@@ -48,6 +51,58 @@ namespace BAO_CAO.Migrations
                 constraints: table =>
                 {
                     table.PrimaryKey("PK_AspNetUsers", x => x.Id);
+                });
+
+            migrationBuilder.CreateTable(
+                name: "KhachHang",
+                columns: table => new
+                {
+                    MaKH = table.Column<string>(type: "nvarchar(450)", nullable: false),
+                    TenKh = table.Column<string>(type: "nvarchar(100)", maxLength: 100, nullable: false),
+                    DiaChi = table.Column<string>(type: "nvarchar(100)", maxLength: 100, nullable: false),
+                    SDT = table.Column<string>(type: "nvarchar(max)", nullable: false),
+                    email = table.Column<string>(type: "nvarchar(max)", nullable: false),
+                    danhgia = table.Column<string>(type: "nvarchar(max)", nullable: true),
+                    UserId = table.Column<string>(type: "nvarchar(max)", nullable: false)
+                },
+                constraints: table =>
+                {
+                    table.PrimaryKey("PK_KhachHang", x => x.MaKH);
+                });
+
+            migrationBuilder.CreateTable(
+                name: "Nhanvien",
+                columns: table => new
+                {
+                    MaNV = table.Column<int>(type: "int", nullable: false)
+                        .Annotation("SqlServer:Identity", "1, 1"),
+                    TenNV = table.Column<string>(type: "nvarchar(100)", maxLength: 100, nullable: false),
+                    DiaChi = table.Column<string>(type: "nvarchar(100)", maxLength: 100, nullable: false),
+                    ChucVu = table.Column<string>(type: "nvarchar(max)", nullable: false),
+                    hesoluong = table.Column<float>(type: "real", nullable: false)
+                },
+                constraints: table =>
+                {
+                    table.PrimaryKey("PK_Nhanvien", x => x.MaNV);
+                });
+
+            migrationBuilder.CreateTable(
+                name: "Phong",
+                columns: table => new
+                {
+                    Maphong = table.Column<int>(type: "int", nullable: false)
+                        .Annotation("SqlServer:Identity", "1, 1"),
+                    sophong = table.Column<string>(type: "nvarchar(100)", maxLength: 100, nullable: false),
+                    Name = table.Column<string>(type: "nvarchar(100)", maxLength: 100, nullable: false),
+                    gia = table.Column<decimal>(type: "decimal(18,2)", nullable: false),
+                    sogiuong = table.Column<string>(type: "nvarchar(max)", nullable: false),
+                    dientich = table.Column<int>(type: "int", nullable: false),
+                    ImageUrl = table.Column<string>(type: "nvarchar(max)", nullable: true),
+                    ImageUrls = table.Column<string>(type: "nvarchar(max)", nullable: true)
+                },
+                constraints: table =>
+                {
+                    table.PrimaryKey("PK_Phong", x => x.Maphong);
                 });
 
             migrationBuilder.CreateTable(
@@ -156,6 +211,70 @@ namespace BAO_CAO.Migrations
                         onDelete: ReferentialAction.Cascade);
                 });
 
+            migrationBuilder.CreateTable(
+                name: "HopDongThue",
+                columns: table => new
+                {
+                    MaHopDong = table.Column<int>(type: "int", nullable: false)
+                        .Annotation("SqlServer:Identity", "1, 1"),
+                    Tongtien = table.Column<float>(type: "real", nullable: false),
+                    ngaythanhtoan = table.Column<DateTime>(type: "datetime2", nullable: false),
+                    MaNV = table.Column<int>(type: "int", nullable: false),
+                    MaKH = table.Column<string>(type: "nvarchar(450)", nullable: false),
+                    Maphong = table.Column<int>(type: "int", nullable: false)
+                },
+                constraints: table =>
+                {
+                    table.PrimaryKey("PK_HopDongThue", x => x.MaHopDong);
+                    table.ForeignKey(
+                        name: "FK_HopDongThue_KhachHang_MaKH",
+                        column: x => x.MaKH,
+                        principalTable: "KhachHang",
+                        principalColumn: "MaKH",
+                        onDelete: ReferentialAction.Cascade);
+                    table.ForeignKey(
+                        name: "FK_HopDongThue_Nhanvien_MaNV",
+                        column: x => x.MaNV,
+                        principalTable: "Nhanvien",
+                        principalColumn: "MaNV",
+                        onDelete: ReferentialAction.Cascade);
+                    table.ForeignKey(
+                        name: "FK_HopDongThue_Phong_Maphong",
+                        column: x => x.Maphong,
+                        principalTable: "Phong",
+                        principalColumn: "Maphong",
+                        onDelete: ReferentialAction.Cascade);
+                });
+
+            migrationBuilder.CreateTable(
+                name: "PayCheck",
+                columns: table => new
+                {
+                    Id = table.Column<int>(type: "int", nullable: false)
+                        .Annotation("SqlServer:Identity", "1, 1"),
+                    BookingDate = table.Column<DateTime>(type: "datetime2", nullable: false),
+                    Status = table.Column<string>(type: "nvarchar(20)", maxLength: 20, nullable: false),
+                    Maphong = table.Column<int>(type: "int", nullable: false),
+                    PhongMaphong = table.Column<int>(type: "int", nullable: false),
+                    MaKH = table.Column<string>(type: "nvarchar(max)", nullable: false),
+                    KhachHangMaKH = table.Column<string>(type: "nvarchar(450)", nullable: true)
+                },
+                constraints: table =>
+                {
+                    table.PrimaryKey("PK_PayCheck", x => x.Id);
+                    table.ForeignKey(
+                        name: "FK_PayCheck_KhachHang_KhachHangMaKH",
+                        column: x => x.KhachHangMaKH,
+                        principalTable: "KhachHang",
+                        principalColumn: "MaKH");
+                    table.ForeignKey(
+                        name: "FK_PayCheck_Phong_PhongMaphong",
+                        column: x => x.PhongMaphong,
+                        principalTable: "Phong",
+                        principalColumn: "Maphong",
+                        onDelete: ReferentialAction.Cascade);
+                });
+
             migrationBuilder.CreateIndex(
                 name: "IX_AspNetRoleClaims_RoleId",
                 table: "AspNetRoleClaims",
@@ -194,6 +313,31 @@ namespace BAO_CAO.Migrations
                 column: "NormalizedUserName",
                 unique: true,
                 filter: "[NormalizedUserName] IS NOT NULL");
+
+            migrationBuilder.CreateIndex(
+                name: "IX_HopDongThue_MaKH",
+                table: "HopDongThue",
+                column: "MaKH");
+
+            migrationBuilder.CreateIndex(
+                name: "IX_HopDongThue_MaNV",
+                table: "HopDongThue",
+                column: "MaNV");
+
+            migrationBuilder.CreateIndex(
+                name: "IX_HopDongThue_Maphong",
+                table: "HopDongThue",
+                column: "Maphong");
+
+            migrationBuilder.CreateIndex(
+                name: "IX_PayCheck_KhachHangMaKH",
+                table: "PayCheck",
+                column: "KhachHangMaKH");
+
+            migrationBuilder.CreateIndex(
+                name: "IX_PayCheck_PhongMaphong",
+                table: "PayCheck",
+                column: "PhongMaphong");
         }
 
         /// <inheritdoc />
@@ -215,10 +359,25 @@ namespace BAO_CAO.Migrations
                 name: "AspNetUserTokens");
 
             migrationBuilder.DropTable(
+                name: "HopDongThue");
+
+            migrationBuilder.DropTable(
+                name: "PayCheck");
+
+            migrationBuilder.DropTable(
                 name: "AspNetRoles");
 
             migrationBuilder.DropTable(
                 name: "AspNetUsers");
+
+            migrationBuilder.DropTable(
+                name: "Nhanvien");
+
+            migrationBuilder.DropTable(
+                name: "KhachHang");
+
+            migrationBuilder.DropTable(
+                name: "Phong");
         }
     }
 }

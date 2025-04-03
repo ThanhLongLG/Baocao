@@ -59,6 +59,20 @@
                             <span asp-validation-for="Input.Email" class="text-danger"></span>
                         </div>
 
+                        <!-- Phone Number -->
+                        <div class="mb-3">
+                            <label asp-for="Input.PhoneNumber" class="form-label">Số điện thoại</label>
+                            <input asp-for="Input.PhoneNumber" class="form-control" aria-required="true" placeholder="Nhập số điện thoại" />
+                            <span asp-validation-for="Input.PhoneNumber" class="text-danger"></span>
+                        </div>
+
+                        <!-- Address -->
+                        <div class="mb-3">
+                            <label asp-for="Input.Address" class="form-label">Địa chỉ</label>
+                            <input asp-for="Input.Address" class="form-control" aria-required="true" placeholder="Nhập địa chỉ" />
+                            <span asp-validation-for="Input.Address" class="text-danger"></span>
+                        </div>
+
                         <!-- Password -->
                         <div class="mb-3 form-password-toggle">
                             <label class="form-label" for="password">Password</label>

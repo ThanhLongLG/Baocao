@@ -16,7 +16,7 @@ namespace BAO_CAO.Models
         public Nhanvien Nhanvien { get; set; }
 
         [ForeignKey("MaKH")]
-        public int MaKH { get; set; }
+        public string MaKH { get; set; }
         public KhachHang KhachHang { get; set; }
         [ForeignKey("Maphong")]
         public int Maphong { get; set; }

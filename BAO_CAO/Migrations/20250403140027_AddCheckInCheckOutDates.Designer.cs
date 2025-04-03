@@ -12,8 +12,8 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace BAO_CAO.Migrations
 {
     [DbContext(typeof(Baocaodbcontext))]
-    [Migration("20250403095904_themaplication")]
-    partial class themaplication
+    [Migration("20250403140027_AddCheckInCheckOutDates")]
+    partial class AddCheckInCheckOutDates
     {
         /// <inheritdoc />
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
@@ -108,8 +108,9 @@ namespace BAO_CAO.Migrations
 
                     SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("MaHopDong"));
 
-                    b.Property<int>("MaKH")
-                        .HasColumnType("int");
+                    b.Property<string>("MaKH")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(450)");
 
                     b.Property<int>("MaNV")
                         .HasColumnType("int");
@@ -136,11 +137,8 @@ namespace BAO_CAO.Migrations
 
             modelBuilder.Entity("BAO_CAO.Models.KhachHang", b =>
                 {
-                    b.Property<int>("MaKH")
-                        .ValueGeneratedOnAdd()
-                        .HasColumnType("int");
-
-                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("MaKH"));
+                    b.Property<string>("MaKH")
+                        .HasColumnType("nvarchar(450)");
 
                     b.Property<string>("DiaChi")
                         .IsRequired()
@@ -155,6 +153,10 @@ namespace BAO_CAO.Migrations
                         .IsRequired()
                         .HasMaxLength(100)
                         .HasColumnType("nvarchar(100)");
+
+                    b.Property<string>("UserId")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
 
                     b.Property<string>("danhgia")
                         .HasColumnType("nvarchar(max)");
@@ -209,8 +211,14 @@ namespace BAO_CAO.Migrations
                     b.Property<DateTime>("BookingDate")
                         .HasColumnType("datetime2");
 
-                    b.Property<int>("KhachHangMaKH")
-                        .HasColumnType("int");
+                    b.Property<DateTime>("CheckInDate")
+                        .HasColumnType("datetime2");
+
+                    b.Property<DateTime>("CheckOutDate")
+                        .HasColumnType("datetime2");
+
+                    b.Property<string>("KhachHangMaKH")
+                        .HasColumnType("nvarchar(450)");
 
                     b.Property<string>("MaKH")
                         .IsRequired()
@@ -219,7 +227,7 @@ namespace BAO_CAO.Migrations
                     b.Property<int>("Maphong")
                         .HasColumnType("int");
 
-                    b.Property<int>("PhongMaphong")
+                    b.Property<int?>("PhongMaphong")
                         .HasColumnType("int");
 
                     b.Property<string>("Status")
@@ -439,15 +447,11 @@ namespace BAO_CAO.Migrations
                 {
                     b.HasOne("BAO_CAO.Models.KhachHang", "KhachHang")
                         .WithMany()
-                        .HasForeignKey("KhachHangMaKH")
-                        .OnDelete(DeleteBehavior.Cascade)
-                        .IsRequired();
+                        .HasForeignKey("KhachHangMaKH");
 
                     b.HasOne("BAO_CAO.Models.Phong", "Phong")
                         .WithMany()
-                        .HasForeignKey("PhongMaphong")
-                        .OnDelete(DeleteBehavior.Cascade)
-                        .IsRequired();
+                        .HasForeignKey("PhongMaphong");
 
                     b.Navigation("KhachHang");
 

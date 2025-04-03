@@ -22,37 +22,39 @@ using Microsoft.AspNetCore.Mvc.RazorPages;
 using Microsoft.AspNetCore.Mvc.Rendering;
 using Microsoft.AspNetCore.WebUtilities;
 using Microsoft.Extensions.Logging;
-
+using Microsoft.EntityFrameworkCore;
 
 namespace BAO_CAO.Areas.Identity.Pages.Account
 {
     public class RegisterModel : PageModel
     {
-        public readonly RoleManager<IdentityRole> _roleManager;
-        private readonly SignInManager<IdentityUser> _signInManager;
-        private readonly UserManager<IdentityUser> _userManager;
-        private readonly IUserStore<IdentityUser> _userStore;
-        private readonly IUserEmailStore<IdentityUser> _emailStore;
+        private readonly RoleManager<IdentityRole> _roleManager;
+        private readonly SignInManager<ApplicationUser> _signInManager;
+        private readonly UserManager<ApplicationUser> _userManager;
+        private readonly IUserStore<ApplicationUser> _userStore;
+        private readonly IUserEmailStore<ApplicationUser> _emailStore;
         private readonly ILogger<RegisterModel> _logger;
         private readonly IEmailSender _emailSender;
+        private readonly Baocaodbcontext _context;
 
         public RegisterModel(
             RoleManager<IdentityRole> roleManager,
-            UserManager<IdentityUser> userManager,
-            IUserStore<IdentityUser> userStore,
-            SignInManager<IdentityUser> signInManager,
+            UserManager<ApplicationUser> userManager,
+            IUserStore<ApplicationUser> userStore,
+            SignInManager<ApplicationUser> signInManager,
             ILogger<RegisterModel> logger,
-            IEmailSender emailSender)
+            IEmailSender emailSender,
+            Baocaodbcontext context)
         {
             _roleManager = roleManager;
             _userManager = userManager;
             _userStore = userStore;
-            _emailStore = GetEmailStore();
             _signInManager = signInManager;
             _logger = logger;
             _emailSender = emailSender;
+            _emailStore = GetEmailStore();
+            _context = context;
         }
-
         /// <summary>
         ///     This API supports the ASP.NET Core Identity default UI infrastructure and is not intended to be used
         ///     directly from your code. This API may change or be removed in future releases.
@@ -106,6 +108,18 @@ namespace BAO_CAO.Areas.Identity.Pages.Account
             [Display(Name = "Confirm password")]
             [Compare("Password", ErrorMessage = "The password and confirmation password do not match.")]
             public string ConfirmPassword { get; set; }
+
+            [Required]
+            [Display(Name = "Số điện thoại")]
+            [Phone]
+            [StringLength(15, ErrorMessage = "Số điện thoại không hợp lệ")]
+            public string PhoneNumber { get; set; }
+
+            [Required]
+            [Display(Name = "Địa chỉ")]
+            [StringLength(100, ErrorMessage = "Địa chỉ không được quá 100 ký tự")]
+            public string Address { get; set; }
+
             public string? Role { get; set; }
             [ValidateNever]
             public IEnumerable<SelectListItem> RoleList { get; set; }
@@ -119,7 +133,7 @@ namespace BAO_CAO.Areas.Identity.Pages.Account
                 _roleManager.CreateAsync(new IdentityRole(SD.Role_Customer)).GetAwaiter().GetResult();
                 _roleManager.CreateAsync(new IdentityRole(SD.Role_Admin)).GetAwaiter().GetResult();
                 _roleManager.CreateAsync(new IdentityRole(SD.Role_Employee)).GetAwaiter().GetResult();
-              
+
             }
             Input = new()
             {
@@ -141,6 +155,7 @@ namespace BAO_CAO.Areas.Identity.Pages.Account
             {
                 var user = CreateUser();
                 user.Fullname = Input.FullName;
+                user.PhoneNumber = Input.PhoneNumber;
                 await _userStore.SetUserNameAsync(user, Input.Email, CancellationToken.None);
                 await _emailStore.SetEmailAsync(user, Input.Email, CancellationToken.None);
                 var result = await _userManager.CreateAsync(user, Input.Password);
@@ -148,6 +163,27 @@ namespace BAO_CAO.Areas.Identity.Pages.Account
                 if (result.Succeeded)
                 {
                     _logger.LogInformation("User created a new account with password.");
+                    
+                    // Tạo mã khách hàng duy nhất
+                    string maKH;
+                    do
+                    {
+                        maKH = "KH" + DateTime.Now.ToString("yyyyMMddHHmmss") + "_" + Guid.NewGuid().ToString().Substring(0, 4);
+                    } while (await _context.KhachHang.AnyAsync(k => k.MaKH == maKH));
+
+                    // Tạo bản ghi KhachHang mới
+                    var khachHang = new KhachHang
+                    {
+                        MaKH = maKH,
+                        UserId = user.Id,
+                        TenKh = user.UserName,
+                        email = user.Email,
+                        SDT = Input.PhoneNumber,
+                        DiaChi = Input.Address
+                    };
+                    _context.KhachHang.Add(khachHang);
+                    await _context.SaveChangesAsync();
+
                     if (!string.IsNullOrEmpty(Input.Role))
                     {
                         await _userManager.AddToRoleAsync(user, Input.Role);
@@ -197,19 +233,19 @@ namespace BAO_CAO.Areas.Identity.Pages.Account
             }
             catch
             {
-                throw new InvalidOperationException($"Can't create an instance of '{nameof(IdentityUser)}'. " +
-                    $"Ensure that '{nameof(IdentityUser)}' is not an abstract class and has a parameterless constructor, or alternatively " +
+                throw new InvalidOperationException($"Can't create an instance of '{nameof(ApplicationUser)}'. " +
+                    $"Ensure that '{nameof(ApplicationUser)}' is not an abstract class and has a parameterless constructor, or alternatively " +
                     $"override the register page in /Areas/Identity/Pages/Account/Register.cshtml");
             }
         }
 
-        private IUserEmailStore<IdentityUser> GetEmailStore()
+        private IUserEmailStore<ApplicationUser> GetEmailStore()
         {
             if (!_userManager.SupportsUserEmail)
             {
                 throw new NotSupportedException("The default UI requires a user store with email support.");
             }
-            return (IUserEmailStore<IdentityUser>)_userStore;
+            return (IUserEmailStore<ApplicationUser>)_userStore;
         }
     }
 }

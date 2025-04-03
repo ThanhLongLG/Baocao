@@ -312,10 +312,11 @@ D:\HOC\BAO_CAO_LAPTRINHWEB\BAO_CAO\BAO_CAO\obj\Debug\net8.0\staticwebassets\msbu
 D:\HOC\BAO_CAO_LAPTRINHWEB\BAO_CAO\BAO_CAO\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.BAO_CAO.props
 D:\HOC\BAO_CAO_LAPTRINHWEB\BAO_CAO\BAO_CAO\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.BAO_CAO.props
 D:\HOC\BAO_CAO_LAPTRINHWEB\BAO_CAO\BAO_CAO\obj\Debug\net8.0\staticwebassets.pack.json
-D:\HOC\BAO_CAO_LAPTRINHWEB\BAO_CAO\BAO_CAO\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
 D:\HOC\BAO_CAO_LAPTRINHWEB\BAO_CAO\BAO_CAO\obj\Debug\net8.0\BAO_CAO.csproj.Up2Date
 D:\HOC\BAO_CAO_LAPTRINHWEB\BAO_CAO\BAO_CAO\obj\Debug\net8.0\BAO_CAO.dll
 D:\HOC\BAO_CAO_LAPTRINHWEB\BAO_CAO\BAO_CAO\obj\Debug\net8.0\refint\BAO_CAO.dll
 D:\HOC\BAO_CAO_LAPTRINHWEB\BAO_CAO\BAO_CAO\obj\Debug\net8.0\BAO_CAO.pdb
 D:\HOC\BAO_CAO_LAPTRINHWEB\BAO_CAO\BAO_CAO\obj\Debug\net8.0\BAO_CAO.genruntimeconfig.cache
 D:\HOC\BAO_CAO_LAPTRINHWEB\BAO_CAO\BAO_CAO\obj\Debug\net8.0\ref\BAO_CAO.dll
+D:\HOC\BAO_CAO_LAPTRINHWEB\BAO_CAO\BAO_CAO\obj\Debug\net8.0\BAO_CAO.sourcelink.json
+D:\HOC\BAO_CAO_LAPTRINHWEB\BAO_CAO\BAO_CAO\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt

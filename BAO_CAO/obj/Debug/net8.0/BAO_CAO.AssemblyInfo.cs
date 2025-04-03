@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BAO_CAO")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f2eed9281dde5bb76b2b6b1319a2a39c93df0786")]
 [assembly: System.Reflection.AssemblyProductAttribute("BAO_CAO")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BAO_CAO")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

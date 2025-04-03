@@ -3,88 +3,168 @@
   "WorkspaceRootPath": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C86884A0-A6BB-4722-BA75-AAB7AFAFE139}|BAO_CAO\\BAO_CAO.csproj|d:\\hoc\\bao_cao_laptrinhweb\\bao_cao\\bao_cao\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C86884A0-A6BB-4722-BA75-AAB7AFAFE139}|BAO_CAO\\BAO_CAO.csproj|solutionrelative:bao_cao\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C86884A0-A6BB-4722-BA75-AAB7AFAFE139}|BAO_CAO\\BAO_CAO.csproj|d:\\hoc\\bao_cao_laptrinhweb\\bao_cao\\bao_cao\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C86884A0-A6BB-4722-BA75-AAB7AFAFE139}|BAO_CAO\\BAO_CAO.csproj|solutionrelative:bao_cao\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C86884A0-A6BB-4722-BA75-AAB7AFAFE139}|BAO_CAO\\BAO_CAO.csproj|d:\\hoc\\bao_cao_laptrinhweb\\bao_cao\\bao_cao\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C86884A0-A6BB-4722-BA75-AAB7AFAFE139}|BAO_CAO\\BAO_CAO.csproj|solutionrelative:bao_cao\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C86884A0-A6BB-4722-BA75-AAB7AFAFE139}|BAO_CAO\\BAO_CAO.csproj|d:\\hoc\\bao_cao_laptrinhweb\\bao_cao\\bao_cao\\models\\baocaodbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C86884A0-A6BB-4722-BA75-AAB7AFAFE139}|BAO_CAO\\BAO_CAO.csproj|solutionrelative:bao_cao\\models\\baocaodbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C86884A0-A6BB-4722-BA75-AAB7AFAFE139}|BAO_CAO\\BAO_CAO.csproj|d:\\hoc\\bao_cao_laptrinhweb\\bao_cao\\bao_cao\\views\\shared\\_loginpartial_phan1.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C86884A0-A6BB-4722-BA75-AAB7AFAFE139}|BAO_CAO\\BAO_CAO.csproj|solutionrelative:bao_cao\\views\\shared\\_loginpartial_phan1.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C86884A0-A6BB-4722-BA75-AAB7AFAFE139}|BAO_CAO\\BAO_CAO.csproj|d:\\hoc\\bao_cao_laptrinhweb\\bao_cao\\bao_cao\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C86884A0-A6BB-4722-BA75-AAB7AFAFE139}|BAO_CAO\\BAO_CAO.csproj|solutionrelative:bao_cao\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C86884A0-A6BB-4722-BA75-AAB7AFAFE139}|BAO_CAO\\BAO_CAO.csproj|d:\\hoc\\bao_cao_laptrinhweb\\bao_cao\\bao_cao\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C86884A0-A6BB-4722-BA75-AAB7AFAFE139}|BAO_CAO\\BAO_CAO.csproj|solutionrelative:bao_cao\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{C86884A0-A6BB-4722-BA75-AAB7AFAFE139}|BAO_CAO\\BAO_CAO.csproj|d:\\hoc\\bao_cao_laptrinhweb\\bao_cao\\bao_cao\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C86884A0-A6BB-4722-BA75-AAB7AFAFE139}|BAO_CAO\\BAO_CAO.csproj|solutionrelative:bao_cao\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C86884A0-A6BB-4722-BA75-AAB7AFAFE139}|BAO_CAO\\BAO_CAO.csproj|d:\\hoc\\bao_cao_laptrinhweb\\bao_cao\\bao_cao\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C86884A0-A6BB-4722-BA75-AAB7AFAFE139}|BAO_CAO\\BAO_CAO.csproj|solutionrelative:bao_cao\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C86884A0-A6BB-4722-BA75-AAB7AFAFE139}|BAO_CAO\\BAO_CAO.csproj|d:\\hoc\\bao_cao_laptrinhweb\\bao_cao\\bao_cao\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C86884A0-A6BB-4722-BA75-AAB7AFAFE139}|BAO_CAO\\BAO_CAO.csproj|solutionrelative:bao_cao\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C86884A0-A6BB-4722-BA75-AAB7AFAFE139}|BAO_CAO\\BAO_CAO.csproj|d:\\hoc\\bao_cao_laptrinhweb\\bao_cao\\bao_cao\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C86884A0-A6BB-4722-BA75-AAB7AFAFE139}|BAO_CAO\\BAO_CAO.csproj|solutionrelative:bao_cao\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C86884A0-A6BB-4722-BA75-AAB7AFAFE139}|BAO_CAO\\BAO_CAO.csproj|d:\\hoc\\bao_cao_laptrinhweb\\bao_cao\\bao_cao\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C86884A0-A6BB-4722-BA75-AAB7AFAFE139}|BAO_CAO\\BAO_CAO.csproj|solutionrelative:bao_cao\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C86884A0-A6BB-4722-BA75-AAB7AFAFE139}|BAO_CAO\\BAO_CAO.csproj|d:\\hoc\\bao_cao_laptrinhweb\\bao_cao\\bao_cao\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{C86884A0-A6BB-4722-BA75-AAB7AFAFE139}|BAO_CAO\\BAO_CAO.csproj|solutionrelative:bao_cao\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C86884A0-A6BB-4722-BA75-AAB7AFAFE139}|BAO_CAO\\BAO_CAO.csproj|d:\\hoc\\bao_cao_laptrinhweb\\bao_cao\\bao_cao\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{C86884A0-A6BB-4722-BA75-AAB7AFAFE139}|BAO_CAO\\BAO_CAO.csproj|solutionrelative:bao_cao\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+      "AbsoluteMoniker": "D:0:0:{C86884A0-A6BB-4722-BA75-AAB7AFAFE139}|BAO_CAO\\BAO_CAO.csproj|d:\\hoc\\bao_cao_laptrinhweb\\bao_cao\\bao_cao\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C86884A0-A6BB-4722-BA75-AAB7AFAFE139}|BAO_CAO\\BAO_CAO.csproj|solutionrelative:bao_cao\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C86884A0-A6BB-4722-BA75-AAB7AFAFE139}|BAO_CAO\\BAO_CAO.csproj|d:\\hoc\\bao_cao_laptrinhweb\\bao_cao\\bao_cao\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{C86884A0-A6BB-4722-BA75-AAB7AFAFE139}|BAO_CAO\\BAO_CAO.csproj|solutionrelative:bao_cao\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\Migrations\\20250403095904_themaplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BAO_CAO\\Migrations\\20250403095904_themaplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C86884A0-A6BB-4722-BA75-AAB7AFAFE139}|BAO_CAO\\BAO_CAO.csproj|d:\\hoc\\bao_cao_laptrinhweb\\bao_cao\\bao_cao\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C86884A0-A6BB-4722-BA75-AAB7AFAFE139}|BAO_CAO\\BAO_CAO.csproj|solutionrelative:bao_cao\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C86884A0-A6BB-4722-BA75-AAB7AFAFE139}|BAO_CAO\\BAO_CAO.csproj|d:\\hoc\\bao_cao_laptrinhweb\\bao_cao\\bao_cao\\controllers\\bookingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C86884A0-A6BB-4722-BA75-AAB7AFAFE139}|BAO_CAO\\BAO_CAO.csproj|solutionrelative:bao_cao\\controllers\\bookingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C86884A0-A6BB-4722-BA75-AAB7AFAFE139}|BAO_CAO\\BAO_CAO.csproj|d:\\hoc\\bao_cao_laptrinhweb\\bao_cao\\bao_cao\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C86884A0-A6BB-4722-BA75-AAB7AFAFE139}|BAO_CAO\\BAO_CAO.csproj|solutionrelative:bao_cao\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C86884A0-A6BB-4722-BA75-AAB7AFAFE139}|BAO_CAO\\BAO_CAO.csproj|d:\\hoc\\bao_cao_laptrinhweb\\bao_cao\\bao_cao\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C86884A0-A6BB-4722-BA75-AAB7AFAFE139}|BAO_CAO\\BAO_CAO.csproj|solutionrelative:bao_cao\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C86884A0-A6BB-4722-BA75-AAB7AFAFE139}|BAO_CAO\\BAO_CAO.csproj|d:\\hoc\\bao_cao_laptrinhweb\\bao_cao\\bao_cao\\views\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{C86884A0-A6BB-4722-BA75-AAB7AFAFE139}|BAO_CAO\\BAO_CAO.csproj|solutionrelative:bao_cao\\views\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C86884A0-A6BB-4722-BA75-AAB7AFAFE139}|BAO_CAO\\BAO_CAO.csproj|d:\\hoc\\bao_cao_laptrinhweb\\bao_cao\\bao_cao\\models\\paycheck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C86884A0-A6BB-4722-BA75-AAB7AFAFE139}|BAO_CAO\\BAO_CAO.csproj|solutionrelative:bao_cao\\models\\paycheck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C86884A0-A6BB-4722-BA75-AAB7AFAFE139}|BAO_CAO\\BAO_CAO.csproj|d:\\hoc\\bao_cao_laptrinhweb\\bao_cao\\bao_cao\\models\\phong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C86884A0-A6BB-4722-BA75-AAB7AFAFE139}|BAO_CAO\\BAO_CAO.csproj|solutionrelative:bao_cao\\models\\phong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C86884A0-A6BB-4722-BA75-AAB7AFAFE139}|BAO_CAO\\BAO_CAO.csproj|d:\\hoc\\bao_cao_laptrinhweb\\bao_cao\\bao_cao\\models\\khachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C86884A0-A6BB-4722-BA75-AAB7AFAFE139}|BAO_CAO\\BAO_CAO.csproj|solutionrelative:bao_cao\\models\\khachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C86884A0-A6BB-4722-BA75-AAB7AFAFE139}|BAO_CAO\\BAO_CAO.csproj|d:\\hoc\\bao_cao_laptrinhweb\\bao_cao\\bao_cao\\models\\hopdongthue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C86884A0-A6BB-4722-BA75-AAB7AFAFE139}|BAO_CAO\\BAO_CAO.csproj|solutionrelative:bao_cao\\models\\hopdongthue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C86884A0-A6BB-4722-BA75-AAB7AFAFE139}|BAO_CAO\\BAO_CAO.csproj|d:\\hoc\\bao_cao_laptrinhweb\\bao_cao\\bao_cao\\models\\nhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C86884A0-A6BB-4722-BA75-AAB7AFAFE139}|BAO_CAO\\BAO_CAO.csproj|solutionrelative:bao_cao\\models\\nhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C86884A0-A6BB-4722-BA75-AAB7AFAFE139}|BAO_CAO\\BAO_CAO.csproj|d:\\hoc\\bao_cao_laptrinhweb\\bao_cao\\bao_cao\\reponsitory\\efhopdongreponsitory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C86884A0-A6BB-4722-BA75-AAB7AFAFE139}|BAO_CAO\\BAO_CAO.csproj|solutionrelative:bao_cao\\reponsitory\\efhopdongreponsitory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C86884A0-A6BB-4722-BA75-AAB7AFAFE139}|BAO_CAO\\BAO_CAO.csproj|d:\\hoc\\bao_cao_laptrinhweb\\bao_cao\\bao_cao\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{C86884A0-A6BB-4722-BA75-AAB7AFAFE139}|BAO_CAO\\BAO_CAO.csproj|solutionrelative:bao_cao\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C86884A0-A6BB-4722-BA75-AAB7AFAFE139}|BAO_CAO\\BAO_CAO.csproj|d:\\hoc\\bao_cao_laptrinhweb\\bao_cao\\bao_cao\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C86884A0-A6BB-4722-BA75-AAB7AFAFE139}|BAO_CAO\\BAO_CAO.csproj|solutionrelative:bao_cao\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{C86884A0-A6BB-4722-BA75-AAB7AFAFE139}|BAO_CAO\\BAO_CAO.csproj|d:\\hoc\\bao_cao_laptrinhweb\\bao_cao\\bao_cao\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C86884A0-A6BB-4722-BA75-AAB7AFAFE139}|BAO_CAO\\BAO_CAO.csproj|solutionrelative:bao_cao\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C86884A0-A6BB-4722-BA75-AAB7AFAFE139}|BAO_CAO\\BAO_CAO.csproj|d:\\hoc\\bao_cao_laptrinhweb\\bao_cao\\bao_cao\\areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C86884A0-A6BB-4722-BA75-AAB7AFAFE139}|BAO_CAO\\BAO_CAO.csproj|solutionrelative:bao_cao\\areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C86884A0-A6BB-4722-BA75-AAB7AFAFE139}|BAO_CAO\\BAO_CAO.csproj|d:\\hoc\\bao_cao_laptrinhweb\\bao_cao\\bao_cao\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C86884A0-A6BB-4722-BA75-AAB7AFAFE139}|BAO_CAO\\BAO_CAO.csproj|solutionrelative:bao_cao\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C86884A0-A6BB-4722-BA75-AAB7AFAFE139}|BAO_CAO\\BAO_CAO.csproj|d:\\hoc\\bao_cao_laptrinhweb\\bao_cao\\bao_cao\\areas\\identity\\pages\\account\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C86884A0-A6BB-4722-BA75-AAB7AFAFE139}|BAO_CAO\\BAO_CAO.csproj|solutionrelative:bao_cao\\areas\\identity\\pages\\account\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C86884A0-A6BB-4722-BA75-AAB7AFAFE139}|BAO_CAO\\BAO_CAO.csproj|d:\\hoc\\bao_cao_laptrinhweb\\bao_cao\\bao_cao\\models\\paycheck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C86884A0-A6BB-4722-BA75-AAB7AFAFE139}|BAO_CAO\\BAO_CAO.csproj|solutionrelative:bao_cao\\models\\paycheck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\Migrations\\20250403135906_themuserid1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BAO_CAO\\Migrations\\20250403135906_themuserid1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C86884A0-A6BB-4722-BA75-AAB7AFAFE139}|BAO_CAO\\BAO_CAO.csproj|d:\\hoc\\bao_cao_laptrinhweb\\bao_cao\\bao_cao\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C86884A0-A6BB-4722-BA75-AAB7AFAFE139}|BAO_CAO\\BAO_CAO.csproj|solutionrelative:bao_cao\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C86884A0-A6BB-4722-BA75-AAB7AFAFE139}|BAO_CAO\\BAO_CAO.csproj|d:\\hoc\\bao_cao_laptrinhweb\\bao_cao\\bao_cao\\controllers\\bookingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C86884A0-A6BB-4722-BA75-AAB7AFAFE139}|BAO_CAO\\BAO_CAO.csproj|solutionrelative:bao_cao\\controllers\\bookingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C86884A0-A6BB-4722-BA75-AAB7AFAFE139}|BAO_CAO\\BAO_CAO.csproj|d:\\hoc\\bao_cao_laptrinhweb\\bao_cao\\bao_cao\\models\\nhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C86884A0-A6BB-4722-BA75-AAB7AFAFE139}|BAO_CAO\\BAO_CAO.csproj|solutionrelative:bao_cao\\models\\nhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C86884A0-A6BB-4722-BA75-AAB7AFAFE139}|BAO_CAO\\BAO_CAO.csproj|d:\\hoc\\bao_cao_laptrinhweb\\bao_cao\\bao_cao\\models\\phong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C86884A0-A6BB-4722-BA75-AAB7AFAFE139}|BAO_CAO\\BAO_CAO.csproj|solutionrelative:bao_cao\\models\\phong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C86884A0-A6BB-4722-BA75-AAB7AFAFE139}|BAO_CAO\\BAO_CAO.csproj|d:\\hoc\\bao_cao_laptrinhweb\\bao_cao\\bao_cao\\reponsitory\\efphongreponsitory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C86884A0-A6BB-4722-BA75-AAB7AFAFE139}|BAO_CAO\\BAO_CAO.csproj|solutionrelative:bao_cao\\reponsitory\\efphongreponsitory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C86884A0-A6BB-4722-BA75-AAB7AFAFE139}|BAO_CAO\\BAO_CAO.csproj|d:\\hoc\\bao_cao_laptrinhweb\\bao_cao\\bao_cao\\reponsitory\\iphongreponsitory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C86884A0-A6BB-4722-BA75-AAB7AFAFE139}|BAO_CAO\\BAO_CAO.csproj|solutionrelative:bao_cao\\reponsitory\\iphongreponsitory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C86884A0-A6BB-4722-BA75-AAB7AFAFE139}|BAO_CAO\\BAO_CAO.csproj|d:\\hoc\\bao_cao_laptrinhweb\\bao_cao\\bao_cao\\reponsitory\\ihopdongthuereponsitory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C86884A0-A6BB-4722-BA75-AAB7AFAFE139}|BAO_CAO\\BAO_CAO.csproj|solutionrelative:bao_cao\\reponsitory\\ihopdongthuereponsitory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C86884A0-A6BB-4722-BA75-AAB7AFAFE139}|BAO_CAO\\BAO_CAO.csproj|d:\\hoc\\bao_cao_laptrinhweb\\bao_cao\\bao_cao\\areas\\admin\\controllers\\phongcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C86884A0-A6BB-4722-BA75-AAB7AFAFE139}|BAO_CAO\\BAO_CAO.csproj|solutionrelative:bao_cao\\areas\\admin\\controllers\\phongcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C86884A0-A6BB-4722-BA75-AAB7AFAFE139}|BAO_CAO\\BAO_CAO.csproj|d:\\hoc\\bao_cao_laptrinhweb\\bao_cao\\bao_cao\\models\\khachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C86884A0-A6BB-4722-BA75-AAB7AFAFE139}|BAO_CAO\\BAO_CAO.csproj|solutionrelative:bao_cao\\models\\khachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C86884A0-A6BB-4722-BA75-AAB7AFAFE139}|BAO_CAO\\BAO_CAO.csproj|d:\\hoc\\bao_cao_laptrinhweb\\bao_cao\\bao_cao\\reponsitory\\efkhachhangreponsitory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C86884A0-A6BB-4722-BA75-AAB7AFAFE139}|BAO_CAO\\BAO_CAO.csproj|solutionrelative:bao_cao\\reponsitory\\efkhachhangreponsitory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C86884A0-A6BB-4722-BA75-AAB7AFAFE139}|BAO_CAO\\BAO_CAO.csproj|d:\\hoc\\bao_cao_laptrinhweb\\bao_cao\\bao_cao\\models\\hopdongthue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C86884A0-A6BB-4722-BA75-AAB7AFAFE139}|BAO_CAO\\BAO_CAO.csproj|solutionrelative:bao_cao\\models\\hopdongthue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C86884A0-A6BB-4722-BA75-AAB7AFAFE139}|BAO_CAO\\BAO_CAO.csproj|d:\\hoc\\bao_cao_laptrinhweb\\bao_cao\\bao_cao\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C86884A0-A6BB-4722-BA75-AAB7AFAFE139}|BAO_CAO\\BAO_CAO.csproj|solutionrelative:bao_cao\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\Migrations\\20250403122449_themuserid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BAO_CAO\\Migrations\\20250403122449_themuserid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\Migrations\\20250403121842_themuserid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BAO_CAO\\Migrations\\20250403121842_themuserid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C86884A0-A6BB-4722-BA75-AAB7AFAFE139}|BAO_CAO\\BAO_CAO.csproj|d:\\hoc\\bao_cao_laptrinhweb\\bao_cao\\bao_cao\\areas\\admin\\controllers\\khachhangcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C86884A0-A6BB-4722-BA75-AAB7AFAFE139}|BAO_CAO\\BAO_CAO.csproj|solutionrelative:bao_cao\\areas\\admin\\controllers\\khachhangcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C86884A0-A6BB-4722-BA75-AAB7AFAFE139}|BAO_CAO\\BAO_CAO.csproj|d:\\hoc\\bao_cao_laptrinhweb\\bao_cao\\bao_cao\\reponsitory\\ikhachhangreponsitory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C86884A0-A6BB-4722-BA75-AAB7AFAFE139}|BAO_CAO\\BAO_CAO.csproj|solutionrelative:bao_cao\\reponsitory\\ikhachhangreponsitory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C86884A0-A6BB-4722-BA75-AAB7AFAFE139}|BAO_CAO\\BAO_CAO.csproj|d:\\hoc\\bao_cao_laptrinhweb\\bao_cao\\bao_cao\\models\\baocaodbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C86884A0-A6BB-4722-BA75-AAB7AFAFE139}|BAO_CAO\\BAO_CAO.csproj|solutionrelative:bao_cao\\models\\baocaodbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C86884A0-A6BB-4722-BA75-AAB7AFAFE139}|BAO_CAO\\BAO_CAO.csproj|d:\\hoc\\bao_cao_laptrinhweb\\bao_cao\\bao_cao\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{C86884A0-A6BB-4722-BA75-AAB7AFAFE139}|BAO_CAO\\BAO_CAO.csproj|solutionrelative:bao_cao\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C86884A0-A6BB-4722-BA75-AAB7AFAFE139}|BAO_CAO\\BAO_CAO.csproj|d:\\hoc\\bao_cao_laptrinhweb\\bao_cao\\bao_cao\\areas\\admin\\controllers\\trangqlcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C86884A0-A6BB-4722-BA75-AAB7AFAFE139}|BAO_CAO\\BAO_CAO.csproj|solutionrelative:bao_cao\\areas\\admin\\controllers\\trangqlcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C86884A0-A6BB-4722-BA75-AAB7AFAFE139}|BAO_CAO\\BAO_CAO.csproj|d:\\hoc\\bao_cao_laptrinhweb\\bao_cao\\bao_cao\\areas\\admin\\controllers\\nhanviencontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C86884A0-A6BB-4722-BA75-AAB7AFAFE139}|BAO_CAO\\BAO_CAO.csproj|solutionrelative:bao_cao\\areas\\admin\\controllers\\nhanviencontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C86884A0-A6BB-4722-BA75-AAB7AFAFE139}|BAO_CAO\\BAO_CAO.csproj|d:\\hoc\\bao_cao_laptrinhweb\\bao_cao\\bao_cao\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C86884A0-A6BB-4722-BA75-AAB7AFAFE139}|BAO_CAO\\BAO_CAO.csproj|solutionrelative:bao_cao\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C86884A0-A6BB-4722-BA75-AAB7AFAFE139}|BAO_CAO\\BAO_CAO.csproj|d:\\hoc\\bao_cao_laptrinhweb\\bao_cao\\bao_cao\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C86884A0-A6BB-4722-BA75-AAB7AFAFE139}|BAO_CAO\\BAO_CAO.csproj|solutionrelative:bao_cao\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\Migrations\\20250403103328_1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BAO_CAO\\Migrations\\20250403103328_1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C86884A0-A6BB-4722-BA75-AAB7AFAFE139}|BAO_CAO\\BAO_CAO.csproj|d:\\hoc\\bao_cao_laptrinhweb\\bao_cao\\bao_cao\\areas\\admin\\views\\nhanvien\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -143,76 +223,28 @@
       "RelativeMoniker": "D:0:0:{C86884A0-A6BB-4722-BA75-AAB7AFAFE139}|BAO_CAO\\BAO_CAO.csproj|solutionrelative:bao_cao\\areas\\admin\\views\\phong\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C86884A0-A6BB-4722-BA75-AAB7AFAFE139}|BAO_CAO\\BAO_CAO.csproj|d:\\hoc\\bao_cao_laptrinhweb\\bao_cao\\bao_cao\\areas\\admin\\controllers\\trangqlcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C86884A0-A6BB-4722-BA75-AAB7AFAFE139}|BAO_CAO\\BAO_CAO.csproj|solutionrelative:bao_cao\\areas\\admin\\controllers\\trangqlcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{C86884A0-A6BB-4722-BA75-AAB7AFAFE139}|BAO_CAO\\BAO_CAO.csproj|d:\\hoc\\bao_cao_laptrinhweb\\bao_cao\\bao_cao\\areas\\admin\\views\\nhanvien\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{C86884A0-A6BB-4722-BA75-AAB7AFAFE139}|BAO_CAO\\BAO_CAO.csproj|solutionrelative:bao_cao\\areas\\admin\\views\\nhanvien\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C86884A0-A6BB-4722-BA75-AAB7AFAFE139}|BAO_CAO\\BAO_CAO.csproj|d:\\hoc\\bao_cao_laptrinhweb\\bao_cao\\bao_cao\\areas\\admin\\controllers\\nhanviencontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C86884A0-A6BB-4722-BA75-AAB7AFAFE139}|BAO_CAO\\BAO_CAO.csproj|solutionrelative:bao_cao\\areas\\admin\\controllers\\nhanviencontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C86884A0-A6BB-4722-BA75-AAB7AFAFE139}|BAO_CAO\\BAO_CAO.csproj|d:\\hoc\\bao_cao_laptrinhweb\\bao_cao\\bao_cao\\areas\\admin\\controllers\\khachhangcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C86884A0-A6BB-4722-BA75-AAB7AFAFE139}|BAO_CAO\\BAO_CAO.csproj|solutionrelative:bao_cao\\areas\\admin\\controllers\\khachhangcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C86884A0-A6BB-4722-BA75-AAB7AFAFE139}|BAO_CAO\\BAO_CAO.csproj|d:\\hoc\\bao_cao_laptrinhweb\\bao_cao\\bao_cao\\areas\\admin\\controllers\\phongcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C86884A0-A6BB-4722-BA75-AAB7AFAFE139}|BAO_CAO\\BAO_CAO.csproj|solutionrelative:bao_cao\\areas\\admin\\controllers\\phongcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C86884A0-A6BB-4722-BA75-AAB7AFAFE139}|BAO_CAO\\BAO_CAO.csproj|d:\\hoc\\bao_cao_laptrinhweb\\bao_cao\\bao_cao\\views\\shared\\admin_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{C86884A0-A6BB-4722-BA75-AAB7AFAFE139}|BAO_CAO\\BAO_CAO.csproj|solutionrelative:bao_cao\\views\\shared\\admin_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C86884A0-A6BB-4722-BA75-AAB7AFAFE139}|BAO_CAO\\BAO_CAO.csproj|d:\\hoc\\bao_cao_laptrinhweb\\bao_cao\\bao_cao\\views\\shared\\_loginpartial_phan1.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C86884A0-A6BB-4722-BA75-AAB7AFAFE139}|BAO_CAO\\BAO_CAO.csproj|solutionrelative:bao_cao\\views\\shared\\_loginpartial_phan1.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{C86884A0-A6BB-4722-BA75-AAB7AFAFE139}|BAO_CAO\\BAO_CAO.csproj|d:\\hoc\\bao_cao_laptrinhweb\\bao_cao\\bao_cao\\views\\home\\profile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{C86884A0-A6BB-4722-BA75-AAB7AFAFE139}|BAO_CAO\\BAO_CAO.csproj|solutionrelative:bao_cao\\views\\home\\profile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C86884A0-A6BB-4722-BA75-AAB7AFAFE139}|BAO_CAO\\BAO_CAO.csproj|d:\\hoc\\bao_cao_laptrinhweb\\bao_cao\\bao_cao\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C86884A0-A6BB-4722-BA75-AAB7AFAFE139}|BAO_CAO\\BAO_CAO.csproj|solutionrelative:bao_cao\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C86884A0-A6BB-4722-BA75-AAB7AFAFE139}|BAO_CAO\\BAO_CAO.csproj|d:\\hoc\\bao_cao_laptrinhweb\\bao_cao\\bao_cao\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{C86884A0-A6BB-4722-BA75-AAB7AFAFE139}|BAO_CAO\\BAO_CAO.csproj|solutionrelative:bao_cao\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C86884A0-A6BB-4722-BA75-AAB7AFAFE139}|BAO_CAO\\BAO_CAO.csproj|d:\\hoc\\bao_cao_laptrinhweb\\bao_cao\\bao_cao\\reponsitory\\ihopdongthuereponsitory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C86884A0-A6BB-4722-BA75-AAB7AFAFE139}|BAO_CAO\\BAO_CAO.csproj|solutionrelative:bao_cao\\reponsitory\\ihopdongthuereponsitory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C86884A0-A6BB-4722-BA75-AAB7AFAFE139}|BAO_CAO\\BAO_CAO.csproj|d:\\hoc\\bao_cao_laptrinhweb\\bao_cao\\bao_cao\\reponsitory\\efhopdongreponsitory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C86884A0-A6BB-4722-BA75-AAB7AFAFE139}|BAO_CAO\\BAO_CAO.csproj|solutionrelative:bao_cao\\reponsitory\\efhopdongreponsitory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{C86884A0-A6BB-4722-BA75-AAB7AFAFE139}|BAO_CAO\\BAO_CAO.csproj|d:\\hoc\\bao_cao_laptrinhweb\\bao_cao\\bao_cao\\reponsitory\\efnhanvienreponsitory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C86884A0-A6BB-4722-BA75-AAB7AFAFE139}|BAO_CAO\\BAO_CAO.csproj|solutionrelative:bao_cao\\reponsitory\\efnhanvienreponsitory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C86884A0-A6BB-4722-BA75-AAB7AFAFE139}|BAO_CAO\\BAO_CAO.csproj|d:\\hoc\\bao_cao_laptrinhweb\\bao_cao\\bao_cao\\reponsitory\\efkhachhangreponsitory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C86884A0-A6BB-4722-BA75-AAB7AFAFE139}|BAO_CAO\\BAO_CAO.csproj|solutionrelative:bao_cao\\reponsitory\\efkhachhangreponsitory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C86884A0-A6BB-4722-BA75-AAB7AFAFE139}|BAO_CAO\\BAO_CAO.csproj|d:\\hoc\\bao_cao_laptrinhweb\\bao_cao\\bao_cao\\reponsitory\\efphongreponsitory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C86884A0-A6BB-4722-BA75-AAB7AFAFE139}|BAO_CAO\\BAO_CAO.csproj|solutionrelative:bao_cao\\reponsitory\\efphongreponsitory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{C86884A0-A6BB-4722-BA75-AAB7AFAFE139}|BAO_CAO\\BAO_CAO.csproj|d:\\hoc\\bao_cao_laptrinhweb\\bao_cao\\bao_cao\\reponsitory\\inhanvienreponsitory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C86884A0-A6BB-4722-BA75-AAB7AFAFE139}|BAO_CAO\\BAO_CAO.csproj|solutionrelative:bao_cao\\reponsitory\\inhanvienreponsitory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C86884A0-A6BB-4722-BA75-AAB7AFAFE139}|BAO_CAO\\BAO_CAO.csproj|d:\\hoc\\bao_cao_laptrinhweb\\bao_cao\\bao_cao\\reponsitory\\ikhachhangreponsitory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C86884A0-A6BB-4722-BA75-AAB7AFAFE139}|BAO_CAO\\BAO_CAO.csproj|solutionrelative:bao_cao\\reponsitory\\ikhachhangreponsitory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C86884A0-A6BB-4722-BA75-AAB7AFAFE139}|BAO_CAO\\BAO_CAO.csproj|d:\\hoc\\bao_cao_laptrinhweb\\bao_cao\\bao_cao\\reponsitory\\iphongreponsitory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C86884A0-A6BB-4722-BA75-AAB7AFAFE139}|BAO_CAO\\BAO_CAO.csproj|solutionrelative:bao_cao\\reponsitory\\iphongreponsitory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C86884A0-A6BB-4722-BA75-AAB7AFAFE139}|BAO_CAO\\BAO_CAO.csproj|d:\\hoc\\bao_cao_laptrinhweb\\bao_cao\\bao_cao\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -221,14 +253,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{C86884A0-A6BB-4722-BA75-AAB7AFAFE139}|BAO_CAO\\BAO_CAO.csproj|d:\\hoc\\bao_cao_laptrinhweb\\bao_cao\\bao_cao\\areas\\identity\\pages\\account\\accessdenied.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{C86884A0-A6BB-4722-BA75-AAB7AFAFE139}|BAO_CAO\\BAO_CAO.csproj|solutionrelative:bao_cao\\areas\\identity\\pages\\account\\accessdenied.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C86884A0-A6BB-4722-BA75-AAB7AFAFE139}|BAO_CAO\\BAO_CAO.csproj|d:\\hoc\\bao_cao_laptrinhweb\\bao_cao\\bao_cao\\areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C86884A0-A6BB-4722-BA75-AAB7AFAFE139}|BAO_CAO\\BAO_CAO.csproj|solutionrelative:bao_cao\\areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C86884A0-A6BB-4722-BA75-AAB7AFAFE139}|BAO_CAO\\BAO_CAO.csproj|d:\\hoc\\bao_cao_laptrinhweb\\bao_cao\\bao_cao\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C86884A0-A6BB-4722-BA75-AAB7AFAFE139}|BAO_CAO\\BAO_CAO.csproj|solutionrelative:bao_cao\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C86884A0-A6BB-4722-BA75-AAB7AFAFE139}|BAO_CAO\\BAO_CAO.csproj|d:\\hoc\\bao_cao_laptrinhweb\\bao_cao\\bao_cao\\areas\\admin\\models\\sd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -245,10 +269,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{C86884A0-A6BB-4722-BA75-AAB7AFAFE139}|BAO_CAO\\BAO_CAO.csproj|d:\\hoc\\bao_cao_laptrinhweb\\bao_cao\\bao_cao\\areas\\identity\\pages\\account\\logout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{C86884A0-A6BB-4722-BA75-AAB7AFAFE139}|BAO_CAO\\BAO_CAO.csproj|solutionrelative:bao_cao\\areas\\identity\\pages\\account\\logout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C86884A0-A6BB-4722-BA75-AAB7AFAFE139}|BAO_CAO\\BAO_CAO.csproj|d:\\hoc\\bao_cao_laptrinhweb\\bao_cao\\bao_cao\\views\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{C86884A0-A6BB-4722-BA75-AAB7AFAFE139}|BAO_CAO\\BAO_CAO.csproj|solutionrelative:bao_cao\\views\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C86884A0-A6BB-4722-BA75-AAB7AFAFE139}|BAO_CAO\\BAO_CAO.csproj|d:\\hoc\\bao_cao_laptrinhweb\\bao_cao\\bao_cao\\wwwroot\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
@@ -287,10 +307,6 @@
       "RelativeMoniker": "D:0:0:{C86884A0-A6BB-4722-BA75-AAB7AFAFE139}|BAO_CAO\\BAO_CAO.csproj|solutionrelative:bao_cao\\areas\\identity\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C86884A0-A6BB-4722-BA75-AAB7AFAFE139}|BAO_CAO\\BAO_CAO.csproj|d:\\hoc\\bao_cao_laptrinhweb\\bao_cao\\bao_cao\\areas\\identity\\pages\\account\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C86884A0-A6BB-4722-BA75-AAB7AFAFE139}|BAO_CAO\\BAO_CAO.csproj|solutionrelative:bao_cao\\areas\\identity\\pages\\account\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{C86884A0-A6BB-4722-BA75-AAB7AFAFE139}|BAO_CAO\\BAO_CAO.csproj|d:\\hoc\\bao_cao_laptrinhweb\\bao_cao\\bao_cao\\bao_cao.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{C86884A0-A6BB-4722-BA75-AAB7AFAFE139}|BAO_CAO\\BAO_CAO.csproj|solutionrelative:bao_cao\\bao_cao.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
@@ -300,26 +316,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{C86884A0-A6BB-4722-BA75-AAB7AFAFE139}|BAO_CAO\\BAO_CAO.csproj|d:\\hoc\\bao_cao_laptrinhweb\\bao_cao\\bao_cao\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
       "RelativeMoniker": "D:0:0:{C86884A0-A6BB-4722-BA75-AAB7AFAFE139}|BAO_CAO\\BAO_CAO.csproj|solutionrelative:bao_cao\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C86884A0-A6BB-4722-BA75-AAB7AFAFE139}|BAO_CAO\\BAO_CAO.csproj|d:\\hoc\\bao_cao_laptrinhweb\\bao_cao\\bao_cao\\migrations\\20250323023139_adddentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C86884A0-A6BB-4722-BA75-AAB7AFAFE139}|BAO_CAO\\BAO_CAO.csproj|solutionrelative:bao_cao\\migrations\\20250323023139_adddentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C86884A0-A6BB-4722-BA75-AAB7AFAFE139}|BAO_CAO\\BAO_CAO.csproj|d:\\hoc\\bao_cao_laptrinhweb\\bao_cao\\bao_cao\\migrations\\20250328144300_themphong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C86884A0-A6BB-4722-BA75-AAB7AFAFE139}|BAO_CAO\\BAO_CAO.csproj|solutionrelative:bao_cao\\migrations\\20250328144300_themphong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C86884A0-A6BB-4722-BA75-AAB7AFAFE139}|BAO_CAO\\BAO_CAO.csproj|d:\\hoc\\bao_cao_laptrinhweb\\bao_cao\\bao_cao\\migrations\\20250331121009_suanv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C86884A0-A6BB-4722-BA75-AAB7AFAFE139}|BAO_CAO\\BAO_CAO.csproj|solutionrelative:bao_cao\\migrations\\20250331121009_suanv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C86884A0-A6BB-4722-BA75-AAB7AFAFE139}|BAO_CAO\\BAO_CAO.csproj|d:\\hoc\\bao_cao_laptrinhweb\\bao_cao\\bao_cao\\migrations\\20250331102605_themhopdongthue1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C86884A0-A6BB-4722-BA75-AAB7AFAFE139}|BAO_CAO\\BAO_CAO.csproj|solutionrelative:bao_cao\\migrations\\20250331102605_themhopdongthue1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C86884A0-A6BB-4722-BA75-AAB7AFAFE139}|BAO_CAO\\BAO_CAO.csproj|d:\\hoc\\bao_cao_laptrinhweb\\bao_cao\\bao_cao\\migrations\\20250331102439_themhodo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C86884A0-A6BB-4722-BA75-AAB7AFAFE139}|BAO_CAO\\BAO_CAO.csproj|solutionrelative:bao_cao\\migrations\\20250331102439_themhodo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -329,17 +325,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 3,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "BAO_CAO\\Views\\Shared\\_Layout.cshtml",
               "ToolTip": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "BAO_CAO\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAM4AAAAAAAAAAAAEwO0AAABGAAAAAAAAAA==",
+              "ViewState": "AgIAAJkBAAAAAAAAAAAEwG4CAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-03-22T06:35:18.787Z",
               "IsPinned": true,
@@ -355,111 +351,85 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Register.cshtml",
-              "DocumentMoniker": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
-              "RelativeDocumentMoniker": "BAO_CAO\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
-              "ToolTip": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
-              "RelativeToolTip": "BAO_CAO\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
-              "ViewState": "AgIAABUAAAAAAAAAAAAAADAAAAAmAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-27T14:49:48.657Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "ApplicationUser.cs",
-              "DocumentMoniker": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\Models\\ApplicationUser.cs",
-              "RelativeDocumentMoniker": "BAO_CAO\\Models\\ApplicationUser.cs",
-              "ToolTip": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\Models\\ApplicationUser.cs",
-              "RelativeToolTip": "BAO_CAO\\Models\\ApplicationUser.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAuAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-03T09:56:48.915Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Baocaodbcontext.cs",
-              "DocumentMoniker": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\Models\\Baocaodbcontext.cs",
-              "RelativeDocumentMoniker": "BAO_CAO\\Models\\Baocaodbcontext.cs",
-              "ToolTip": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\Models\\Baocaodbcontext.cs",
-              "RelativeToolTip": "BAO_CAO\\Models\\Baocaodbcontext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAABDAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-23T01:54:20.921Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ErrorViewModel.cs",
-              "DocumentMoniker": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\Models\\ErrorViewModel.cs",
-              "RelativeDocumentMoniker": "BAO_CAO\\Models\\ErrorViewModel.cs",
-              "ToolTip": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\Models\\ErrorViewModel.cs",
-              "RelativeToolTip": "BAO_CAO\\Models\\ErrorViewModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-30T13:32:14.032Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\Program.cs",
-              "RelativeDocumentMoniker": "BAO_CAO\\Program.cs",
-              "ToolTip": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\Program.cs",
-              "RelativeToolTip": "BAO_CAO\\Program.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-27T15:24:01.442Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Register.cshtml.cs",
-              "DocumentMoniker": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
-              "RelativeDocumentMoniker": "BAO_CAO\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
-              "ToolTip": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
-              "RelativeToolTip": "BAO_CAO\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
-              "ViewState": "AgIAAKEAAAAAAAAAAAAEwI4AAAAuAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-30T14:43:19.315Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
               "Title": "_LoginPartial.cshtml",
               "DocumentMoniker": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\Views\\Shared\\_LoginPartial.cshtml",
               "RelativeDocumentMoniker": "BAO_CAO\\Views\\Shared\\_LoginPartial.cshtml",
               "ToolTip": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\Views\\Shared\\_LoginPartial.cshtml",
               "RelativeToolTip": "BAO_CAO\\Views\\Shared\\_LoginPartial.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAB5AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-03-23T02:35:42.421Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "_ViewImports.cshtml",
-              "DocumentMoniker": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\Views\\_ViewImports.cshtml",
-              "RelativeDocumentMoniker": "BAO_CAO\\Views\\_ViewImports.cshtml",
-              "ToolTip": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\Views\\_ViewImports.cshtml",
-              "RelativeToolTip": "BAO_CAO\\Views\\_ViewImports.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "_LoginPartial_phan1.cshtml",
+              "DocumentMoniker": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\Views\\Shared\\_LoginPartial_phan1.cshtml",
+              "RelativeDocumentMoniker": "BAO_CAO\\Views\\Shared\\_LoginPartial_phan1.cshtml",
+              "ToolTip": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\Views\\Shared\\_LoginPartial_phan1.cshtml",
+              "RelativeToolTip": "BAO_CAO\\Views\\Shared\\_LoginPartial_phan1.cshtml",
+              "ViewState": "AgIAAGMAAAAAAAAAAAAEwAMAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-28T11:23:01.533Z",
+              "WhenOpened": "2025-03-27T15:32:44.946Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 2,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\Models\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "BAO_CAO\\Models\\ApplicationUser.cs",
+              "ToolTip": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\Models\\ApplicationUser.cs",
+              "RelativeToolTip": "BAO_CAO\\Models\\ApplicationUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T09:56:48.915Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "BAO_CAO\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "BAO_CAO\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-03T14:32:16.925Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\Program.cs",
+              "RelativeDocumentMoniker": "BAO_CAO\\Program.cs",
+              "ToolTip": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\Program.cs",
+              "RelativeToolTip": "BAO_CAO\\Program.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAADwvzwAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T15:24:01.442Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\appsettings.json",
+              "RelativeDocumentMoniker": "BAO_CAO\\appsettings.json",
+              "ToolTip": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\appsettings.json",
+              "RelativeToolTip": "BAO_CAO\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-23T01:59:48.823Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "appsettings.Development.json",
               "DocumentMoniker": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\appsettings.Development.json",
               "RelativeDocumentMoniker": "BAO_CAO\\appsettings.Development.json",
@@ -472,124 +442,150 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "BAO_CAO\\Views\\_ViewImports.cshtml",
+              "ToolTip": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "BAO_CAO\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-28T11:23:01.533Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 9,
-              "Title": "ScaffoldingReadMe.txt",
-              "DocumentMoniker": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\ScaffoldingReadMe.txt",
-              "RelativeDocumentMoniker": "BAO_CAO\\ScaffoldingReadMe.txt",
-              "ToolTip": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\ScaffoldingReadMe.txt",
-              "RelativeToolTip": "BAO_CAO\\ScaffoldingReadMe.txt",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2025-03-23T02:33:21.953Z",
+              "Title": "_Layout.cshtml.css",
+              "DocumentMoniker": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\Views\\Shared\\_Layout.cshtml.css",
+              "RelativeDocumentMoniker": "BAO_CAO\\Views\\Shared\\_Layout.cshtml.css",
+              "ToolTip": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\Views\\Shared\\_Layout.cshtml.css",
+              "RelativeToolTip": "BAO_CAO\\Views\\Shared\\_Layout.cshtml.css",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAADAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-03-27T14:35:10.196Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 10,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\appsettings.json",
-              "RelativeDocumentMoniker": "BAO_CAO\\appsettings.json",
-              "ToolTip": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\appsettings.json",
-              "RelativeToolTip": "BAO_CAO\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-03-23T01:59:48.823Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "20250403095904_themaplication.cs",
-              "DocumentMoniker": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\Migrations\\20250403095904_themaplication.cs",
-              "RelativeDocumentMoniker": "BAO_CAO\\Migrations\\20250403095904_themaplication.cs",
-              "ToolTip": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\Migrations\\20250403095904_themaplication.cs",
-              "RelativeToolTip": "BAO_CAO\\Migrations\\20250403095904_themaplication.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "EFHopDongreponsitory.cs",
+              "DocumentMoniker": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\Reponsitory\\EFHopDongreponsitory.cs",
+              "RelativeDocumentMoniker": "BAO_CAO\\Reponsitory\\EFHopDongreponsitory.cs",
+              "ToolTip": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\Reponsitory\\EFHopDongreponsitory.cs",
+              "RelativeToolTip": "BAO_CAO\\Reponsitory\\EFHopDongreponsitory.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAvwAYAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-03T09:59:05.015Z",
+              "WhenOpened": "2025-03-31T10:43:20.05Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 12,
-              "Title": "BookingController.cs",
-              "DocumentMoniker": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\Controllers\\BookingController.cs",
-              "RelativeDocumentMoniker": "BAO_CAO\\Controllers\\BookingController.cs",
-              "ToolTip": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\Controllers\\BookingController.cs",
-              "RelativeToolTip": "BAO_CAO\\Controllers\\BookingController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Title": "Register.cshtml.cs",
+              "DocumentMoniker": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "RelativeDocumentMoniker": "BAO_CAO\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "ToolTip": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "RelativeToolTip": "BAO_CAO\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "ViewState": "AgIAAJQAAAAAAAAAAAAqwCEAAABAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-03T09:48:10.069Z",
+              "WhenOpened": "2025-03-30T14:43:19.315Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "BAO_CAO\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "BAO_CAO\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAM4CAAAAAAAAAAAiwCQDAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-22T06:43:53.066Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "BAO_CAO\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "ToolTip": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "RelativeToolTip": "BAO_CAO\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "ViewState": "AgIAALEAAAAAAAAAAAAiwJkAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-28T12:01:53.106Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 14,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "BAO_CAO\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "ToolTip": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "RelativeToolTip": "BAO_CAO\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "ViewState": "AgIAADoAAAAAAAAAAAAiwF8AAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-27T14:49:48.657Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Login.cshtml.cs",
+              "DocumentMoniker": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "RelativeDocumentMoniker": "BAO_CAO\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "ToolTip": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "RelativeToolTip": "BAO_CAO\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "ViewState": "AgIAAHwAAAAAAAAAAAAiwBIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T13:49:55.458Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
               "Title": "PayCheck.cs",
               "DocumentMoniker": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\Models\\PayCheck.cs",
               "RelativeDocumentMoniker": "BAO_CAO\\Models\\PayCheck.cs",
               "ToolTip": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\Models\\PayCheck.cs",
               "RelativeToolTip": "BAO_CAO\\Models\\PayCheck.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAjAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-03T09:39:49.122Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "BAO_CAO\\Controllers\\HomeController.cs",
-              "ToolTip": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "BAO_CAO\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAoAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-28T13:05:03.703Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "KhachHang.cs",
-              "DocumentMoniker": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\Models\\KhachHang.cs",
-              "RelativeDocumentMoniker": "BAO_CAO\\Models\\KhachHang.cs",
-              "ToolTip": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\Models\\KhachHang.cs",
-              "RelativeToolTip": "BAO_CAO\\Models\\KhachHang.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAXAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-31T09:58:54.133Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 17,
-              "Title": "HopDongThue.cs",
-              "DocumentMoniker": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\Models\\HopDongThue.cs",
-              "RelativeDocumentMoniker": "BAO_CAO\\Models\\HopDongThue.cs",
-              "ToolTip": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\Models\\HopDongThue.cs",
-              "RelativeToolTip": "BAO_CAO\\Models\\HopDongThue.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAoAAAAAAAAAA==",
+              "Title": "20250403135906_themuserid1.cs",
+              "DocumentMoniker": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\Migrations\\20250403135906_themuserid1.cs",
+              "RelativeDocumentMoniker": "BAO_CAO\\Migrations\\20250403135906_themuserid1.cs",
+              "ToolTip": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\Migrations\\20250403135906_themuserid1.cs",
+              "RelativeToolTip": "BAO_CAO\\Migrations\\20250403135906_themuserid1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-31T10:02:47.483Z",
+              "WhenOpened": "2025-04-03T13:59:06.593Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "Phong.cs",
-              "DocumentMoniker": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\Models\\Phong.cs",
-              "RelativeDocumentMoniker": "BAO_CAO\\Models\\Phong.cs",
-              "ToolTip": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\Models\\Phong.cs",
-              "RelativeToolTip": "BAO_CAO\\Models\\Phong.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAADwvwgAAAAaAAAAAAAAAA==",
+              "DocumentIndex": 19,
+              "Title": "BookingController.cs",
+              "DocumentMoniker": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\Controllers\\BookingController.cs",
+              "RelativeDocumentMoniker": "BAO_CAO\\Controllers\\BookingController.cs",
+              "ToolTip": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\Controllers\\BookingController.cs",
+              "RelativeToolTip": "BAO_CAO\\Controllers\\BookingController.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAuwFkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-28T14:04:09.072Z",
+              "WhenOpened": "2025-04-03T09:48:10.069Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 20,
               "Title": "Nhanvien.cs",
               "DocumentMoniker": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\Models\\Nhanvien.cs",
               "RelativeDocumentMoniker": "BAO_CAO\\Models\\Nhanvien.cs",
@@ -602,177 +598,215 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "BAO_CAO\\Views\\Home\\Index.cshtml",
-              "ToolTip": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "BAO_CAO\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAIsCAAAAAAAAAAAEwJwCAAAOAAAAAAAAAA==",
+              "DocumentIndex": 21,
+              "Title": "Phong.cs",
+              "DocumentMoniker": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\Models\\Phong.cs",
+              "RelativeDocumentMoniker": "BAO_CAO\\Models\\Phong.cs",
+              "ToolTip": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\Models\\Phong.cs",
+              "RelativeToolTip": "BAO_CAO\\Models\\Phong.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T14:04:09.072Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "BAO_CAO\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "BAO_CAO\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-22T06:43:53.066Z",
+              "WhenOpened": "2025-03-28T13:02:17.576Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 22,
-              "Title": "Delete.cshtml",
-              "DocumentMoniker": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\Areas\\Admin\\Views\\Phong\\Delete.cshtml",
-              "RelativeDocumentMoniker": "BAO_CAO\\Areas\\Admin\\Views\\Phong\\Delete.cshtml",
-              "ToolTip": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\Areas\\Admin\\Views\\Phong\\Delete.cshtml",
-              "RelativeToolTip": "BAO_CAO\\Areas\\Admin\\Views\\Phong\\Delete.cshtml",
-              "ViewState": "AgIAABkAAAAAAAAAAAAAABkAAAAXAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-30T10:18:51.109Z"
+              "Title": "EFPhongReponsitory.cs",
+              "DocumentMoniker": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\Reponsitory\\EFPhongReponsitory.cs",
+              "RelativeDocumentMoniker": "BAO_CAO\\Reponsitory\\EFPhongReponsitory.cs",
+              "ToolTip": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\Reponsitory\\EFPhongReponsitory.cs",
+              "RelativeToolTip": "BAO_CAO\\Reponsitory\\EFPhongReponsitory.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAcwBMAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T14:19:45.228Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 23,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\Areas\\Admin\\Views\\Phong\\Index.cshtml",
-              "RelativeDocumentMoniker": "BAO_CAO\\Areas\\Admin\\Views\\Phong\\Index.cshtml",
-              "ToolTip": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\Areas\\Admin\\Views\\Phong\\Index.cshtml",
-              "RelativeToolTip": "BAO_CAO\\Areas\\Admin\\Views\\Phong\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAGAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-28T14:32:22.269Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 25,
-              "Title": "Display.cshtml",
-              "DocumentMoniker": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\Areas\\Admin\\Views\\NhanVien\\Display.cshtml",
-              "RelativeDocumentMoniker": "BAO_CAO\\Areas\\Admin\\Views\\NhanVien\\Display.cshtml",
-              "ToolTip": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\Areas\\Admin\\Views\\NhanVien\\Display.cshtml",
-              "RelativeToolTip": "BAO_CAO\\Areas\\Admin\\Views\\NhanVien\\Display.cshtml",
-              "ViewState": "AgIAAB4AAAAAAAAAAAAAACkAAAAZAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-31T12:33:39.392Z"
+              "Title": "Iphongreponsitory.cs",
+              "DocumentMoniker": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\Reponsitory\\Iphongreponsitory.cs",
+              "RelativeDocumentMoniker": "BAO_CAO\\Reponsitory\\Iphongreponsitory.cs",
+              "ToolTip": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\Reponsitory\\Iphongreponsitory.cs",
+              "RelativeToolTip": "BAO_CAO\\Reponsitory\\Iphongreponsitory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T02:04:37.904Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 24,
-              "Title": "Add.cshtml",
-              "DocumentMoniker": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\Areas\\Admin\\Views\\NhanVien\\Add.cshtml",
-              "RelativeDocumentMoniker": "BAO_CAO\\Areas\\Admin\\Views\\NhanVien\\Add.cshtml",
-              "ToolTip": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\Areas\\Admin\\Views\\NhanVien\\Add.cshtml",
-              "RelativeToolTip": "BAO_CAO\\Areas\\Admin\\Views\\NhanVien\\Add.cshtml",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAAABEAAAACAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-31T12:05:28.355Z"
+              "Title": "IHopdongthuereponsitory.cs",
+              "DocumentMoniker": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\Reponsitory\\IHopdongthuereponsitory.cs",
+              "RelativeDocumentMoniker": "BAO_CAO\\Reponsitory\\IHopdongthuereponsitory.cs",
+              "ToolTip": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\Reponsitory\\IHopdongthuereponsitory.cs",
+              "RelativeToolTip": "BAO_CAO\\Reponsitory\\IHopdongthuereponsitory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T10:32:05.264Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "Delete.cshtml",
-              "DocumentMoniker": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\Areas\\Admin\\Views\\NhanVien\\Delete.cshtml",
-              "RelativeDocumentMoniker": "BAO_CAO\\Areas\\Admin\\Views\\NhanVien\\Delete.cshtml",
-              "ToolTip": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\Areas\\Admin\\Views\\NhanVien\\Delete.cshtml",
-              "RelativeToolTip": "BAO_CAO\\Areas\\Admin\\Views\\NhanVien\\Delete.cshtml",
-              "ViewState": "AgIAACMAAAAAAAAAAAAAADYAAAAcAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-31T12:48:40.909Z",
+              "DocumentIndex": 25,
+              "Title": "PhongController.cs",
+              "DocumentMoniker": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\Areas\\Admin\\Controllers\\PhongController.cs",
+              "RelativeDocumentMoniker": "BAO_CAO\\Areas\\Admin\\Controllers\\PhongController.cs",
+              "ToolTip": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\Areas\\Admin\\Controllers\\PhongController.cs",
+              "RelativeToolTip": "BAO_CAO\\Areas\\Admin\\Controllers\\PhongController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T14:16:50.889Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "KhachHang.cs",
+              "DocumentMoniker": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\Models\\KhachHang.cs",
+              "RelativeDocumentMoniker": "BAO_CAO\\Models\\KhachHang.cs",
+              "ToolTip": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\Models\\KhachHang.cs",
+              "RelativeToolTip": "BAO_CAO\\Models\\KhachHang.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T09:58:54.133Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "EFKhachHangreponsitory.cs",
+              "DocumentMoniker": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\Reponsitory\\EFKhachHangreponsitory.cs",
+              "RelativeDocumentMoniker": "BAO_CAO\\Reponsitory\\EFKhachHangreponsitory.cs",
+              "ToolTip": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\Reponsitory\\EFKhachHangreponsitory.cs",
+              "RelativeToolTip": "BAO_CAO\\Reponsitory\\EFKhachHangreponsitory.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwC4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T10:28:01.124Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 28,
-              "Title": "Add.cshtml",
-              "DocumentMoniker": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\Areas\\Admin\\Views\\KhachHang\\Add.cshtml",
-              "RelativeDocumentMoniker": "BAO_CAO\\Areas\\Admin\\Views\\KhachHang\\Add.cshtml",
-              "ToolTip": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\Areas\\Admin\\Views\\KhachHang\\Add.cshtml",
-              "RelativeToolTip": "BAO_CAO\\Areas\\Admin\\Views\\KhachHang\\Add.cshtml",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABQAAAA7AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-31T11:20:38.709Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 27,
-              "Title": "Update.cshtml",
-              "DocumentMoniker": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\Areas\\Admin\\Views\\KhachHang\\Update.cshtml",
-              "RelativeDocumentMoniker": "BAO_CAO\\Areas\\Admin\\Views\\KhachHang\\Update.cshtml",
-              "ToolTip": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\Areas\\Admin\\Views\\KhachHang\\Update.cshtml",
-              "RelativeToolTip": "BAO_CAO\\Areas\\Admin\\Views\\KhachHang\\Update.cshtml",
-              "ViewState": "AgIAACQAAAAAAAAAAAAAAEMAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-31T12:37:33.222Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 26,
-              "Title": "Update.cshtml",
-              "DocumentMoniker": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\Areas\\Admin\\Views\\NhanVien\\Update.cshtml",
-              "RelativeDocumentMoniker": "BAO_CAO\\Areas\\Admin\\Views\\NhanVien\\Update.cshtml",
-              "ToolTip": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\Areas\\Admin\\Views\\NhanVien\\Update.cshtml",
-              "RelativeToolTip": "BAO_CAO\\Areas\\Admin\\Views\\NhanVien\\Update.cshtml",
-              "ViewState": "AgIAACQAAAAAAAAAAAAAADIAAAA7AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-31T12:40:40.258Z"
+              "Title": "HopDongThue.cs",
+              "DocumentMoniker": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\Models\\HopDongThue.cs",
+              "RelativeDocumentMoniker": "BAO_CAO\\Models\\HopDongThue.cs",
+              "ToolTip": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\Models\\HopDongThue.cs",
+              "RelativeToolTip": "BAO_CAO\\Models\\HopDongThue.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T10:02:47.483Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 29,
-              "Title": "Display.cshtml",
-              "DocumentMoniker": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\Areas\\Admin\\Views\\KhachHang\\Display.cshtml",
-              "RelativeDocumentMoniker": "BAO_CAO\\Areas\\Admin\\Views\\KhachHang\\Display.cshtml",
-              "ToolTip": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\Areas\\Admin\\Views\\KhachHang\\Display.cshtml",
-              "RelativeToolTip": "BAO_CAO\\Areas\\Admin\\Views\\KhachHang\\Display.cshtml",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-31T12:21:01.918Z"
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "BAO_CAO\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "BAO_CAO\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T13:05:03.703Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 30,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\Areas\\Admin\\Views\\KhachHang\\Index.cshtml",
-              "RelativeDocumentMoniker": "BAO_CAO\\Areas\\Admin\\Views\\KhachHang\\Index.cshtml",
-              "ToolTip": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\Areas\\Admin\\Views\\KhachHang\\Index.cshtml",
-              "RelativeToolTip": "BAO_CAO\\Areas\\Admin\\Views\\KhachHang\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAABbAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-31T11:01:42.524Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 32,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\Areas\\Admin\\Views\\TrangQL\\Index.cshtml",
-              "RelativeDocumentMoniker": "BAO_CAO\\Areas\\Admin\\Views\\TrangQL\\Index.cshtml",
-              "ToolTip": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\Areas\\Admin\\Views\\TrangQL\\Index.cshtml",
-              "RelativeToolTip": "BAO_CAO\\Areas\\Admin\\Views\\TrangQL\\Index.cshtml",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAiwCsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-30T10:52:56.371Z"
+              "Title": "20250403122449_themuserid.cs",
+              "DocumentMoniker": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\Migrations\\20250403122449_themuserid.cs",
+              "RelativeDocumentMoniker": "BAO_CAO\\Migrations\\20250403122449_themuserid.cs",
+              "ToolTip": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\Migrations\\20250403122449_themuserid.cs",
+              "RelativeToolTip": "BAO_CAO\\Migrations\\20250403122449_themuserid.cs",
+              "ViewState": "AgIAAHMBAAAAIKvuWNvsvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T12:24:50.07Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 31,
-              "Title": "Update.cshtml",
-              "DocumentMoniker": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\Areas\\Admin\\Views\\Phong\\Update.cshtml",
-              "RelativeDocumentMoniker": "BAO_CAO\\Areas\\Admin\\Views\\Phong\\Update.cshtml",
-              "ToolTip": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\Areas\\Admin\\Views\\Phong\\Update.cshtml",
-              "RelativeToolTip": "BAO_CAO\\Areas\\Admin\\Views\\Phong\\Update.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAxAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-30T14:22:08.074Z"
+              "Title": "20250403121842_themuserid.cs",
+              "DocumentMoniker": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\Migrations\\20250403121842_themuserid.cs",
+              "RelativeDocumentMoniker": "BAO_CAO\\Migrations\\20250403121842_themuserid.cs",
+              "ToolTip": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\Migrations\\20250403121842_themuserid.cs",
+              "RelativeToolTip": "BAO_CAO\\Migrations\\20250403121842_themuserid.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T12:18:42.765Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "KhachHangController.cs",
+              "DocumentMoniker": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\Areas\\Admin\\Controllers\\KhachHangController.cs",
+              "RelativeDocumentMoniker": "BAO_CAO\\Areas\\Admin\\Controllers\\KhachHangController.cs",
+              "ToolTip": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\Areas\\Admin\\Controllers\\KhachHangController.cs",
+              "RelativeToolTip": "BAO_CAO\\Areas\\Admin\\Controllers\\KhachHangController.cs",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAIwC8AAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T10:44:33.878Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "IKhachHangreponsitory.cs",
+              "DocumentMoniker": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\Reponsitory\\IKhachHangreponsitory.cs",
+              "RelativeDocumentMoniker": "BAO_CAO\\Reponsitory\\IKhachHangreponsitory.cs",
+              "ToolTip": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\Reponsitory\\IKhachHangreponsitory.cs",
+              "RelativeToolTip": "BAO_CAO\\Reponsitory\\IKhachHangreponsitory.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T10:28:10.701Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 34,
-              "Title": "Add.cshtml",
-              "DocumentMoniker": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\Areas\\Admin\\Views\\Phong\\Add.cshtml",
-              "RelativeDocumentMoniker": "BAO_CAO\\Areas\\Admin\\Views\\Phong\\Add.cshtml",
-              "ToolTip": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\Areas\\Admin\\Views\\Phong\\Add.cshtml",
-              "RelativeToolTip": "BAO_CAO\\Areas\\Admin\\Views\\Phong\\Add.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-30T10:42:04.312Z"
+              "Title": "Baocaodbcontext.cs",
+              "DocumentMoniker": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\Models\\Baocaodbcontext.cs",
+              "RelativeDocumentMoniker": "BAO_CAO\\Models\\Baocaodbcontext.cs",
+              "ToolTip": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\Models\\Baocaodbcontext.cs",
+              "RelativeToolTip": "BAO_CAO\\Models\\Baocaodbcontext.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T01:54:20.921Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 35,
+              "Title": "ScaffoldingReadMe.txt",
+              "DocumentMoniker": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\ScaffoldingReadMe.txt",
+              "RelativeDocumentMoniker": "BAO_CAO\\ScaffoldingReadMe.txt",
+              "ToolTip": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\ScaffoldingReadMe.txt",
+              "RelativeToolTip": "BAO_CAO\\ScaffoldingReadMe.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-03-23T02:33:21.953Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
               "Title": "TrangQLController.cs",
               "DocumentMoniker": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\Areas\\Admin\\Controllers\\TrangQLController.cs",
               "RelativeDocumentMoniker": "BAO_CAO\\Areas\\Admin\\Controllers\\TrangQLController.cs",
@@ -780,43 +814,8 @@
               "RelativeToolTip": "BAO_CAO\\Areas\\Admin\\Controllers\\TrangQLController.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAAB8AAAA+AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-30T10:57:44.996Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 36,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\Areas\\Admin\\Views\\NhanVien\\Index.cshtml",
-              "RelativeDocumentMoniker": "BAO_CAO\\Areas\\Admin\\Views\\NhanVien\\Index.cshtml",
-              "ToolTip": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\Areas\\Admin\\Views\\NhanVien\\Index.cshtml",
-              "RelativeToolTip": "BAO_CAO\\Areas\\Admin\\Views\\NhanVien\\Index.cshtml",
-              "ViewState": "AgIAAB4AAAAAAAAAAAAAAD4AAAAvAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-31T11:55:56.509Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 33,
-              "Title": "Display.cshtml",
-              "DocumentMoniker": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\Areas\\Admin\\Views\\Phong\\Display.cshtml",
-              "RelativeDocumentMoniker": "BAO_CAO\\Areas\\Admin\\Views\\Phong\\Display.cshtml",
-              "ToolTip": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\Areas\\Admin\\Views\\Phong\\Display.cshtml",
-              "RelativeToolTip": "BAO_CAO\\Areas\\Admin\\Views\\Phong\\Display.cshtml",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAACQAAAAkAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-30T13:53:07.706Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 77,
-              "Title": "20250331121009_suanv.cs",
-              "DocumentMoniker": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\Migrations\\20250331121009_suanv.cs",
-              "RelativeDocumentMoniker": "BAO_CAO\\Migrations\\20250331121009_suanv.cs",
-              "ToolTip": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\Migrations\\20250331121009_suanv.cs",
-              "RelativeToolTip": "BAO_CAO\\Migrations\\20250331121009_suanv.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-31T12:10:09.529Z"
+              "WhenOpened": "2025-03-30T10:57:44.996Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -828,252 +827,25 @@
               "RelativeToolTip": "BAO_CAO\\Areas\\Admin\\Controllers\\NhanVienController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-31T11:59:51.3Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 39,
-              "Title": "PhongController.cs",
-              "DocumentMoniker": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\Areas\\Admin\\Controllers\\PhongController.cs",
-              "RelativeDocumentMoniker": "BAO_CAO\\Areas\\Admin\\Controllers\\PhongController.cs",
-              "ToolTip": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\Areas\\Admin\\Controllers\\PhongController.cs",
-              "RelativeToolTip": "BAO_CAO\\Areas\\Admin\\Controllers\\PhongController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAABPAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-28T14:16:50.889Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 38,
-              "Title": "KhachHangController.cs",
-              "DocumentMoniker": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\Areas\\Admin\\Controllers\\KhachHangController.cs",
-              "RelativeDocumentMoniker": "BAO_CAO\\Areas\\Admin\\Controllers\\KhachHangController.cs",
-              "ToolTip": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\Areas\\Admin\\Controllers\\KhachHangController.cs",
-              "RelativeToolTip": "BAO_CAO\\Areas\\Admin\\Controllers\\KhachHangController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-31T10:44:33.878Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 40,
-              "Title": "Admin_layout.cshtml",
-              "DocumentMoniker": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\Views\\Shared\\Admin_layout.cshtml",
-              "RelativeDocumentMoniker": "BAO_CAO\\Views\\Shared\\Admin_layout.cshtml",
-              "ToolTip": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\Views\\Shared\\Admin_layout.cshtml",
-              "RelativeToolTip": "BAO_CAO\\Views\\Shared\\Admin_layout.cshtml",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAABQAAAA4AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-29T06:15:02.992Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 41,
-              "Title": "_LoginPartial_phan1.cshtml",
-              "DocumentMoniker": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\Views\\Shared\\_LoginPartial_phan1.cshtml",
-              "RelativeDocumentMoniker": "BAO_CAO\\Views\\Shared\\_LoginPartial_phan1.cshtml",
-              "ToolTip": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\Views\\Shared\\_LoginPartial_phan1.cshtml",
-              "RelativeToolTip": "BAO_CAO\\Views\\Shared\\_LoginPartial_phan1.cshtml",
-              "ViewState": "AgIAAEsAAAAAAAAAAAAiwGgAAAByAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-27T15:32:44.946Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 42,
-              "Title": "Profile.cshtml",
-              "DocumentMoniker": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\Views\\Home\\Profile.cshtml",
-              "RelativeDocumentMoniker": "BAO_CAO\\Views\\Home\\Profile.cshtml",
-              "ToolTip": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\Views\\Home\\Profile.cshtml",
-              "RelativeToolTip": "BAO_CAO\\Views\\Home\\Profile.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAA8AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-28T13:02:09.467Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 43,
-              "Title": "Privacy.cshtml",
-              "DocumentMoniker": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\Views\\Home\\Privacy.cshtml",
-              "RelativeDocumentMoniker": "BAO_CAO\\Views\\Home\\Privacy.cshtml",
-              "ToolTip": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\Views\\Home\\Privacy.cshtml",
-              "RelativeToolTip": "BAO_CAO\\Views\\Home\\Privacy.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-28T13:02:17.576Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 44,
-              "Title": "_ViewImports.cshtml",
-              "DocumentMoniker": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\Areas\\Admin\\Views\\_ViewImports.cshtml",
-              "RelativeDocumentMoniker": "BAO_CAO\\Areas\\Admin\\Views\\_ViewImports.cshtml",
-              "ToolTip": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\Areas\\Admin\\Views\\_ViewImports.cshtml",
-              "RelativeToolTip": "BAO_CAO\\Areas\\Admin\\Views\\_ViewImports.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-31T10:49:01.746Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 45,
-              "Title": "IHopdongthuereponsitory.cs",
-              "DocumentMoniker": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\Reponsitory\\IHopdongthuereponsitory.cs",
-              "RelativeDocumentMoniker": "BAO_CAO\\Reponsitory\\IHopdongthuereponsitory.cs",
-              "ToolTip": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\Reponsitory\\IHopdongthuereponsitory.cs",
-              "RelativeToolTip": "BAO_CAO\\Reponsitory\\IHopdongthuereponsitory.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-31T10:32:05.264Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 46,
-              "Title": "EFHopDongreponsitory.cs",
-              "DocumentMoniker": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\Reponsitory\\EFHopDongreponsitory.cs",
-              "RelativeDocumentMoniker": "BAO_CAO\\Reponsitory\\EFHopDongreponsitory.cs",
-              "ToolTip": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\Reponsitory\\EFHopDongreponsitory.cs",
-              "RelativeToolTip": "BAO_CAO\\Reponsitory\\EFHopDongreponsitory.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAvwAYAAAAlAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-31T10:43:20.05Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 47,
-              "Title": "EFNhanVienreponsitory.cs",
-              "DocumentMoniker": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\Reponsitory\\EFNhanVienreponsitory.cs",
-              "RelativeDocumentMoniker": "BAO_CAO\\Reponsitory\\EFNhanVienreponsitory.cs",
-              "ToolTip": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\Reponsitory\\EFNhanVienreponsitory.cs",
-              "RelativeToolTip": "BAO_CAO\\Reponsitory\\EFNhanVienreponsitory.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-31T10:36:07.677Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 48,
-              "Title": "EFKhachHangreponsitory.cs",
-              "DocumentMoniker": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\Reponsitory\\EFKhachHangreponsitory.cs",
-              "RelativeDocumentMoniker": "BAO_CAO\\Reponsitory\\EFKhachHangreponsitory.cs",
-              "ToolTip": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\Reponsitory\\EFKhachHangreponsitory.cs",
-              "RelativeToolTip": "BAO_CAO\\Reponsitory\\EFKhachHangreponsitory.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABgAAAAtAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-31T10:28:01.124Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 50,
-              "Title": "INhanVienreponsitory.cs",
-              "DocumentMoniker": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\Reponsitory\\INhanVienreponsitory.cs",
-              "RelativeDocumentMoniker": "BAO_CAO\\Reponsitory\\INhanVienreponsitory.cs",
-              "ToolTip": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\Reponsitory\\INhanVienreponsitory.cs",
-              "RelativeToolTip": "BAO_CAO\\Reponsitory\\INhanVienreponsitory.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAsAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-31T10:32:28.563Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 49,
-              "Title": "EFPhongReponsitory.cs",
-              "DocumentMoniker": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\Reponsitory\\EFPhongReponsitory.cs",
-              "RelativeDocumentMoniker": "BAO_CAO\\Reponsitory\\EFPhongReponsitory.cs",
-              "ToolTip": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\Reponsitory\\EFPhongReponsitory.cs",
-              "RelativeToolTip": "BAO_CAO\\Reponsitory\\EFPhongReponsitory.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBMAAAAHAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-28T14:19:45.228Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 51,
-              "Title": "IKhachHangreponsitory.cs",
-              "DocumentMoniker": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\Reponsitory\\IKhachHangreponsitory.cs",
-              "RelativeDocumentMoniker": "BAO_CAO\\Reponsitory\\IKhachHangreponsitory.cs",
-              "ToolTip": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\Reponsitory\\IKhachHangreponsitory.cs",
-              "RelativeToolTip": "BAO_CAO\\Reponsitory\\IKhachHangreponsitory.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAiAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-31T10:28:10.701Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 78,
-              "Title": "20250331102605_themhopdongthue1.cs",
-              "DocumentMoniker": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\Migrations\\20250331102605_themhopdongthue1.cs",
-              "RelativeDocumentMoniker": "BAO_CAO\\Migrations\\20250331102605_themhopdongthue1.cs",
-              "ToolTip": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\Migrations\\20250331102605_themhopdongthue1.cs",
-              "RelativeToolTip": "BAO_CAO\\Migrations\\20250331102605_themhopdongthue1.cs",
-              "ViewState": "AgIAABwAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-31T10:26:05.265Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 52,
-              "Title": "Iphongreponsitory.cs",
-              "DocumentMoniker": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\Reponsitory\\Iphongreponsitory.cs",
-              "RelativeDocumentMoniker": "BAO_CAO\\Reponsitory\\Iphongreponsitory.cs",
-              "ToolTip": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\Reponsitory\\Iphongreponsitory.cs",
-              "RelativeToolTip": "BAO_CAO\\Reponsitory\\Iphongreponsitory.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAnAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-23T02:04:37.904Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 79,
-              "Title": "20250331102439_themhodo.cs",
-              "DocumentMoniker": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\Migrations\\20250331102439_themhodo.cs",
-              "RelativeDocumentMoniker": "BAO_CAO\\Migrations\\20250331102439_themhodo.cs",
-              "ToolTip": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\Migrations\\20250331102439_themhodo.cs",
-              "RelativeToolTip": "BAO_CAO\\Migrations\\20250331102439_themhodo.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-31T10:24:39.317Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 53,
-              "Title": "Error.cshtml",
-              "DocumentMoniker": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\Views\\Shared\\Error.cshtml",
-              "RelativeDocumentMoniker": "BAO_CAO\\Views\\Shared\\Error.cshtml",
-              "ToolTip": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\Views\\Shared\\Error.cshtml",
-              "RelativeToolTip": "BAO_CAO\\Views\\Shared\\Error.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-28T11:23:02.889Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 54,
-              "Title": "AccessDenied.cshtml",
-              "DocumentMoniker": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\Areas\\Identity\\Pages\\Account\\AccessDenied.cshtml",
-              "RelativeDocumentMoniker": "BAO_CAO\\Areas\\Identity\\Pages\\Account\\AccessDenied.cshtml",
-              "ToolTip": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\Areas\\Identity\\Pages\\Account\\AccessDenied.cshtml",
-              "RelativeToolTip": "BAO_CAO\\Areas\\Identity\\Pages\\Account\\AccessDenied.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-30T15:04:44.951Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 55,
-              "Title": "Login.cshtml",
-              "DocumentMoniker": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
-              "RelativeDocumentMoniker": "BAO_CAO\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
-              "ToolTip": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
-              "RelativeToolTip": "BAO_CAO\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
-              "ViewState": "AgIAAEoAAAAAAAAAAAAYwF4AAAAQAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-28T12:01:53.106Z",
+              "WhenOpened": "2025-03-31T11:59:51.3Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 56,
+              "DocumentIndex": 38,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "BAO_CAO\\Models\\ErrorViewModel.cs",
+              "ToolTip": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "BAO_CAO\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T13:32:14.032Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
               "Title": "_ViewStart.cshtml",
               "DocumentMoniker": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\Views\\_ViewStart.cshtml",
               "RelativeDocumentMoniker": "BAO_CAO\\Views\\_ViewStart.cshtml",
@@ -1081,11 +853,311 @@
               "RelativeToolTip": "BAO_CAO\\Views\\_ViewStart.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-28T11:23:02.309Z"
+              "WhenOpened": "2025-03-28T11:23:02.309Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "20250403103328_1.cs",
+              "DocumentMoniker": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\Migrations\\20250403103328_1.cs",
+              "RelativeDocumentMoniker": "BAO_CAO\\Migrations\\20250403103328_1.cs",
+              "ToolTip": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\Migrations\\20250403103328_1.cs",
+              "RelativeToolTip": "BAO_CAO\\Migrations\\20250403103328_1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T10:33:28.456Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\Areas\\Admin\\Views\\Phong\\Delete.cshtml",
+              "RelativeDocumentMoniker": "BAO_CAO\\Areas\\Admin\\Views\\Phong\\Delete.cshtml",
+              "ToolTip": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\Areas\\Admin\\Views\\Phong\\Delete.cshtml",
+              "RelativeToolTip": "BAO_CAO\\Areas\\Admin\\Views\\Phong\\Delete.cshtml",
+              "ViewState": "AgIAABYAAAAAAAAAAIBJwBkAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-30T10:18:51.109Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\Areas\\Admin\\Views\\Phong\\Index.cshtml",
+              "RelativeDocumentMoniker": "BAO_CAO\\Areas\\Admin\\Views\\Phong\\Index.cshtml",
+              "ToolTip": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\Areas\\Admin\\Views\\Phong\\Index.cshtml",
+              "RelativeToolTip": "BAO_CAO\\Areas\\Admin\\Views\\Phong\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-28T14:32:22.269Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "Display.cshtml",
+              "DocumentMoniker": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\Areas\\Admin\\Views\\NhanVien\\Display.cshtml",
+              "RelativeDocumentMoniker": "BAO_CAO\\Areas\\Admin\\Views\\NhanVien\\Display.cshtml",
+              "ToolTip": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\Areas\\Admin\\Views\\NhanVien\\Display.cshtml",
+              "RelativeToolTip": "BAO_CAO\\Areas\\Admin\\Views\\NhanVien\\Display.cshtml",
+              "ViewState": "AgIAABsAAAAAAAAAAIBJwCkAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-31T12:33:39.392Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "Add.cshtml",
+              "DocumentMoniker": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\Areas\\Admin\\Views\\NhanVien\\Add.cshtml",
+              "RelativeDocumentMoniker": "BAO_CAO\\Areas\\Admin\\Views\\NhanVien\\Add.cshtml",
+              "ToolTip": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\Areas\\Admin\\Views\\NhanVien\\Add.cshtml",
+              "RelativeToolTip": "BAO_CAO\\Areas\\Admin\\Views\\NhanVien\\Add.cshtml",
+              "ViewState": "AgIAAAgAAAAAAAAAAIBJwBEAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-31T12:05:28.355Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\Areas\\Admin\\Views\\NhanVien\\Delete.cshtml",
+              "RelativeDocumentMoniker": "BAO_CAO\\Areas\\Admin\\Views\\NhanVien\\Delete.cshtml",
+              "ToolTip": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\Areas\\Admin\\Views\\NhanVien\\Delete.cshtml",
+              "RelativeToolTip": "BAO_CAO\\Areas\\Admin\\Views\\NhanVien\\Delete.cshtml",
+              "ViewState": "AgIAACAAAAAAAAAAAIBJwDYAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-31T12:48:40.909Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "Add.cshtml",
+              "DocumentMoniker": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\Areas\\Admin\\Views\\KhachHang\\Add.cshtml",
+              "RelativeDocumentMoniker": "BAO_CAO\\Areas\\Admin\\Views\\KhachHang\\Add.cshtml",
+              "ToolTip": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\Areas\\Admin\\Views\\KhachHang\\Add.cshtml",
+              "RelativeToolTip": "BAO_CAO\\Areas\\Admin\\Views\\KhachHang\\Add.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBJwBQAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-31T11:20:38.709Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "Update.cshtml",
+              "DocumentMoniker": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\Areas\\Admin\\Views\\KhachHang\\Update.cshtml",
+              "RelativeDocumentMoniker": "BAO_CAO\\Areas\\Admin\\Views\\KhachHang\\Update.cshtml",
+              "ToolTip": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\Areas\\Admin\\Views\\KhachHang\\Update.cshtml",
+              "RelativeToolTip": "BAO_CAO\\Areas\\Admin\\Views\\KhachHang\\Update.cshtml",
+              "ViewState": "AgIAACEAAAAAAAAAAIBJwEMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-31T12:37:33.222Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "Update.cshtml",
+              "DocumentMoniker": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\Areas\\Admin\\Views\\NhanVien\\Update.cshtml",
+              "RelativeDocumentMoniker": "BAO_CAO\\Areas\\Admin\\Views\\NhanVien\\Update.cshtml",
+              "ToolTip": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\Areas\\Admin\\Views\\NhanVien\\Update.cshtml",
+              "RelativeToolTip": "BAO_CAO\\Areas\\Admin\\Views\\NhanVien\\Update.cshtml",
+              "ViewState": "AgIAACEAAAAAAAAAAIBJwDIAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-31T12:40:40.258Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "Display.cshtml",
+              "DocumentMoniker": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\Areas\\Admin\\Views\\KhachHang\\Display.cshtml",
+              "RelativeDocumentMoniker": "BAO_CAO\\Areas\\Admin\\Views\\KhachHang\\Display.cshtml",
+              "ToolTip": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\Areas\\Admin\\Views\\KhachHang\\Display.cshtml",
+              "RelativeToolTip": "BAO_CAO\\Areas\\Admin\\Views\\KhachHang\\Display.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAIBJwBAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-31T12:21:01.918Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\Areas\\Admin\\Views\\KhachHang\\Index.cshtml",
+              "RelativeDocumentMoniker": "BAO_CAO\\Areas\\Admin\\Views\\KhachHang\\Index.cshtml",
+              "ToolTip": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\Areas\\Admin\\Views\\KhachHang\\Index.cshtml",
+              "RelativeToolTip": "BAO_CAO\\Areas\\Admin\\Views\\KhachHang\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAABbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-31T11:01:42.524Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\Areas\\Admin\\Views\\TrangQL\\Index.cshtml",
+              "RelativeDocumentMoniker": "BAO_CAO\\Areas\\Admin\\Views\\TrangQL\\Index.cshtml",
+              "ToolTip": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\Areas\\Admin\\Views\\TrangQL\\Index.cshtml",
+              "RelativeToolTip": "BAO_CAO\\Areas\\Admin\\Views\\TrangQL\\Index.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAiwCsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-30T10:52:56.371Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "Update.cshtml",
+              "DocumentMoniker": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\Areas\\Admin\\Views\\Phong\\Update.cshtml",
+              "RelativeDocumentMoniker": "BAO_CAO\\Areas\\Admin\\Views\\Phong\\Update.cshtml",
+              "ToolTip": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\Areas\\Admin\\Views\\Phong\\Update.cshtml",
+              "RelativeToolTip": "BAO_CAO\\Areas\\Admin\\Views\\Phong\\Update.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-30T14:22:08.074Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "Add.cshtml",
+              "DocumentMoniker": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\Areas\\Admin\\Views\\Phong\\Add.cshtml",
+              "RelativeDocumentMoniker": "BAO_CAO\\Areas\\Admin\\Views\\Phong\\Add.cshtml",
+              "ToolTip": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\Areas\\Admin\\Views\\Phong\\Add.cshtml",
+              "RelativeToolTip": "BAO_CAO\\Areas\\Admin\\Views\\Phong\\Add.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-30T10:42:04.312Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\Areas\\Admin\\Views\\NhanVien\\Index.cshtml",
+              "RelativeDocumentMoniker": "BAO_CAO\\Areas\\Admin\\Views\\NhanVien\\Index.cshtml",
+              "ToolTip": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\Areas\\Admin\\Views\\NhanVien\\Index.cshtml",
+              "RelativeToolTip": "BAO_CAO\\Areas\\Admin\\Views\\NhanVien\\Index.cshtml",
+              "ViewState": "AgIAABsAAAAAAAAAAIBJwD4AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-31T11:55:56.509Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "Display.cshtml",
+              "DocumentMoniker": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\Areas\\Admin\\Views\\Phong\\Display.cshtml",
+              "RelativeDocumentMoniker": "BAO_CAO\\Areas\\Admin\\Views\\Phong\\Display.cshtml",
+              "ToolTip": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\Areas\\Admin\\Views\\Phong\\Display.cshtml",
+              "RelativeToolTip": "BAO_CAO\\Areas\\Admin\\Views\\Phong\\Display.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAIBJwCQAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-30T13:53:07.706Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "Admin_layout.cshtml",
+              "DocumentMoniker": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\Views\\Shared\\Admin_layout.cshtml",
+              "RelativeDocumentMoniker": "BAO_CAO\\Views\\Shared\\Admin_layout.cshtml",
+              "ToolTip": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\Views\\Shared\\Admin_layout.cshtml",
+              "RelativeToolTip": "BAO_CAO\\Views\\Shared\\Admin_layout.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAIBJwBQAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-29T06:15:02.992Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 57,
+              "Title": "Profile.cshtml",
+              "DocumentMoniker": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\Views\\Home\\Profile.cshtml",
+              "RelativeDocumentMoniker": "BAO_CAO\\Views\\Home\\Profile.cshtml",
+              "ToolTip": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\Views\\Home\\Profile.cshtml",
+              "RelativeToolTip": "BAO_CAO\\Views\\Home\\Profile.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-28T13:02:09.467Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "BAO_CAO\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "ToolTip": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "BAO_CAO\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-31T10:49:01.746Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "EFNhanVienreponsitory.cs",
+              "DocumentMoniker": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\Reponsitory\\EFNhanVienreponsitory.cs",
+              "RelativeDocumentMoniker": "BAO_CAO\\Reponsitory\\EFNhanVienreponsitory.cs",
+              "ToolTip": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\Reponsitory\\EFNhanVienreponsitory.cs",
+              "RelativeToolTip": "BAO_CAO\\Reponsitory\\EFNhanVienreponsitory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T10:36:07.677Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "INhanVienreponsitory.cs",
+              "DocumentMoniker": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\Reponsitory\\INhanVienreponsitory.cs",
+              "RelativeDocumentMoniker": "BAO_CAO\\Reponsitory\\INhanVienreponsitory.cs",
+              "ToolTip": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\Reponsitory\\INhanVienreponsitory.cs",
+              "RelativeToolTip": "BAO_CAO\\Reponsitory\\INhanVienreponsitory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T10:32:28.563Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "BAO_CAO\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "BAO_CAO\\Views\\Shared\\Error.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-28T11:23:02.889Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "AccessDenied.cshtml",
+              "DocumentMoniker": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\Areas\\Identity\\Pages\\Account\\AccessDenied.cshtml",
+              "RelativeDocumentMoniker": "BAO_CAO\\Areas\\Identity\\Pages\\Account\\AccessDenied.cshtml",
+              "ToolTip": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\Areas\\Identity\\Pages\\Account\\AccessDenied.cshtml",
+              "RelativeToolTip": "BAO_CAO\\Areas\\Identity\\Pages\\Account\\AccessDenied.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-30T15:04:44.951Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
               "Title": "SD.cs",
               "DocumentMoniker": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\Areas\\Admin\\Models\\SD.cs",
               "RelativeDocumentMoniker": "BAO_CAO\\Areas\\Admin\\Models\\SD.cs",
@@ -1093,11 +1165,12 @@
               "RelativeToolTip": "BAO_CAO\\Areas\\Admin\\Models\\SD.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-30T14:34:58.78Z"
+              "WhenOpened": "2025-03-30T14:34:58.78Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 58,
+              "DocumentIndex": 64,
               "Title": "adminLayout.css",
               "DocumentMoniker": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\wwwroot\\css\\adminLayout.css",
               "RelativeDocumentMoniker": "BAO_CAO\\wwwroot\\css\\adminLayout.css",
@@ -1105,11 +1178,12 @@
               "RelativeToolTip": "BAO_CAO\\wwwroot\\css\\adminLayout.css",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAFsAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-03-30T13:41:04.31Z"
+              "WhenOpened": "2025-03-30T13:41:04.31Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 59,
+              "DocumentIndex": 65,
               "Title": "phong.css",
               "DocumentMoniker": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\wwwroot\\css\\phong.css",
               "RelativeDocumentMoniker": "BAO_CAO\\wwwroot\\css\\phong.css",
@@ -1117,11 +1191,12 @@
               "RelativeToolTip": "BAO_CAO\\wwwroot\\css\\phong.css",
               "ViewState": "AgIAAGAAAAAAAAAAAAAlwIgAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-03-28T14:33:12.435Z"
+              "WhenOpened": "2025-03-28T14:33:12.435Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 60,
+              "DocumentIndex": 66,
               "Title": "Logout.cshtml",
               "DocumentMoniker": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\Areas\\Identity\\Pages\\Account\\Logout.cshtml",
               "RelativeDocumentMoniker": "BAO_CAO\\Areas\\Identity\\Pages\\Account\\Logout.cshtml",
@@ -1134,19 +1209,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 61,
-              "Title": "_Layout.cshtml.css",
-              "DocumentMoniker": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\Views\\Shared\\_Layout.cshtml.css",
-              "RelativeDocumentMoniker": "BAO_CAO\\Views\\Shared\\_Layout.cshtml.css",
-              "ToolTip": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\Views\\Shared\\_Layout.cshtml.css",
-              "RelativeToolTip": "BAO_CAO\\Views\\Shared\\_Layout.cshtml.css",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-03-27T14:35:10.196Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 62,
+              "DocumentIndex": 67,
               "Title": "style.css",
               "DocumentMoniker": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\wwwroot\\css\\style.css",
               "RelativeDocumentMoniker": "BAO_CAO\\wwwroot\\css\\style.css",
@@ -1154,23 +1217,12 @@
               "RelativeToolTip": "BAO_CAO\\wwwroot\\css\\style.css",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-03-28T15:14:08.487Z"
+              "WhenOpened": "2025-03-28T15:14:08.487Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 76,
-              "Title": "20250328144300_themphong.cs",
-              "DocumentMoniker": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\Migrations\\20250328144300_themphong.cs",
-              "RelativeDocumentMoniker": "BAO_CAO\\Migrations\\20250328144300_themphong.cs",
-              "ToolTip": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\Migrations\\20250328144300_themphong.cs",
-              "RelativeToolTip": "BAO_CAO\\Migrations\\20250328144300_themphong.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-28T14:43:01.099Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 63,
+              "DocumentIndex": 68,
               "Title": "site.css",
               "DocumentMoniker": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\wwwroot\\css\\site.css",
               "RelativeDocumentMoniker": "BAO_CAO\\wwwroot\\css\\site.css",
@@ -1178,11 +1230,12 @@
               "RelativeToolTip": "BAO_CAO\\wwwroot\\css\\site.css",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-03-28T11:28:34.325Z"
+              "WhenOpened": "2025-03-28T11:28:34.325Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 64,
+              "DocumentIndex": 69,
               "Title": "normalize.css",
               "DocumentMoniker": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\wwwroot\\css\\normalize.css",
               "RelativeDocumentMoniker": "BAO_CAO\\wwwroot\\css\\normalize.css",
@@ -1190,11 +1243,12 @@
               "RelativeToolTip": "BAO_CAO\\wwwroot\\css\\normalize.css",
               "ViewState": "AgIAAOkAAAAAAAAAAAAtwBEAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-03-28T11:06:20.79Z"
+              "WhenOpened": "2025-03-28T11:06:20.79Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 65,
+              "DocumentIndex": 70,
               "Title": "_ViewImports.cshtml",
               "DocumentMoniker": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\Areas\\Identity\\Pages\\Account\\_ViewImports.cshtml",
               "RelativeDocumentMoniker": "BAO_CAO\\Areas\\Identity\\Pages\\Account\\_ViewImports.cshtml",
@@ -1202,11 +1256,12 @@
               "RelativeToolTip": "BAO_CAO\\Areas\\Identity\\Pages\\Account\\_ViewImports.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-27T14:59:57.846Z"
+              "WhenOpened": "2025-03-27T14:59:57.846Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 66,
+              "DocumentIndex": 71,
               "Title": "vendor.css",
               "DocumentMoniker": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\wwwroot\\css\\vendor.css",
               "RelativeDocumentMoniker": "BAO_CAO\\wwwroot\\css\\vendor.css",
@@ -1214,11 +1269,12 @@
               "RelativeToolTip": "BAO_CAO\\wwwroot\\css\\vendor.css",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-03-28T11:23:38.365Z"
+              "WhenOpened": "2025-03-28T11:23:38.365Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 67,
+              "DocumentIndex": 72,
               "Title": "theme-default.css",
               "DocumentMoniker": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\wwwroot\\vendor\\css\\theme-default.css",
               "RelativeDocumentMoniker": "BAO_CAO\\wwwroot\\vendor\\css\\theme-default.css",
@@ -1226,11 +1282,12 @@
               "RelativeToolTip": "BAO_CAO\\wwwroot\\vendor\\css\\theme-default.css",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAABaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-03-28T11:06:33.147Z"
+              "WhenOpened": "2025-03-28T11:06:33.147Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 68,
+              "DocumentIndex": 73,
               "Title": "core.css",
               "DocumentMoniker": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\wwwroot\\vendor\\css\\core.css",
               "RelativeDocumentMoniker": "BAO_CAO\\wwwroot\\vendor\\css\\core.css",
@@ -1238,11 +1295,12 @@
               "RelativeToolTip": "BAO_CAO\\wwwroot\\vendor\\css\\core.css",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-03-28T11:06:30.053Z"
+              "WhenOpened": "2025-03-28T11:06:30.053Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 69,
+              "DocumentIndex": 74,
               "Title": "_ValidationScriptsPartial.cshtml",
               "DocumentMoniker": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\Areas\\Identity\\Pages\\_ValidationScriptsPartial.cshtml",
               "RelativeDocumentMoniker": "BAO_CAO\\Areas\\Identity\\Pages\\_ValidationScriptsPartial.cshtml",
@@ -1250,11 +1308,12 @@
               "RelativeToolTip": "BAO_CAO\\Areas\\Identity\\Pages\\_ValidationScriptsPartial.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-27T16:11:30.816Z"
+              "WhenOpened": "2025-03-27T16:11:30.816Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 70,
+              "DocumentIndex": 75,
               "Title": "_ViewImports.cshtml",
               "DocumentMoniker": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\Areas\\Identity\\Pages\\_ViewImports.cshtml",
               "RelativeDocumentMoniker": "BAO_CAO\\Areas\\Identity\\Pages\\_ViewImports.cshtml",
@@ -1262,24 +1321,12 @@
               "RelativeToolTip": "BAO_CAO\\Areas\\Identity\\Pages\\_ViewImports.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-28T10:54:39.774Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 71,
-              "Title": "Login.cshtml.cs",
-              "DocumentMoniker": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
-              "RelativeDocumentMoniker": "BAO_CAO\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
-              "ToolTip": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
-              "RelativeToolTip": "BAO_CAO\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
-              "ViewState": "AgIAAFkAAAAAAAAAAAAUwG8AAABMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-27T13:49:55.458Z",
+              "WhenOpened": "2025-03-28T10:54:39.774Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 72,
+              "DocumentIndex": 76,
               "Title": "BAO_CAO.csproj",
               "DocumentMoniker": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\BAO_CAO.csproj",
               "RelativeDocumentMoniker": "BAO_CAO\\BAO_CAO.csproj",
@@ -1287,23 +1334,12 @@
               "RelativeToolTip": "BAO_CAO\\BAO_CAO.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-03-23T01:53:22.236Z"
+              "WhenOpened": "2025-03-23T01:53:22.236Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 75,
-              "Title": "20250323023139_adddentity.cs",
-              "DocumentMoniker": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\Migrations\\20250323023139_adddentity.cs",
-              "RelativeDocumentMoniker": "BAO_CAO\\Migrations\\20250323023139_adddentity.cs",
-              "ToolTip": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\Migrations\\20250323023139_adddentity.cs",
-              "RelativeToolTip": "BAO_CAO\\Migrations\\20250323023139_adddentity.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-23T02:31:39.899Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 74,
+              "DocumentIndex": 78,
               "Title": "site.js",
               "DocumentMoniker": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\wwwroot\\js\\site.js",
               "RelativeDocumentMoniker": "BAO_CAO\\wwwroot\\js\\site.js",
@@ -1311,17 +1347,19 @@
               "RelativeToolTip": "BAO_CAO\\wwwroot\\js\\site.js",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2025-03-22T06:36:15.688Z"
+              "WhenOpened": "2025-03-22T06:36:15.688Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 73,
+              "DocumentIndex": 77,
               "Title": "index.html",
               "DocumentMoniker": "C:\\Users\\hello\\Downloads\\teamplate\\kaira-1.0.0\\kaira-1.0.0\\index.html",
               "ToolTip": "C:\\Users\\hello\\Downloads\\teamplate\\kaira-1.0.0\\kaira-1.0.0\\index.html",
               "ViewState": "AgIAAJIBAAAAAAAAAAAYwK0BAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2025-03-22T06:35:42.548Z"
+              "WhenOpened": "2025-03-22T06:35:42.548Z",
+              "EditorCaption": ""
             }
           ]
         }

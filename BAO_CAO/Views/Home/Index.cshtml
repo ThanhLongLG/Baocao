@@ -318,7 +318,7 @@
                 <div class="swiper-slide">
                     <div class="testimonial-item text-center">
                         <blockquote>
-                            <p>“More than expected crazy soft, flexible and best fitted white simple denim shirt.”</p>
+                            <p>"More than expected crazy soft, flexible and best fitted white simple denim shirt."</p>
                             <div class="review-title text-uppercase">casual way</div>
                         </blockquote>
                     </div>
@@ -326,7 +326,7 @@
                 <div class="swiper-slide">
                     <div class="testimonial-item text-center">
                         <blockquote>
-                            <p>“Best fitted white denim shirt more than expected crazy soft, flexible</p>
+                            <p>"Best fitted white denim shirt more than expected crazy soft, flexible</p>
                             <div class="review-title text-uppercase">uptop</div>
                         </blockquote>
                     </div>
@@ -334,7 +334,7 @@
                 <div class="swiper-slide">
                     <div class="testimonial-item text-center">
                         <blockquote>
-                            <p>“Best fitted white denim shirt more white denim than expected flexible crazy soft.”</p>
+                            <p>"Best fitted white denim shirt more white denim than expected flexible crazy soft."</p>
                             <div class="review-title text-uppercase">Denim craze</div>
                         </blockquote>
                     </div>
@@ -342,7 +342,7 @@
                 <div class="swiper-slide">
                     <div class="testimonial-item text-center">
                         <blockquote>
-                            <p>“Best fitted white denim shirt more than expected crazy soft, flexible</p>
+                            <p>"Best fitted white denim shirt more than expected crazy soft, flexible</p>
                             <div class="review-title text-uppercase">uptop</div>
                         </blockquote>
                     </div>
@@ -695,7 +695,10 @@
                                 <p><strong>Giá:</strong> ${room.gia} VNĐ</p>
                             </div>
                             <div class="btnright">
-                                <a href="#" class="btn-link fs-6 text-uppercase item-anchor text-decoration-none">Đặt Phòng</a>
+                                <a href="#" onclick="bookRoom(${room.maphong}, ${room.gia})"
+                                   class="btn-link fs-6 text-uppercase item-anchor text-decoration-none">
+                                    Đặt Phòng
+                                </a>
                             </div>
                         </div>
                     `;
@@ -706,5 +709,101 @@
     }
 
     // Gọi hàm khi trang tải xong
-    document.addEventListener("DOMContentLoaded", loadRooms);
+
+
+          function bookRoom(roomId) {
+        let maKH = localStorage.getItem("MaKH"); // Lấy MaKH từ localStorage hoặc session
+        if (!maKH) {
+            alert("Bạn cần đăng nhập để đặt phòng!");
+            return;
+        }
+
+        // Tạo form để chọn ngày
+        const modalHtml = `
+            <div class="modal fade" id="bookingModal" tabindex="-1">
+                <div class="modal-dialog">
+                    <div class="modal-content">
+                        <div class="modal-header">
+                            <h5 class="modal-title">Chọn ngày đặt phòng</h5>
+                            <button type="button" class="btn-close" data-bs-dismiss="modal"></button>
+                        </div>
+                        <div class="modal-body">
+                            <div class="mb-3">
+                                <label for="checkInDate" class="form-label">Ngày nhận phòng:</label>
+                                <input type="date" class="form-control" id="checkInDate" required>
+                            </div>
+                            <div class="mb-3">
+                                <label for="checkOutDate" class="form-label">Ngày trả phòng:</label>
+                                <input type="date" class="form-control" id="checkOutDate" required>
+                            </div>
+                        </div>
+                        <div class="modal-footer">
+                            <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Đóng</button>
+                            <button type="button" class="btn btn-primary" onclick="confirmBooking(${roomId})">Xác nhận</button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        `;
+
+        // Thêm modal vào body nếu chưa có
+        if (!document.getElementById('bookingModal')) {
+            document.body.insertAdjacentHTML('beforeend', modalHtml);
+        }
+
+        // Hiển thị modal
+        const modal = new bootstrap.Modal(document.getElementById('bookingModal'));
+        modal.show();
+    }
+
+    function confirmBooking(roomId) {
+        const checkInDate = document.getElementById('checkInDate').value;
+        const checkOutDate = document.getElementById('checkOutDate').value;
+        const maKH = localStorage.getItem("MaKH");
+
+        if (!checkInDate || !checkOutDate) {
+            alert("Vui lòng chọn ngày nhận phòng và trả phòng!");
+            return;
+        }
+
+        const requestData = {
+            Maphong: roomId,
+            MaKH: maKH,
+            CheckInDate: new Date(checkInDate).toISOString(),
+            CheckOutDate: new Date(checkOutDate).toISOString()
+        };
+
+        console.log("📤 Dữ liệu gửi đi:", JSON.stringify(requestData));
+
+        fetch('/api/booking/book', {
+            method: 'POST',
+            headers: {
+                'Content-Type': 'application/json'
+            },
+            body: JSON.stringify(requestData)
+        })
+        .then(response => {
+            if (!response.ok) {
+                return response.json().then(err => {
+                    throw new Error(err.Message || "Đặt phòng thất bại");
+                });
+            }
+            return response.json();
+        })
+        .then(data => {
+            console.log("📩 Phản hồi từ server:", data);
+            alert(data.Message || "Đặt phòng thành công!");
+            // Đóng modal sau khi đặt phòng thành công
+            const modal = bootstrap.Modal.getInstance(document.getElementById('bookingModal'));
+            modal.hide();
+        })
+        .catch(error => {
+            console.error("❌ Lỗi khi đặt phòng:", error);
+            alert(error.message || "Đặt phòng thất bại.");
+        });
+    }
+
+
+
+        document.addEventListener("DOMContentLoaded", loadRooms);
 </script>

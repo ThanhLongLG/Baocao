@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "AX3254WVuhIQ+K6hSRYjH+IOcValJO4oHxNQGLljjDw=",
+  "Hash": "HyuEQTsrNNkxinVTbHkEbqTcXDWPMfjxs7OwsF2D+cA=",
   "Source": "BAO_CAO",
   "BasePath": "_content/BAO_CAO",
   "Mode": "Default",
@@ -1291,8 +1291,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "ScopedCss",
       "AssetTraitValue": "ApplicationBundle",
-      "Fingerprint": "xmu1dxi8nq",
-      "Integrity": "pz1STqK2uUmIhSGUXT9SVCJqEztDIEyuPODrEBOw8Mg=",
+      "Fingerprint": "aa89q3yp3w",
+      "Integrity": "MjgIuNMeKiU3Duxmx6TUoJD5bwEhZcTPOMi8w0uEyss=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\obj\\Debug\\net8.0\\scopedcss\\bundle\\BAO_CAO.styles.css"
@@ -1312,8 +1312,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "ScopedCss",
       "AssetTraitValue": "ProjectBundle",
-      "Fingerprint": "xmu1dxi8nq",
-      "Integrity": "pz1STqK2uUmIhSGUXT9SVCJqEztDIEyuPODrEBOw8Mg=",
+      "Fingerprint": "aa89q3yp3w",
+      "Integrity": "MjgIuNMeKiU3Duxmx6TUoJD5bwEhZcTPOMi8w0uEyss=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\BAO_CAO.bundle.scp.css"
@@ -35570,6 +35570,96 @@
       ]
     },
     {
+      "Route": "BAO_CAO.aa89q3yp3w.bundle.scp.css",
+      "AssetFile": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\BAO_CAO.bundle.scp.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1166"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"MjgIuNMeKiU3Duxmx6TUoJD5bwEhZcTPOMi8w0uEyss=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 03 Apr 2025 14:45:34 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "aa89q3yp3w"
+        },
+        {
+          "Name": "label",
+          "Value": "BAO_CAO.bundle.scp.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-MjgIuNMeKiU3Duxmx6TUoJD5bwEhZcTPOMi8w0uEyss="
+        }
+      ]
+    },
+    {
+      "Route": "BAO_CAO.aa89q3yp3w.styles.css",
+      "AssetFile": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\obj\\Debug\\net8.0\\scopedcss\\bundle\\BAO_CAO.styles.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1166"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"MjgIuNMeKiU3Duxmx6TUoJD5bwEhZcTPOMi8w0uEyss=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 03 Apr 2025 14:45:34 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "aa89q3yp3w"
+        },
+        {
+          "Name": "label",
+          "Value": "BAO_CAO.styles.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-MjgIuNMeKiU3Duxmx6TUoJD5bwEhZcTPOMi8w0uEyss="
+        }
+      ]
+    },
+    {
       "Route": "BAO_CAO.bundle.scp.css",
       "AssetFile": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\BAO_CAO.bundle.scp.css",
       "Selectors": [],
@@ -35580,7 +35670,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1125"
+          "Value": "1166"
         },
         {
           "Name": "Content-Type",
@@ -35588,11 +35678,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"pz1STqK2uUmIhSGUXT9SVCJqEztDIEyuPODrEBOw8Mg=\""
+          "Value": "\"MjgIuNMeKiU3Duxmx6TUoJD5bwEhZcTPOMi8w0uEyss=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 30 Mar 2025 14:21:01 GMT"
+          "Value": "Thu, 03 Apr 2025 14:45:34 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -35602,7 +35692,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-pz1STqK2uUmIhSGUXT9SVCJqEztDIEyuPODrEBOw8Mg="
+          "Value": "sha256-MjgIuNMeKiU3Duxmx6TUoJD5bwEhZcTPOMi8w0uEyss="
         }
       ]
     },
@@ -35617,7 +35707,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1125"
+          "Value": "1166"
         },
         {
           "Name": "Content-Type",
@@ -35625,11 +35715,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"pz1STqK2uUmIhSGUXT9SVCJqEztDIEyuPODrEBOw8Mg=\""
+          "Value": "\"MjgIuNMeKiU3Duxmx6TUoJD5bwEhZcTPOMi8w0uEyss=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 30 Mar 2025 14:21:01 GMT"
+          "Value": "Thu, 03 Apr 2025 14:45:34 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -35639,97 +35729,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-pz1STqK2uUmIhSGUXT9SVCJqEztDIEyuPODrEBOw8Mg="
-        }
-      ]
-    },
-    {
-      "Route": "BAO_CAO.xmu1dxi8nq.bundle.scp.css",
-      "AssetFile": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\BAO_CAO.bundle.scp.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "1125"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"pz1STqK2uUmIhSGUXT9SVCJqEztDIEyuPODrEBOw8Mg=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sun, 30 Mar 2025 14:21:01 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "xmu1dxi8nq"
-        },
-        {
-          "Name": "label",
-          "Value": "BAO_CAO.bundle.scp.css"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-pz1STqK2uUmIhSGUXT9SVCJqEztDIEyuPODrEBOw8Mg="
-        }
-      ]
-    },
-    {
-      "Route": "BAO_CAO.xmu1dxi8nq.styles.css",
-      "AssetFile": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\obj\\Debug\\net8.0\\scopedcss\\bundle\\BAO_CAO.styles.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "1125"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"pz1STqK2uUmIhSGUXT9SVCJqEztDIEyuPODrEBOw8Mg=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sun, 30 Mar 2025 14:21:01 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "xmu1dxi8nq"
-        },
-        {
-          "Name": "label",
-          "Value": "BAO_CAO.styles.css"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-pz1STqK2uUmIhSGUXT9SVCJqEztDIEyuPODrEBOw8Mg="
+          "Value": "sha256-MjgIuNMeKiU3Duxmx6TUoJD5bwEhZcTPOMi8w0uEyss="
         }
       ]
     },
@@ -43306,7 +43306,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 22 Mar 2025 12:23:52 GMT"
+          "Value": "Thu, 03 Apr 2025 12:29:14 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -43351,7 +43351,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 22 Mar 2025 12:23:52 GMT"
+          "Value": "Thu, 03 Apr 2025 12:29:14 GMT"
         },
         {
           "Name": "Cache-Control",

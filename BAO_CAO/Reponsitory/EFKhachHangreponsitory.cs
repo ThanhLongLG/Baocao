@@ -28,20 +28,24 @@ namespace BAO_CAO.Reponsitory
         {
             return await _context.KhachHang.ToListAsync();
         }
- 
+
+        public async Task<KhachHang?> GetByUserIdAsync(string userId)
+        {
+            return await _context.KhachHang.FirstOrDefaultAsync(kh => kh.UserId == userId);
+        }
         public async Task AddAsync(KhachHang khachHang)
         {
             _context.KhachHang.Add(khachHang);
             await _context.SaveChangesAsync();
         }
-        public async Task DeleteAsync(int Makh)
+        public async Task DeleteAsync(string Makh)
         {
             var khachHang = await _context.KhachHang.FindAsync(Makh);
             _context.KhachHang.Remove(khachHang);
             await _context.SaveChangesAsync();
         }
 
-        public async Task<KhachHang> GetByIdAsync(int Makh)
+        public async Task<KhachHang> GetByIdAsync(string Makh)
         {
             return await _context.KhachHang.FindAsync(Makh);
         }

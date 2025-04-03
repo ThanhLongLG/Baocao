@@ -13,16 +13,17 @@ namespace BAO_CAO.Models
         [MaxLength(20)]
         public string Status { get; set; } = "Pending"; 
 
-  
-        [ForeignKey("Maphong")]
+        public DateTime CheckInDate { get; set; }
+        public DateTime CheckOutDate { get; set; }
 
+        [ForeignKey("Maphong")]
         [Required]
         public int Maphong { get; set; }
-        public virtual Phong Phong { get; set; }
+        public Phong? Phong { get; set; }
 
         [ForeignKey("MaKH")]
         [Required]
         public string MaKH { get; set; }
-        public virtual KhachHang KhachHang { get; set; }
+        public virtual KhachHang? KhachHang { get; set; }
     }
 }

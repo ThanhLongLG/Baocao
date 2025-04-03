@@ -8,24 +8,34 @@ using System.ComponentModel.DataAnnotations;
 using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Authorization;
+using BAO_CAO.Models;
 using Microsoft.AspNetCore.Authentication;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Identity.UI.Services;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.RazorPages;
 using Microsoft.Extensions.Logging;
+using Microsoft.EntityFrameworkCore;
 
 namespace BAO_CAO.Areas.Identity.Pages.Account
 {
     public class LoginModel : PageModel
     {
-        private readonly SignInManager<IdentityUser> _signInManager;
+        private readonly SignInManager<ApplicationUser> _signInManager;
         private readonly ILogger<LoginModel> _logger;
+        private readonly Baocaodbcontext _context;
+        private readonly UserManager<ApplicationUser> _userManager;
 
-        public LoginModel(SignInManager<IdentityUser> signInManager, ILogger<LoginModel> logger)
+        public LoginModel(
+            SignInManager<ApplicationUser> signInManager, 
+            ILogger<LoginModel> logger,
+            Baocaodbcontext context,
+            UserManager<ApplicationUser> userManager)
         {
             _signInManager = signInManager;
             _logger = logger;
+            _context = context;
+            _userManager = userManager;
         }
 
         /// <summary>
@@ -109,12 +119,43 @@ namespace BAO_CAO.Areas.Identity.Pages.Account
 
             if (ModelState.IsValid)
             {
-                // This doesn't count login failures towards account lockout
-                // To enable password failures to trigger account lockout, set lockoutOnFailure: true
                 var result = await _signInManager.PasswordSignInAsync(Input.Email, Input.Password, Input.RememberMe, lockoutOnFailure: false);
                 if (result.Succeeded)
                 {
                     _logger.LogInformation("User logged in.");
+                    
+                    // Lấy user hiện tại
+                    var user = await _userManager.FindByEmailAsync(Input.Email);
+                    if (user != null)
+                    {
+                        // Kiểm tra xem đã có KhachHang chưa
+                        var khachHang = await _context.KhachHang
+                            .FirstOrDefaultAsync(k => k.UserId == user.Id);
+
+                        if (khachHang == null)
+                        {
+                            // Tạo mới KhachHang nếu chưa có
+                            khachHang = new KhachHang
+                            {
+                                MaKH = "KH" + DateTime.Now.ToString("yyyyMMddHHmmss") + "_" + user.Id.Substring(0, 4),
+                                UserId = user.Id,
+                                TenKh = user.UserName,
+                                email = user.Email,
+                                SDT = user.PhoneNumber ?? "",
+                                DiaChi = ""
+                            };
+                            _context.KhachHang.Add(khachHang);
+                            await _context.SaveChangesAsync();
+                        }
+
+                        // Trả về JSON với MaKH
+                        return new JsonResult(new { 
+                            success = true,
+                            maKH = khachHang.MaKH,
+                            returnUrl = returnUrl
+                        });
+                    }
+                    
                     return LocalRedirect(returnUrl);
                 }
                 if (result.RequiresTwoFactor)

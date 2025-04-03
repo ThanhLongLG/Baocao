@@ -45,7 +45,7 @@ namespace BAO_CAO.Areas.Admin.Controllers
              return View(khachHang);
         }
     
-        public async Task<IActionResult> Display(int id)
+        public async Task<IActionResult> Display(string id)
         {
             var khachHang = await _khachangreponsitory.GetByIdAsync(id);
             if (khachHang == null)
@@ -55,7 +55,7 @@ namespace BAO_CAO.Areas.Admin.Controllers
             return View(khachHang);
         }
 
-        public async Task<IActionResult> Delete(int id)
+        public async Task<IActionResult> Delete(string id)
         {
             var khachHang = await _khachangreponsitory.GetByIdAsync(id);
             if (khachHang == null)
@@ -65,12 +65,12 @@ namespace BAO_CAO.Areas.Admin.Controllers
             return View(khachHang);
         }
         [HttpPost, ActionName("Delete")]
-        public async Task<IActionResult> DeleteConfired(int id)
+        public async Task<IActionResult> DeleteConfired(string id)
         {
             await _khachangreponsitory.DeleteAsync(id);
             return RedirectToAction(nameof(Index));
         }
-        public async Task<IActionResult> Update(int id)
+        public async Task<IActionResult> Update(string id)
         {
             var khachHang = await _khachangreponsitory.GetByIdAsync(id);
             if (khachHang == null)
@@ -80,7 +80,7 @@ namespace BAO_CAO.Areas.Admin.Controllers
             return View(khachHang);
         }
         [HttpPost]
-        public async Task<IActionResult> Update(int id, KhachHang khachHang)
+        public async Task<IActionResult> Update(string id, KhachHang khachHang)
         {
             if (id != khachHang.MaKH)
             {

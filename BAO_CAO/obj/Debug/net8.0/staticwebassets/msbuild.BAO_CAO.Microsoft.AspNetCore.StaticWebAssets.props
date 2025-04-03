@@ -5310,23 +5310,23 @@
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Argon\scss\argon-dashboard\_variables.scss'))</OriginalItemSpec>
     </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\BAO_CAO.xmu1dxi8nq.bundle.scp.css'))">
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\BAO_CAO.aa89q3yp3w.bundle.scp.css'))">
       <SourceType>Package</SourceType>
       <SourceId>BAO_CAO</SourceId>
       <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
       <BasePath>_content/BAO_CAO</BasePath>
-      <RelativePath>BAO_CAO.xmu1dxi8nq.bundle.scp.css</RelativePath>
+      <RelativePath>BAO_CAO.aa89q3yp3w.bundle.scp.css</RelativePath>
       <AssetKind>All</AssetKind>
       <AssetMode>Reference</AssetMode>
       <AssetRole>Primary</AssetRole>
       <RelatedAsset></RelatedAsset>
       <AssetTraitName>ScopedCss</AssetTraitName>
       <AssetTraitValue>ProjectBundle</AssetTraitValue>
-      <Fingerprint>xmu1dxi8nq</Fingerprint>
-      <Integrity>pz1STqK2uUmIhSGUXT9SVCJqEztDIEyuPODrEBOw8Mg=</Integrity>
+      <Fingerprint>aa89q3yp3w</Fingerprint>
+      <Integrity>MjgIuNMeKiU3Duxmx6TUoJD5bwEhZcTPOMi8w0uEyss=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\BAO_CAO.xmu1dxi8nq.bundle.scp.css'))</OriginalItemSpec>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\BAO_CAO.aa89q3yp3w.bundle.scp.css'))</OriginalItemSpec>
     </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\adminLayout.css'))">
       <SourceType>Package</SourceType>

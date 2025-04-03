@@ -1,51 +1,50 @@
-﻿@using Microsoft.AspNetCore.Identity
+﻿﻿@using Microsoft.AspNetCore.Identity
 
-@inject SignInManager<IdentityUser> SignInManager
-@inject UserManager<IdentityUser> UserManager
+@inject SignInManager<ApplicationUser> SignInManager
+@inject UserManager<ApplicationUser> UserManager
 <style>
 
 
 
 
     .dropdown-item {
-    padding: 0.5rem 1rem;
-    transition: background-color 0.2s;
+        padding: 0.5rem 1rem;
+        transition: background-color 0.2s;
     }
 
-    .dropdown-item:hover {
-    background-color: #f1f1f1;
-    }
+        .dropdown-item:hover {
+            background-color: #f1f1f1;
+        }
 
     .dropdown-divider {
-    margin: 0;
+        margin: 0;
     }
 
     .avatar img {
-    object-fit: cover;
-    border: 2px solid #e9ecef;
+        object-fit: cover;
+        border: 2px solid #e9ecef;
     }
 
     .w-px-40 {
-    width: 40px !important;
+        width: 40px !important;
     }
 
     .rounded-circle {
-    border-radius: 50% !important;
+        border-radius: 50% !important;
     }
 
     img, svg {
-    vertical-align: middle;
+        vertical-align: middle;
     }
 
     mg {
-    overflow-clip-margin: content-box;
-    overflow: clip;
+        overflow-clip-margin: content-box;
+        overflow: clip;
     }
 
     .dropdown-menu-end {
-    --bs-position: end;
+        --bs-position: end;
     }
-
 
 </style>
 
