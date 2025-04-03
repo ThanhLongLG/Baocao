@@ -1,0 +1,32 @@
+﻿@media (max-width: 991.98px) {
+    .nav-link.dropdown-toggle span {
+        display: none;
+    }
+}
+@media (max-width: 767.98px) {
+    .layout-navbar .navbar-nav .nav-item.dropdown .dropdown-menu {
+        position: absolute;
+        left: 0.9rem;
+        min-width: auto;
+        width: 92%;
+    }
+}
+
+.logo-pc {
+    display: block;
+}
+
+.user-mobile {
+    display: none;
+}
+
+/* Khi màn hình nhỏ hơn 768px (điện thoại) */
+@media screen and (max-width: 768px) {
+    .logo-pc {
+        display: none; /* Ẩn logo */
+    }
+
+    .user-mobile {
+        display: block; /* Hiện icon user */
+    }
+}

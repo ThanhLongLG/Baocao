@@ -1,0 +1,44 @@
+﻿@{
+    Layout = "~/Views/Shared/Admin_layout.cshtml";
+}
+@model BAO_CAO.Models.Phong
+@if (Model == null)
+{
+    <p class="text-danger">Lỗi: Model không có dữ liệu!</p>
+}
+
+<head>
+
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/css/phong.css" asp-append-version="true" />
+
+
+</head>
+<nav class="mt-2 mb-4" aria-label="breadcrumb">
+    <ol class="breadcrumb">
+        <li class="breadcrumb-item"><a class="text-decoration-none" asp-controller="TrangQL" asp-action="Index">TrangChu</a></li>
+        <li class="breadcrumb-item"><a class="text-decoration-none" asp-action="Index">Danh Sách phòng</a></li>
+        <li class="breadcrumb-item active" aria-current="page">Thêm phòng</li>
+    </ol>
+</nav>
+
+
+<div class="d-flex justify-content-center align-items-center vh-100">
+    <div class="card shadow-lg p-4" >
+    <div class="card" style="width: 18rem;">
+    @if (!string.IsNullOrEmpty(Model.ImageUrl))
+    {
+        <img src="@Model.ImageUrl" alt="Product Image" style="max-width: 500px" />
+    }
+    <div class="card-body">
+                <h5 class="card-title">Name: @Model.Name</h5>
+                <p class="card-title">Gia: @Model.gia VNĐ</p>
+                <p class="card-title">So Giường: @Model.sogiuong</p>
+                <p class="card-title">Diện Tích: @Model.dientich</p>
+        <a href="#" class="btn btn-primary">Xem thêm</a>
+    </div>
+    </div>
+    </div>
+</div>
+
+@* <a asp-action="Index">Back to list</a> *@

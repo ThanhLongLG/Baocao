@@ -1,0 +1,48 @@
+﻿@{
+    Layout = "~/Views/Shared/Admin_layout.cshtml";
+}
+@model BAO_CAO.Models.Phong
+
+<head>
+
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/css/phong.css" asp-append-version="true" />
+ 
+
+</head>
+<div class="container mt-4">
+<nav class="mt-2 mb-4" aria-label="breadcrumb">
+    <ol class="breadcrumb">
+        <li class="breadcrumb-item"><a class="text-decoration-none" asp-controller="TrangQL" asp-action="Index">TrangChu</a></li>
+        <li class="breadcrumb-item"><a class="text-decoration-none" asp-action="Index">Danh Sách phòng</a></li>
+        <li class="breadcrumb-item active" aria-current="page">Thêm phòng</li>
+    </ol>
+</nav>
+
+
+<div class="d-flex justify-content-center align-items-center vh-100">
+    <div class="card shadow-lg p-4" >
+        <h2 class="text-center mb-4">Phong</h2>
+            <dd class=" d-flex justify-content-center align-items-center vh-10">
+                <img src="@Html.DisplayFor(model => model.ImageUrl)"
+                     style="border-radius: 8px;width: 25%; object-fit:cover; margin-bottom:5px; box-shadow:0px 2px 5px rgba(0,0,0,0.2)" />
+            </dd>
+
+        <h4><strong>Name:</strong> @Model.Name</h4>
+        <h4><strong>Price:</strong> @Model.gia VNĐ</h4>
+        <h4><strong>Description:</strong> @Model.sogiuong</h4>
+        <h4><strong>Description:</strong> @Model.dientich</h4>
+        <h4><strong>Description:</strong> @Model.sophong</h4>
+           
+        <form asp-action="Delete" method="post" class="mt-4">
+            <input type="hidden" asp-for="Maphong" />
+            <p class="text-center">Are you sure you want to delete <strong>@Model.Name</strong>?</p>
+
+            <div class="text-center mt-3">
+                <button type="submit" class="btn btn-danger me-2">Delete</button>
+                <a asp-action="Index" class="btn btn-secondary">Cancel</a>
+            </div>
+        </form>
+    </div>
+</div>
+</div>

@@ -1,0 +1,1945 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\BAO_CAO.bundle.scp.css",
+      "PackagePath": "staticwebassets\\BAO_CAO.xmu1dxi8nq.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\wwwroot\\Argon\\css\\argon-dashboard.css",
+      "PackagePath": "staticwebassets\\Argon\\css\\argon-dashboard.css"
+    },
+    {
+      "Id": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\wwwroot\\Argon\\css\\argon-dashboard.css.map",
+      "PackagePath": "staticwebassets\\Argon\\css\\argon-dashboard.css.map"
+    },
+    {
+      "Id": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\wwwroot\\Argon\\css\\argon-dashboard.min.css",
+      "PackagePath": "staticwebassets\\Argon\\css\\argon-dashboard.min.css"
+    },
+    {
+      "Id": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\wwwroot\\Argon\\css\\nucleo-icons.css",
+      "PackagePath": "staticwebassets\\Argon\\css\\nucleo-icons.css"
+    },
+    {
+      "Id": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\wwwroot\\Argon\\css\\nucleo-svg.css",
+      "PackagePath": "staticwebassets\\Argon\\css\\nucleo-svg.css"
+    },
+    {
+      "Id": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\wwwroot\\Argon\\fonts\\nucleo-icons.eot",
+      "PackagePath": "staticwebassets\\Argon\\fonts\\nucleo-icons.eot"
+    },
+    {
+      "Id": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\wwwroot\\Argon\\fonts\\nucleo-icons.svg",
+      "PackagePath": "staticwebassets\\Argon\\fonts\\nucleo-icons.svg"
+    },
+    {
+      "Id": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\wwwroot\\Argon\\fonts\\nucleo-icons.ttf",
+      "PackagePath": "staticwebassets\\Argon\\fonts\\nucleo-icons.ttf"
+    },
+    {
+      "Id": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\wwwroot\\Argon\\fonts\\nucleo-icons.woff",
+      "PackagePath": "staticwebassets\\Argon\\fonts\\nucleo-icons.woff"
+    },
+    {
+      "Id": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\wwwroot\\Argon\\fonts\\nucleo-icons.woff2",
+      "PackagePath": "staticwebassets\\Argon\\fonts\\nucleo-icons.woff2"
+    },
+    {
+      "Id": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\wwwroot\\Argon\\fonts\\nucleo.eot",
+      "PackagePath": "staticwebassets\\Argon\\fonts\\nucleo.eot"
+    },
+    {
+      "Id": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\wwwroot\\Argon\\fonts\\nucleo.ttf",
+      "PackagePath": "staticwebassets\\Argon\\fonts\\nucleo.ttf"
+    },
+    {
+      "Id": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\wwwroot\\Argon\\fonts\\nucleo.woff",
+      "PackagePath": "staticwebassets\\Argon\\fonts\\nucleo.woff"
+    },
+    {
+      "Id": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\wwwroot\\Argon\\fonts\\nucleo.woff2",
+      "PackagePath": "staticwebassets\\Argon\\fonts\\nucleo.woff2"
+    },
+    {
+      "Id": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\wwwroot\\Argon\\img\\apple-icon.png",
+      "PackagePath": "staticwebassets\\Argon\\img\\apple-icon.png"
+    },
+    {
+      "Id": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\wwwroot\\Argon\\img\\bg-profile.jpg",
+      "PackagePath": "staticwebassets\\Argon\\img\\bg-profile.jpg"
+    },
+    {
+      "Id": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\wwwroot\\Argon\\img\\bg1.jpg",
+      "PackagePath": "staticwebassets\\Argon\\img\\bg1.jpg"
+    },
+    {
+      "Id": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\wwwroot\\Argon\\img\\bruce-mars.jpg",
+      "PackagePath": "staticwebassets\\Argon\\img\\bruce-mars.jpg"
+    },
+    {
+      "Id": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\wwwroot\\Argon\\img\\carousel-1.jpg",
+      "PackagePath": "staticwebassets\\Argon\\img\\carousel-1.jpg"
+    },
+    {
+      "Id": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\wwwroot\\Argon\\img\\carousel-2.jpg",
+      "PackagePath": "staticwebassets\\Argon\\img\\carousel-2.jpg"
+    },
+    {
+      "Id": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\wwwroot\\Argon\\img\\carousel-3.jpg",
+      "PackagePath": "staticwebassets\\Argon\\img\\carousel-3.jpg"
+    },
+    {
+      "Id": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\wwwroot\\Argon\\img\\curved-images\\curved-10.jpg",
+      "PackagePath": "staticwebassets\\Argon\\img\\curved-images\\curved-10.jpg"
+    },
+    {
+      "Id": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\wwwroot\\Argon\\img\\curved-images\\curved-11.jpg",
+      "PackagePath": "staticwebassets\\Argon\\img\\curved-images\\curved-11.jpg"
+    },
+    {
+      "Id": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\wwwroot\\Argon\\img\\curved-images\\curved-6.jpg",
+      "PackagePath": "staticwebassets\\Argon\\img\\curved-images\\curved-6.jpg"
+    },
+    {
+      "Id": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\wwwroot\\Argon\\img\\curved-images\\curved-8.jpg",
+      "PackagePath": "staticwebassets\\Argon\\img\\curved-images\\curved-8.jpg"
+    },
+    {
+      "Id": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\wwwroot\\Argon\\img\\curved-images\\curved0.jpg",
+      "PackagePath": "staticwebassets\\Argon\\img\\curved-images\\curved0.jpg"
+    },
+    {
+      "Id": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\wwwroot\\Argon\\img\\curved-images\\curved1.jpg",
+      "PackagePath": "staticwebassets\\Argon\\img\\curved-images\\curved1.jpg"
+    },
+    {
+      "Id": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\wwwroot\\Argon\\img\\curved-images\\curved10.jpg",
+      "PackagePath": "staticwebassets\\Argon\\img\\curved-images\\curved10.jpg"
+    },
+    {
+      "Id": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\wwwroot\\Argon\\img\\curved-images\\curved11-small.jpg",
+      "PackagePath": "staticwebassets\\Argon\\img\\curved-images\\curved11-small.jpg"
+    },
+    {
+      "Id": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\wwwroot\\Argon\\img\\curved-images\\curved11.jpg",
+      "PackagePath": "staticwebassets\\Argon\\img\\curved-images\\curved11.jpg"
+    },
+    {
+      "Id": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\wwwroot\\Argon\\img\\curved-images\\curved12.jpg",
+      "PackagePath": "staticwebassets\\Argon\\img\\curved-images\\curved12.jpg"
+    },
+    {
+      "Id": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\wwwroot\\Argon\\img\\curved-images\\curved13.jpg",
+      "PackagePath": "staticwebassets\\Argon\\img\\curved-images\\curved13.jpg"
+    },
+    {
+      "Id": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\wwwroot\\Argon\\img\\curved-images\\curved14.jpg",
+      "PackagePath": "staticwebassets\\Argon\\img\\curved-images\\curved14.jpg"
+    },
+    {
+      "Id": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\wwwroot\\Argon\\img\\curved-images\\curved19.jpg",
+      "PackagePath": "staticwebassets\\Argon\\img\\curved-images\\curved19.jpg"
+    },
+    {
+      "Id": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\wwwroot\\Argon\\img\\curved-images\\curved2.jpg",
+      "PackagePath": "staticwebassets\\Argon\\img\\curved-images\\curved2.jpg"
+    },
+    {
+      "Id": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\wwwroot\\Argon\\img\\curved-images\\curved21.jpg",
+      "PackagePath": "staticwebassets\\Argon\\img\\curved-images\\curved21.jpg"
+    },
+    {
+      "Id": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\wwwroot\\Argon\\img\\curved-images\\curved3.jpg",
+      "PackagePath": "staticwebassets\\Argon\\img\\curved-images\\curved3.jpg"
+    },
+    {
+      "Id": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\wwwroot\\Argon\\img\\curved-images\\curved4.jpg",
+      "PackagePath": "staticwebassets\\Argon\\img\\curved-images\\curved4.jpg"
+    },
+    {
+      "Id": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\wwwroot\\Argon\\img\\curved-images\\curved5-small.jpg",
+      "PackagePath": "staticwebassets\\Argon\\img\\curved-images\\curved5-small.jpg"
+    },
+    {
+      "Id": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\wwwroot\\Argon\\img\\curved-images\\curved5.jpg",
+      "PackagePath": "staticwebassets\\Argon\\img\\curved-images\\curved5.jpg"
+    },
+    {
+      "Id": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\wwwroot\\Argon\\img\\curved-images\\curved6-small.jpg",
+      "PackagePath": "staticwebassets\\Argon\\img\\curved-images\\curved6-small.jpg"
+    },
+    {
+      "Id": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\wwwroot\\Argon\\img\\curved-images\\curved6.jpg",
+      "PackagePath": "staticwebassets\\Argon\\img\\curved-images\\curved6.jpg"
+    },
+    {
+      "Id": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\wwwroot\\Argon\\img\\curved-images\\curved7.jpg",
+      "PackagePath": "staticwebassets\\Argon\\img\\curved-images\\curved7.jpg"
+    },
+    {
+      "Id": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\wwwroot\\Argon\\img\\curved-images\\curved8.jpg",
+      "PackagePath": "staticwebassets\\Argon\\img\\curved-images\\curved8.jpg"
+    },
+    {
+      "Id": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\wwwroot\\Argon\\img\\curved-images\\curved9.jpg",
+      "PackagePath": "staticwebassets\\Argon\\img\\curved-images\\curved9.jpg"
+    },
+    {
+      "Id": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\wwwroot\\Argon\\img\\curved-images\\white-curved.jpeg",
+      "PackagePath": "staticwebassets\\Argon\\img\\curved-images\\white-curved.jpeg"
+    },
+    {
+      "Id": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\wwwroot\\Argon\\img\\down-arrow-dark.svg",
+      "PackagePath": "staticwebassets\\Argon\\img\\down-arrow-dark.svg"
+    },
+    {
+      "Id": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\wwwroot\\Argon\\img\\down-arrow-white.svg",
+      "PackagePath": "staticwebassets\\Argon\\img\\down-arrow-white.svg"
+    },
+    {
+      "Id": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\wwwroot\\Argon\\img\\down-arrow.svg",
+      "PackagePath": "staticwebassets\\Argon\\img\\down-arrow.svg"
+    },
+    {
+      "Id": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\wwwroot\\Argon\\img\\favicon.png",
+      "PackagePath": "staticwebassets\\Argon\\img\\favicon.png"
+    },
+    {
+      "Id": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\wwwroot\\Argon\\img\\home-decor-1.jpg",
+      "PackagePath": "staticwebassets\\Argon\\img\\home-decor-1.jpg"
+    },
+    {
+      "Id": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\wwwroot\\Argon\\img\\home-decor-2.jpg",
+      "PackagePath": "staticwebassets\\Argon\\img\\home-decor-2.jpg"
+    },
+    {
+      "Id": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\wwwroot\\Argon\\img\\home-decor-3.jpg",
+      "PackagePath": "staticwebassets\\Argon\\img\\home-decor-3.jpg"
+    },
+    {
+      "Id": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\wwwroot\\Argon\\img\\icons\\flags\\AU.png",
+      "PackagePath": "staticwebassets\\Argon\\img\\icons\\flags\\AU.png"
+    },
+    {
+      "Id": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\wwwroot\\Argon\\img\\icons\\flags\\BR.png",
+      "PackagePath": "staticwebassets\\Argon\\img\\icons\\flags\\BR.png"
+    },
+    {
+      "Id": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\wwwroot\\Argon\\img\\icons\\flags\\DE.png",
+      "PackagePath": "staticwebassets\\Argon\\img\\icons\\flags\\DE.png"
+    },
+    {
+      "Id": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\wwwroot\\Argon\\img\\icons\\flags\\GB.png",
+      "PackagePath": "staticwebassets\\Argon\\img\\icons\\flags\\GB.png"
+    },
+    {
+      "Id": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\wwwroot\\Argon\\img\\icons\\flags\\US.png",
+      "PackagePath": "staticwebassets\\Argon\\img\\icons\\flags\\US.png"
+    },
+    {
+      "Id": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\wwwroot\\Argon\\img\\illustrations\\icon-documentation.svg",
+      "PackagePath": "staticwebassets\\Argon\\img\\illustrations\\icon-documentation.svg"
+    },
+    {
+      "Id": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\wwwroot\\Argon\\img\\illustrations\\rocket-white.png",
+      "PackagePath": "staticwebassets\\Argon\\img\\illustrations\\rocket-white.png"
+    },
+    {
+      "Id": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\wwwroot\\Argon\\img\\ivana-square.jpg",
+      "PackagePath": "staticwebassets\\Argon\\img\\ivana-square.jpg"
+    },
+    {
+      "Id": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\wwwroot\\Argon\\img\\ivancik.jpg",
+      "PackagePath": "staticwebassets\\Argon\\img\\ivancik.jpg"
+    },
+    {
+      "Id": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\wwwroot\\Argon\\img\\kal-visuals-square.jpg",
+      "PackagePath": "staticwebassets\\Argon\\img\\kal-visuals-square.jpg"
+    },
+    {
+      "Id": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\wwwroot\\Argon\\img\\logo-ct-dark.png",
+      "PackagePath": "staticwebassets\\Argon\\img\\logo-ct-dark.png"
+    },
+    {
+      "Id": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\wwwroot\\Argon\\img\\logo-ct.png",
+      "PackagePath": "staticwebassets\\Argon\\img\\logo-ct.png"
+    },
+    {
+      "Id": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\wwwroot\\Argon\\img\\logos\\mastercard.png",
+      "PackagePath": "staticwebassets\\Argon\\img\\logos\\mastercard.png"
+    },
+    {
+      "Id": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\wwwroot\\Argon\\img\\logos\\visa.png",
+      "PackagePath": "staticwebassets\\Argon\\img\\logos\\visa.png"
+    },
+    {
+      "Id": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\wwwroot\\Argon\\img\\marie.jpg",
+      "PackagePath": "staticwebassets\\Argon\\img\\marie.jpg"
+    },
+    {
+      "Id": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\wwwroot\\Argon\\img\\shapes\\pattern-lines.svg",
+      "PackagePath": "staticwebassets\\Argon\\img\\shapes\\pattern-lines.svg"
+    },
+    {
+      "Id": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\wwwroot\\Argon\\img\\shapes\\shape-1.svg",
+      "PackagePath": "staticwebassets\\Argon\\img\\shapes\\shape-1.svg"
+    },
+    {
+      "Id": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\wwwroot\\Argon\\img\\shapes\\shape-2.svg",
+      "PackagePath": "staticwebassets\\Argon\\img\\shapes\\shape-2.svg"
+    },
+    {
+      "Id": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\wwwroot\\Argon\\img\\shapes\\shape-3.svg",
+      "PackagePath": "staticwebassets\\Argon\\img\\shapes\\shape-3.svg"
+    },
+    {
+      "Id": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\wwwroot\\Argon\\img\\shapes\\wave-down.svg",
+      "PackagePath": "staticwebassets\\Argon\\img\\shapes\\wave-down.svg"
+    },
+    {
+      "Id": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\wwwroot\\Argon\\img\\shapes\\wave-up.svg",
+      "PackagePath": "staticwebassets\\Argon\\img\\shapes\\wave-up.svg"
+    },
+    {
+      "Id": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\wwwroot\\Argon\\img\\shapes\\waves-gray.svg",
+      "PackagePath": "staticwebassets\\Argon\\img\\shapes\\waves-gray.svg"
+    },
+    {
+      "Id": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\wwwroot\\Argon\\img\\shapes\\waves-white.svg",
+      "PackagePath": "staticwebassets\\Argon\\img\\shapes\\waves-white.svg"
+    },
+    {
+      "Id": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\wwwroot\\Argon\\img\\small-logos\\icon-sun-cloud.png",
+      "PackagePath": "staticwebassets\\Argon\\img\\small-logos\\icon-sun-cloud.png"
+    },
+    {
+      "Id": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\wwwroot\\Argon\\img\\small-logos\\logo-atlassian.svg",
+      "PackagePath": "staticwebassets\\Argon\\img\\small-logos\\logo-atlassian.svg"
+    },
+    {
+      "Id": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\wwwroot\\Argon\\img\\small-logos\\logo-invision.svg",
+      "PackagePath": "staticwebassets\\Argon\\img\\small-logos\\logo-invision.svg"
+    },
+    {
+      "Id": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\wwwroot\\Argon\\img\\small-logos\\logo-jira.svg",
+      "PackagePath": "staticwebassets\\Argon\\img\\small-logos\\logo-jira.svg"
+    },
+    {
+      "Id": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\wwwroot\\Argon\\img\\small-logos\\logo-slack.svg",
+      "PackagePath": "staticwebassets\\Argon\\img\\small-logos\\logo-slack.svg"
+    },
+    {
+      "Id": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\wwwroot\\Argon\\img\\small-logos\\logo-spotify.svg",
+      "PackagePath": "staticwebassets\\Argon\\img\\small-logos\\logo-spotify.svg"
+    },
+    {
+      "Id": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\wwwroot\\Argon\\img\\small-logos\\logo-webdev.svg",
+      "PackagePath": "staticwebassets\\Argon\\img\\small-logos\\logo-webdev.svg"
+    },
+    {
+      "Id": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\wwwroot\\Argon\\img\\small-logos\\logo-xd.svg",
+      "PackagePath": "staticwebassets\\Argon\\img\\small-logos\\logo-xd.svg"
+    },
+    {
+      "Id": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\wwwroot\\Argon\\img\\team-1.jpg",
+      "PackagePath": "staticwebassets\\Argon\\img\\team-1.jpg"
+    },
+    {
+      "Id": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\wwwroot\\Argon\\img\\team-2.jpg",
+      "PackagePath": "staticwebassets\\Argon\\img\\team-2.jpg"
+    },
+    {
+      "Id": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\wwwroot\\Argon\\img\\team-3.jpg",
+      "PackagePath": "staticwebassets\\Argon\\img\\team-3.jpg"
+    },
+    {
+      "Id": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\wwwroot\\Argon\\img\\team-4.jpg",
+      "PackagePath": "staticwebassets\\Argon\\img\\team-4.jpg"
+    },
+    {
+      "Id": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\wwwroot\\Argon\\img\\theme\\angular.jpg",
+      "PackagePath": "staticwebassets\\Argon\\img\\theme\\angular.jpg"
+    },
+    {
+      "Id": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\wwwroot\\Argon\\img\\theme\\bootstrap.jpg",
+      "PackagePath": "staticwebassets\\Argon\\img\\theme\\bootstrap.jpg"
+    },
+    {
+      "Id": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\wwwroot\\Argon\\img\\theme\\dribbble.png",
+      "PackagePath": "staticwebassets\\Argon\\img\\theme\\dribbble.png"
+    },
+    {
+      "Id": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\wwwroot\\Argon\\img\\theme\\dropbox.png",
+      "PackagePath": "staticwebassets\\Argon\\img\\theme\\dropbox.png"
+    },
+    {
+      "Id": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\wwwroot\\Argon\\img\\theme\\mastercard.png",
+      "PackagePath": "staticwebassets\\Argon\\img\\theme\\mastercard.png"
+    },
+    {
+      "Id": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\wwwroot\\Argon\\img\\theme\\paypal.png",
+      "PackagePath": "staticwebassets\\Argon\\img\\theme\\paypal.png"
+    },
+    {
+      "Id": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\wwwroot\\Argon\\img\\theme\\react.jpg",
+      "PackagePath": "staticwebassets\\Argon\\img\\theme\\react.jpg"
+    },
+    {
+      "Id": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\wwwroot\\Argon\\img\\theme\\sketch.jpg",
+      "PackagePath": "staticwebassets\\Argon\\img\\theme\\sketch.jpg"
+    },
+    {
+      "Id": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\wwwroot\\Argon\\img\\theme\\slack.png",
+      "PackagePath": "staticwebassets\\Argon\\img\\theme\\slack.png"
+    },
+    {
+      "Id": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\wwwroot\\Argon\\img\\theme\\spotify.jpeg",
+      "PackagePath": "staticwebassets\\Argon\\img\\theme\\spotify.jpeg"
+    },
+    {
+      "Id": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\wwwroot\\Argon\\img\\theme\\tim.png",
+      "PackagePath": "staticwebassets\\Argon\\img\\theme\\tim.png"
+    },
+    {
+      "Id": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\wwwroot\\Argon\\img\\theme\\unass.jpg",
+      "PackagePath": "staticwebassets\\Argon\\img\\theme\\unass.jpg"
+    },
+    {
+      "Id": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\wwwroot\\Argon\\img\\theme\\visa.png",
+      "PackagePath": "staticwebassets\\Argon\\img\\theme\\visa.png"
+    },
+    {
+      "Id": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\wwwroot\\Argon\\img\\theme\\vue.jpg",
+      "PackagePath": "staticwebassets\\Argon\\img\\theme\\vue.jpg"
+    },
+    {
+      "Id": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\wwwroot\\Argon\\img\\vr-bg.jpg",
+      "PackagePath": "staticwebassets\\Argon\\img\\vr-bg.jpg"
+    },
+    {
+      "Id": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\wwwroot\\Argon\\js\\argon-dashboard.js",
+      "PackagePath": "staticwebassets\\Argon\\js\\argon-dashboard.js"
+    },
+    {
+      "Id": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\wwwroot\\Argon\\js\\argon-dashboard.js.map",
+      "PackagePath": "staticwebassets\\Argon\\js\\argon-dashboard.js.map"
+    },
+    {
+      "Id": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\wwwroot\\Argon\\js\\argon-dashboard.min.js",
+      "PackagePath": "staticwebassets\\Argon\\js\\argon-dashboard.min.js"
+    },
+    {
+      "Id": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\wwwroot\\Argon\\js\\core\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\Argon\\js\\core\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\wwwroot\\Argon\\js\\core\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\Argon\\js\\core\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\wwwroot\\Argon\\js\\core\\popper.min.js",
+      "PackagePath": "staticwebassets\\Argon\\js\\core\\popper.min.js"
+    },
+    {
+      "Id": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\wwwroot\\Argon\\js\\plugins\\Chart.extension.js",
+      "PackagePath": "staticwebassets\\Argon\\js\\plugins\\Chart.extension.js"
+    },
+    {
+      "Id": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\wwwroot\\Argon\\js\\plugins\\bootstrap-notify.js",
+      "PackagePath": "staticwebassets\\Argon\\js\\plugins\\bootstrap-notify.js"
+    },
+    {
+      "Id": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\wwwroot\\Argon\\js\\plugins\\chartjs.min.js",
+      "PackagePath": "staticwebassets\\Argon\\js\\plugins\\chartjs.min.js"
+    },
+    {
+      "Id": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\wwwroot\\Argon\\js\\plugins\\perfect-scrollbar.min.js",
+      "PackagePath": "staticwebassets\\Argon\\js\\plugins\\perfect-scrollbar.min.js"
+    },
+    {
+      "Id": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\wwwroot\\Argon\\js\\plugins\\smooth-scrollbar.min.js",
+      "PackagePath": "staticwebassets\\Argon\\js\\plugins\\smooth-scrollbar.min.js"
+    },
+    {
+      "Id": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\wwwroot\\Argon\\scss\\argon-dashboard.scss",
+      "PackagePath": "staticwebassets\\Argon\\scss\\argon-dashboard.scss"
+    },
+    {
+      "Id": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\wwwroot\\Argon\\scss\\argon-dashboard\\_alert.scss",
+      "PackagePath": "staticwebassets\\Argon\\scss\\argon-dashboard\\_alert.scss"
+    },
+    {
+      "Id": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\wwwroot\\Argon\\scss\\argon-dashboard\\_avatars.scss",
+      "PackagePath": "staticwebassets\\Argon\\scss\\argon-dashboard\\_avatars.scss"
+    },
+    {
+      "Id": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\wwwroot\\Argon\\scss\\argon-dashboard\\_badge.scss",
+      "PackagePath": "staticwebassets\\Argon\\scss\\argon-dashboard\\_badge.scss"
+    },
+    {
+      "Id": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\wwwroot\\Argon\\scss\\argon-dashboard\\_breadcrumbs.scss",
+      "PackagePath": "staticwebassets\\Argon\\scss\\argon-dashboard\\_breadcrumbs.scss"
+    },
+    {
+      "Id": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\wwwroot\\Argon\\scss\\argon-dashboard\\_buttons.scss",
+      "PackagePath": "staticwebassets\\Argon\\scss\\argon-dashboard\\_buttons.scss"
+    },
+    {
+      "Id": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\wwwroot\\Argon\\scss\\argon-dashboard\\_cards.scss",
+      "PackagePath": "staticwebassets\\Argon\\scss\\argon-dashboard\\_cards.scss"
+    },
+    {
+      "Id": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\wwwroot\\Argon\\scss\\argon-dashboard\\_dark-version.scss",
+      "PackagePath": "staticwebassets\\Argon\\scss\\argon-dashboard\\_dark-version.scss"
+    },
+    {
+      "Id": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\wwwroot\\Argon\\scss\\argon-dashboard\\_dropdown.scss",
+      "PackagePath": "staticwebassets\\Argon\\scss\\argon-dashboard\\_dropdown.scss"
+    },
+    {
+      "Id": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\wwwroot\\Argon\\scss\\argon-dashboard\\_dropup.scss",
+      "PackagePath": "staticwebassets\\Argon\\scss\\argon-dashboard\\_dropup.scss"
+    },
+    {
+      "Id": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\wwwroot\\Argon\\scss\\argon-dashboard\\_fixed-plugin.scss",
+      "PackagePath": "staticwebassets\\Argon\\scss\\argon-dashboard\\_fixed-plugin.scss"
+    },
+    {
+      "Id": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\wwwroot\\Argon\\scss\\argon-dashboard\\_footer.scss",
+      "PackagePath": "staticwebassets\\Argon\\scss\\argon-dashboard\\_footer.scss"
+    },
+    {
+      "Id": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\wwwroot\\Argon\\scss\\argon-dashboard\\_forms.scss",
+      "PackagePath": "staticwebassets\\Argon\\scss\\argon-dashboard\\_forms.scss"
+    },
+    {
+      "Id": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\wwwroot\\Argon\\scss\\argon-dashboard\\_gradients.scss",
+      "PackagePath": "staticwebassets\\Argon\\scss\\argon-dashboard\\_gradients.scss"
+    },
+    {
+      "Id": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\wwwroot\\Argon\\scss\\argon-dashboard\\_header.scss",
+      "PackagePath": "staticwebassets\\Argon\\scss\\argon-dashboard\\_header.scss"
+    },
+    {
+      "Id": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\wwwroot\\Argon\\scss\\argon-dashboard\\_info-areas.scss",
+      "PackagePath": "staticwebassets\\Argon\\scss\\argon-dashboard\\_info-areas.scss"
+    },
+    {
+      "Id": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\wwwroot\\Argon\\scss\\argon-dashboard\\_misc.scss",
+      "PackagePath": "staticwebassets\\Argon\\scss\\argon-dashboard\\_misc.scss"
+    },
+    {
+      "Id": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\wwwroot\\Argon\\scss\\argon-dashboard\\_nav.scss",
+      "PackagePath": "staticwebassets\\Argon\\scss\\argon-dashboard\\_nav.scss"
+    },
+    {
+      "Id": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\wwwroot\\Argon\\scss\\argon-dashboard\\_navbar-vertical.scss",
+      "PackagePath": "staticwebassets\\Argon\\scss\\argon-dashboard\\_navbar-vertical.scss"
+    },
+    {
+      "Id": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\wwwroot\\Argon\\scss\\argon-dashboard\\_navbar.scss",
+      "PackagePath": "staticwebassets\\Argon\\scss\\argon-dashboard\\_navbar.scss"
+    },
+    {
+      "Id": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\wwwroot\\Argon\\scss\\argon-dashboard\\_pagination.scss",
+      "PackagePath": "staticwebassets\\Argon\\scss\\argon-dashboard\\_pagination.scss"
+    },
+    {
+      "Id": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\wwwroot\\Argon\\scss\\argon-dashboard\\_popovers.scss",
+      "PackagePath": "staticwebassets\\Argon\\scss\\argon-dashboard\\_popovers.scss"
+    },
+    {
+      "Id": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\wwwroot\\Argon\\scss\\argon-dashboard\\_progress.scss",
+      "PackagePath": "staticwebassets\\Argon\\scss\\argon-dashboard\\_progress.scss"
+    },
+    {
+      "Id": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\wwwroot\\Argon\\scss\\argon-dashboard\\_rtl.scss",
+      "PackagePath": "staticwebassets\\Argon\\scss\\argon-dashboard\\_rtl.scss"
+    },
+    {
+      "Id": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\wwwroot\\Argon\\scss\\argon-dashboard\\_social-buttons.scss",
+      "PackagePath": "staticwebassets\\Argon\\scss\\argon-dashboard\\_social-buttons.scss"
+    },
+    {
+      "Id": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\wwwroot\\Argon\\scss\\argon-dashboard\\_tables.scss",
+      "PackagePath": "staticwebassets\\Argon\\scss\\argon-dashboard\\_tables.scss"
+    },
+    {
+      "Id": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\wwwroot\\Argon\\scss\\argon-dashboard\\_tilt.scss",
+      "PackagePath": "staticwebassets\\Argon\\scss\\argon-dashboard\\_tilt.scss"
+    },
+    {
+      "Id": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\wwwroot\\Argon\\scss\\argon-dashboard\\_timeline.scss",
+      "PackagePath": "staticwebassets\\Argon\\scss\\argon-dashboard\\_timeline.scss"
+    },
+    {
+      "Id": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\wwwroot\\Argon\\scss\\argon-dashboard\\_tooltips.scss",
+      "PackagePath": "staticwebassets\\Argon\\scss\\argon-dashboard\\_tooltips.scss"
+    },
+    {
+      "Id": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\wwwroot\\Argon\\scss\\argon-dashboard\\_typography.scss",
+      "PackagePath": "staticwebassets\\Argon\\scss\\argon-dashboard\\_typography.scss"
+    },
+    {
+      "Id": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\wwwroot\\Argon\\scss\\argon-dashboard\\_utilities-extend.scss",
+      "PackagePath": "staticwebassets\\Argon\\scss\\argon-dashboard\\_utilities-extend.scss"
+    },
+    {
+      "Id": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\wwwroot\\Argon\\scss\\argon-dashboard\\_utilities.scss",
+      "PackagePath": "staticwebassets\\Argon\\scss\\argon-dashboard\\_utilities.scss"
+    },
+    {
+      "Id": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\wwwroot\\Argon\\scss\\argon-dashboard\\_variables.scss",
+      "PackagePath": "staticwebassets\\Argon\\scss\\argon-dashboard\\_variables.scss"
+    },
+    {
+      "Id": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\wwwroot\\Argon\\scss\\argon-dashboard\\bootstrap\\_accordion.scss",
+      "PackagePath": "staticwebassets\\Argon\\scss\\argon-dashboard\\bootstrap\\_accordion.scss"
+    },
+    {
+      "Id": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\wwwroot\\Argon\\scss\\argon-dashboard\\bootstrap\\_alert.scss",
+      "PackagePath": "staticwebassets\\Argon\\scss\\argon-dashboard\\bootstrap\\_alert.scss"
+    },
+    {
+      "Id": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\wwwroot\\Argon\\scss\\argon-dashboard\\bootstrap\\_badge.scss",
+      "PackagePath": "staticwebassets\\Argon\\scss\\argon-dashboard\\bootstrap\\_badge.scss"
+    },
+    {
+      "Id": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\wwwroot\\Argon\\scss\\argon-dashboard\\bootstrap\\_breadcrumb.scss",
+      "PackagePath": "staticwebassets\\Argon\\scss\\argon-dashboard\\bootstrap\\_breadcrumb.scss"
+    },
+    {
+      "Id": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\wwwroot\\Argon\\scss\\argon-dashboard\\bootstrap\\_button-group.scss",
+      "PackagePath": "staticwebassets\\Argon\\scss\\argon-dashboard\\bootstrap\\_button-group.scss"
+    },
+    {
+      "Id": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\wwwroot\\Argon\\scss\\argon-dashboard\\bootstrap\\_buttons.scss",
+      "PackagePath": "staticwebassets\\Argon\\scss\\argon-dashboard\\bootstrap\\_buttons.scss"
+    },
+    {
+      "Id": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\wwwroot\\Argon\\scss\\argon-dashboard\\bootstrap\\_card.scss",
+      "PackagePath": "staticwebassets\\Argon\\scss\\argon-dashboard\\bootstrap\\_card.scss"
+    },
+    {
+      "Id": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\wwwroot\\Argon\\scss\\argon-dashboard\\bootstrap\\_carousel.scss",
+      "PackagePath": "staticwebassets\\Argon\\scss\\argon-dashboard\\bootstrap\\_carousel.scss"
+    },
+    {
+      "Id": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\wwwroot\\Argon\\scss\\argon-dashboard\\bootstrap\\_close.scss",
+      "PackagePath": "staticwebassets\\Argon\\scss\\argon-dashboard\\bootstrap\\_close.scss"
+    },
+    {
+      "Id": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\wwwroot\\Argon\\scss\\argon-dashboard\\bootstrap\\_containers.scss",
+      "PackagePath": "staticwebassets\\Argon\\scss\\argon-dashboard\\bootstrap\\_containers.scss"
+    },
+    {
+      "Id": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\wwwroot\\Argon\\scss\\argon-dashboard\\bootstrap\\_dropdown.scss",
+      "PackagePath": "staticwebassets\\Argon\\scss\\argon-dashboard\\bootstrap\\_dropdown.scss"
+    },
+    {
+      "Id": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\wwwroot\\Argon\\scss\\argon-dashboard\\bootstrap\\_forms.scss",
+      "PackagePath": "staticwebassets\\Argon\\scss\\argon-dashboard\\bootstrap\\_forms.scss"
+    },
+    {
+      "Id": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\wwwroot\\Argon\\scss\\argon-dashboard\\bootstrap\\_functions.scss",
+      "PackagePath": "staticwebassets\\Argon\\scss\\argon-dashboard\\bootstrap\\_functions.scss"
+    },
+    {
+      "Id": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\wwwroot\\Argon\\scss\\argon-dashboard\\bootstrap\\_grid.scss",
+      "PackagePath": "staticwebassets\\Argon\\scss\\argon-dashboard\\bootstrap\\_grid.scss"
+    },
+    {
+      "Id": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\wwwroot\\Argon\\scss\\argon-dashboard\\bootstrap\\_helpers.scss",
+      "PackagePath": "staticwebassets\\Argon\\scss\\argon-dashboard\\bootstrap\\_helpers.scss"
+    },
+    {
+      "Id": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\wwwroot\\Argon\\scss\\argon-dashboard\\bootstrap\\_images.scss",
+      "PackagePath": "staticwebassets\\Argon\\scss\\argon-dashboard\\bootstrap\\_images.scss"
+    },
+    {
+      "Id": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\wwwroot\\Argon\\scss\\argon-dashboard\\bootstrap\\_list-group.scss",
+      "PackagePath": "staticwebassets\\Argon\\scss\\argon-dashboard\\bootstrap\\_list-group.scss"
+    },
+    {
+      "Id": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\wwwroot\\Argon\\scss\\argon-dashboard\\bootstrap\\_maps.scss",
+      "PackagePath": "staticwebassets\\Argon\\scss\\argon-dashboard\\bootstrap\\_maps.scss"
+    },
+    {
+      "Id": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\wwwroot\\Argon\\scss\\argon-dashboard\\bootstrap\\_mixins.scss",
+      "PackagePath": "staticwebassets\\Argon\\scss\\argon-dashboard\\bootstrap\\_mixins.scss"
+    },
+    {
+      "Id": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\wwwroot\\Argon\\scss\\argon-dashboard\\bootstrap\\_modal.scss",
+      "PackagePath": "staticwebassets\\Argon\\scss\\argon-dashboard\\bootstrap\\_modal.scss"
+    },
+    {
+      "Id": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\wwwroot\\Argon\\scss\\argon-dashboard\\bootstrap\\_nav.scss",
+      "PackagePath": "staticwebassets\\Argon\\scss\\argon-dashboard\\bootstrap\\_nav.scss"
+    },
+    {
+      "Id": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\wwwroot\\Argon\\scss\\argon-dashboard\\bootstrap\\_navbar.scss",
+      "PackagePath": "staticwebassets\\Argon\\scss\\argon-dashboard\\bootstrap\\_navbar.scss"
+    },
+    {
+      "Id": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\wwwroot\\Argon\\scss\\argon-dashboard\\bootstrap\\_offcanvas.scss",
+      "PackagePath": "staticwebassets\\Argon\\scss\\argon-dashboard\\bootstrap\\_offcanvas.scss"
+    },
+    {
+      "Id": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\wwwroot\\Argon\\scss\\argon-dashboard\\bootstrap\\_pagination.scss",
+      "PackagePath": "staticwebassets\\Argon\\scss\\argon-dashboard\\bootstrap\\_pagination.scss"
+    },
+    {
+      "Id": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\wwwroot\\Argon\\scss\\argon-dashboard\\bootstrap\\_placeholders.scss",
+      "PackagePath": "staticwebassets\\Argon\\scss\\argon-dashboard\\bootstrap\\_placeholders.scss"
+    },
+    {
+      "Id": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\wwwroot\\Argon\\scss\\argon-dashboard\\bootstrap\\_popover.scss",
+      "PackagePath": "staticwebassets\\Argon\\scss\\argon-dashboard\\bootstrap\\_popover.scss"
+    },
+    {
+      "Id": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\wwwroot\\Argon\\scss\\argon-dashboard\\bootstrap\\_progress.scss",
+      "PackagePath": "staticwebassets\\Argon\\scss\\argon-dashboard\\bootstrap\\_progress.scss"
+    },
+    {
+      "Id": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\wwwroot\\Argon\\scss\\argon-dashboard\\bootstrap\\_reboot.scss",
+      "PackagePath": "staticwebassets\\Argon\\scss\\argon-dashboard\\bootstrap\\_reboot.scss"
+    },
+    {
+      "Id": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\wwwroot\\Argon\\scss\\argon-dashboard\\bootstrap\\_root.scss",
+      "PackagePath": "staticwebassets\\Argon\\scss\\argon-dashboard\\bootstrap\\_root.scss"
+    },
+    {
+      "Id": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\wwwroot\\Argon\\scss\\argon-dashboard\\bootstrap\\_spinners.scss",
+      "PackagePath": "staticwebassets\\Argon\\scss\\argon-dashboard\\bootstrap\\_spinners.scss"
+    },
+    {
+      "Id": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\wwwroot\\Argon\\scss\\argon-dashboard\\bootstrap\\_tables.scss",
+      "PackagePath": "staticwebassets\\Argon\\scss\\argon-dashboard\\bootstrap\\_tables.scss"
+    },
+    {
+      "Id": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\wwwroot\\Argon\\scss\\argon-dashboard\\bootstrap\\_toasts.scss",
+      "PackagePath": "staticwebassets\\Argon\\scss\\argon-dashboard\\bootstrap\\_toasts.scss"
+    },
+    {
+      "Id": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\wwwroot\\Argon\\scss\\argon-dashboard\\bootstrap\\_tooltip.scss",
+      "PackagePath": "staticwebassets\\Argon\\scss\\argon-dashboard\\bootstrap\\_tooltip.scss"
+    },
+    {
+      "Id": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\wwwroot\\Argon\\scss\\argon-dashboard\\bootstrap\\_transitions.scss",
+      "PackagePath": "staticwebassets\\Argon\\scss\\argon-dashboard\\bootstrap\\_transitions.scss"
+    },
+    {
+      "Id": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\wwwroot\\Argon\\scss\\argon-dashboard\\bootstrap\\_type.scss",
+      "PackagePath": "staticwebassets\\Argon\\scss\\argon-dashboard\\bootstrap\\_type.scss"
+    },
+    {
+      "Id": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\wwwroot\\Argon\\scss\\argon-dashboard\\bootstrap\\_utilities.scss",
+      "PackagePath": "staticwebassets\\Argon\\scss\\argon-dashboard\\bootstrap\\_utilities.scss"
+    },
+    {
+      "Id": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\wwwroot\\Argon\\scss\\argon-dashboard\\bootstrap\\_variables-dark.scss",
+      "PackagePath": "staticwebassets\\Argon\\scss\\argon-dashboard\\bootstrap\\_variables-dark.scss"
+    },
+    {
+      "Id": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\wwwroot\\Argon\\scss\\argon-dashboard\\bootstrap\\_variables.scss",
+      "PackagePath": "staticwebassets\\Argon\\scss\\argon-dashboard\\bootstrap\\_variables.scss"
+    },
+    {
+      "Id": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\wwwroot\\Argon\\scss\\argon-dashboard\\bootstrap\\bootstrap-grid.scss",
+      "PackagePath": "staticwebassets\\Argon\\scss\\argon-dashboard\\bootstrap\\bootstrap-grid.scss"
+    },
+    {
+      "Id": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\wwwroot\\Argon\\scss\\argon-dashboard\\bootstrap\\bootstrap-reboot.scss",
+      "PackagePath": "staticwebassets\\Argon\\scss\\argon-dashboard\\bootstrap\\bootstrap-reboot.scss"
+    },
+    {
+      "Id": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\wwwroot\\Argon\\scss\\argon-dashboard\\bootstrap\\bootstrap-utilities.scss",
+      "PackagePath": "staticwebassets\\Argon\\scss\\argon-dashboard\\bootstrap\\bootstrap-utilities.scss"
+    },
+    {
+      "Id": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\wwwroot\\Argon\\scss\\argon-dashboard\\bootstrap\\bootstrap.scss",
+      "PackagePath": "staticwebassets\\Argon\\scss\\argon-dashboard\\bootstrap\\bootstrap.scss"
+    },
+    {
+      "Id": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\wwwroot\\Argon\\scss\\argon-dashboard\\bootstrap\\forms\\_floating-labels.scss",
+      "PackagePath": "staticwebassets\\Argon\\scss\\argon-dashboard\\bootstrap\\forms\\_floating-labels.scss"
+    },
+    {
+      "Id": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\wwwroot\\Argon\\scss\\argon-dashboard\\bootstrap\\forms\\_form-check.scss",
+      "PackagePath": "staticwebassets\\Argon\\scss\\argon-dashboard\\bootstrap\\forms\\_form-check.scss"
+    },
+    {
+      "Id": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\wwwroot\\Argon\\scss\\argon-dashboard\\bootstrap\\forms\\_form-control.scss",
+      "PackagePath": "staticwebassets\\Argon\\scss\\argon-dashboard\\bootstrap\\forms\\_form-control.scss"
+    },
+    {
+      "Id": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\wwwroot\\Argon\\scss\\argon-dashboard\\bootstrap\\forms\\_form-range.scss",
+      "PackagePath": "staticwebassets\\Argon\\scss\\argon-dashboard\\bootstrap\\forms\\_form-range.scss"
+    },
+    {
+      "Id": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\wwwroot\\Argon\\scss\\argon-dashboard\\bootstrap\\forms\\_form-select.scss",
+      "PackagePath": "staticwebassets\\Argon\\scss\\argon-dashboard\\bootstrap\\forms\\_form-select.scss"
+    },
+    {
+      "Id": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\wwwroot\\Argon\\scss\\argon-dashboard\\bootstrap\\forms\\_form-text.scss",
+      "PackagePath": "staticwebassets\\Argon\\scss\\argon-dashboard\\bootstrap\\forms\\_form-text.scss"
+    },
+    {
+      "Id": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\wwwroot\\Argon\\scss\\argon-dashboard\\bootstrap\\forms\\_input-group.scss",
+      "PackagePath": "staticwebassets\\Argon\\scss\\argon-dashboard\\bootstrap\\forms\\_input-group.scss"
+    },
+    {
+      "Id": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\wwwroot\\Argon\\scss\\argon-dashboard\\bootstrap\\forms\\_labels.scss",
+      "PackagePath": "staticwebassets\\Argon\\scss\\argon-dashboard\\bootstrap\\forms\\_labels.scss"
+    },
+    {
+      "Id": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\wwwroot\\Argon\\scss\\argon-dashboard\\bootstrap\\forms\\_validation.scss",
+      "PackagePath": "staticwebassets\\Argon\\scss\\argon-dashboard\\bootstrap\\forms\\_validation.scss"
+    },
+    {
+      "Id": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\wwwroot\\Argon\\scss\\argon-dashboard\\bootstrap\\helpers\\_clearfix.scss",
+      "PackagePath": "staticwebassets\\Argon\\scss\\argon-dashboard\\bootstrap\\helpers\\_clearfix.scss"
+    },
+    {
+      "Id": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\wwwroot\\Argon\\scss\\argon-dashboard\\bootstrap\\helpers\\_color-bg.scss",
+      "PackagePath": "staticwebassets\\Argon\\scss\\argon-dashboard\\bootstrap\\helpers\\_color-bg.scss"
+    },
+    {
+      "Id": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\wwwroot\\Argon\\scss\\argon-dashboard\\bootstrap\\helpers\\_colored-links.scss",
+      "PackagePath": "staticwebassets\\Argon\\scss\\argon-dashboard\\bootstrap\\helpers\\_colored-links.scss"
+    },
+    {
+      "Id": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\wwwroot\\Argon\\scss\\argon-dashboard\\bootstrap\\helpers\\_focus-ring.scss",
+      "PackagePath": "staticwebassets\\Argon\\scss\\argon-dashboard\\bootstrap\\helpers\\_focus-ring.scss"
+    },
+    {
+      "Id": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\wwwroot\\Argon\\scss\\argon-dashboard\\bootstrap\\helpers\\_icon-link.scss",
+      "PackagePath": "staticwebassets\\Argon\\scss\\argon-dashboard\\bootstrap\\helpers\\_icon-link.scss"
+    },
+    {
+      "Id": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\wwwroot\\Argon\\scss\\argon-dashboard\\bootstrap\\helpers\\_position.scss",
+      "PackagePath": "staticwebassets\\Argon\\scss\\argon-dashboard\\bootstrap\\helpers\\_position.scss"
+    },
+    {
+      "Id": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\wwwroot\\Argon\\scss\\argon-dashboard\\bootstrap\\helpers\\_ratio.scss",
+      "PackagePath": "staticwebassets\\Argon\\scss\\argon-dashboard\\bootstrap\\helpers\\_ratio.scss"
+    },
+    {
+      "Id": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\wwwroot\\Argon\\scss\\argon-dashboard\\bootstrap\\helpers\\_stacks.scss",
+      "PackagePath": "staticwebassets\\Argon\\scss\\argon-dashboard\\bootstrap\\helpers\\_stacks.scss"
+    },
+    {
+      "Id": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\wwwroot\\Argon\\scss\\argon-dashboard\\bootstrap\\helpers\\_stretched-link.scss",
+      "PackagePath": "staticwebassets\\Argon\\scss\\argon-dashboard\\bootstrap\\helpers\\_stretched-link.scss"
+    },
+    {
+      "Id": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\wwwroot\\Argon\\scss\\argon-dashboard\\bootstrap\\helpers\\_text-truncation.scss",
+      "PackagePath": "staticwebassets\\Argon\\scss\\argon-dashboard\\bootstrap\\helpers\\_text-truncation.scss"
+    },
+    {
+      "Id": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\wwwroot\\Argon\\scss\\argon-dashboard\\bootstrap\\helpers\\_visually-hidden.scss",
+      "PackagePath": "staticwebassets\\Argon\\scss\\argon-dashboard\\bootstrap\\helpers\\_visually-hidden.scss"
+    },
+    {
+      "Id": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\wwwroot\\Argon\\scss\\argon-dashboard\\bootstrap\\helpers\\_vr.scss",
+      "PackagePath": "staticwebassets\\Argon\\scss\\argon-dashboard\\bootstrap\\helpers\\_vr.scss"
+    },
+    {
+      "Id": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\wwwroot\\Argon\\scss\\argon-dashboard\\bootstrap\\mixins\\_alert.scss",
+      "PackagePath": "staticwebassets\\Argon\\scss\\argon-dashboard\\bootstrap\\mixins\\_alert.scss"
+    },
+    {
+      "Id": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\wwwroot\\Argon\\scss\\argon-dashboard\\bootstrap\\mixins\\_backdrop.scss",
+      "PackagePath": "staticwebassets\\Argon\\scss\\argon-dashboard\\bootstrap\\mixins\\_backdrop.scss"
+    },
+    {
+      "Id": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\wwwroot\\Argon\\scss\\argon-dashboard\\bootstrap\\mixins\\_banner.scss",
+      "PackagePath": "staticwebassets\\Argon\\scss\\argon-dashboard\\bootstrap\\mixins\\_banner.scss"
+    },
+    {
+      "Id": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\wwwroot\\Argon\\scss\\argon-dashboard\\bootstrap\\mixins\\_border-radius.scss",
+      "PackagePath": "staticwebassets\\Argon\\scss\\argon-dashboard\\bootstrap\\mixins\\_border-radius.scss"
+    },
+    {
+      "Id": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\wwwroot\\Argon\\scss\\argon-dashboard\\bootstrap\\mixins\\_box-shadow.scss",
+      "PackagePath": "staticwebassets\\Argon\\scss\\argon-dashboard\\bootstrap\\mixins\\_box-shadow.scss"
+    },
+    {
+      "Id": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\wwwroot\\Argon\\scss\\argon-dashboard\\bootstrap\\mixins\\_breakpoints.scss",
+      "PackagePath": "staticwebassets\\Argon\\scss\\argon-dashboard\\bootstrap\\mixins\\_breakpoints.scss"
+    },
+    {
+      "Id": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\wwwroot\\Argon\\scss\\argon-dashboard\\bootstrap\\mixins\\_buttons.scss",
+      "PackagePath": "staticwebassets\\Argon\\scss\\argon-dashboard\\bootstrap\\mixins\\_buttons.scss"
+    },
+    {
+      "Id": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\wwwroot\\Argon\\scss\\argon-dashboard\\bootstrap\\mixins\\_caret.scss",
+      "PackagePath": "staticwebassets\\Argon\\scss\\argon-dashboard\\bootstrap\\mixins\\_caret.scss"
+    },
+    {
+      "Id": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\wwwroot\\Argon\\scss\\argon-dashboard\\bootstrap\\mixins\\_clearfix.scss",
+      "PackagePath": "staticwebassets\\Argon\\scss\\argon-dashboard\\bootstrap\\mixins\\_clearfix.scss"
+    },
+    {
+      "Id": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\wwwroot\\Argon\\scss\\argon-dashboard\\bootstrap\\mixins\\_color-mode.scss",
+      "PackagePath": "staticwebassets\\Argon\\scss\\argon-dashboard\\bootstrap\\mixins\\_color-mode.scss"
+    },
+    {
+      "Id": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\wwwroot\\Argon\\scss\\argon-dashboard\\bootstrap\\mixins\\_color-scheme.scss",
+      "PackagePath": "staticwebassets\\Argon\\scss\\argon-dashboard\\bootstrap\\mixins\\_color-scheme.scss"
+    },
+    {
+      "Id": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\wwwroot\\Argon\\scss\\argon-dashboard\\bootstrap\\mixins\\_container.scss",
+      "PackagePath": "staticwebassets\\Argon\\scss\\argon-dashboard\\bootstrap\\mixins\\_container.scss"
+    },
+    {
+      "Id": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\wwwroot\\Argon\\scss\\argon-dashboard\\bootstrap\\mixins\\_deprecate.scss",
+      "PackagePath": "staticwebassets\\Argon\\scss\\argon-dashboard\\bootstrap\\mixins\\_deprecate.scss"
+    },
+    {
+      "Id": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\wwwroot\\Argon\\scss\\argon-dashboard\\bootstrap\\mixins\\_forms.scss",
+      "PackagePath": "staticwebassets\\Argon\\scss\\argon-dashboard\\bootstrap\\mixins\\_forms.scss"
+    },
+    {
+      "Id": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\wwwroot\\Argon\\scss\\argon-dashboard\\bootstrap\\mixins\\_gradients.scss",
+      "PackagePath": "staticwebassets\\Argon\\scss\\argon-dashboard\\bootstrap\\mixins\\_gradients.scss"
+    },
+    {
+      "Id": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\wwwroot\\Argon\\scss\\argon-dashboard\\bootstrap\\mixins\\_grid.scss",
+      "PackagePath": "staticwebassets\\Argon\\scss\\argon-dashboard\\bootstrap\\mixins\\_grid.scss"
+    },
+    {
+      "Id": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\wwwroot\\Argon\\scss\\argon-dashboard\\bootstrap\\mixins\\_image.scss",
+      "PackagePath": "staticwebassets\\Argon\\scss\\argon-dashboard\\bootstrap\\mixins\\_image.scss"
+    },
+    {
+      "Id": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\wwwroot\\Argon\\scss\\argon-dashboard\\bootstrap\\mixins\\_list-group.scss",
+      "PackagePath": "staticwebassets\\Argon\\scss\\argon-dashboard\\bootstrap\\mixins\\_list-group.scss"
+    },
+    {
+      "Id": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\wwwroot\\Argon\\scss\\argon-dashboard\\bootstrap\\mixins\\_lists.scss",
+      "PackagePath": "staticwebassets\\Argon\\scss\\argon-dashboard\\bootstrap\\mixins\\_lists.scss"
+    },
+    {
+      "Id": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\wwwroot\\Argon\\scss\\argon-dashboard\\bootstrap\\mixins\\_pagination.scss",
+      "PackagePath": "staticwebassets\\Argon\\scss\\argon-dashboard\\bootstrap\\mixins\\_pagination.scss"
+    },
+    {
+      "Id": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\wwwroot\\Argon\\scss\\argon-dashboard\\bootstrap\\mixins\\_reset-text.scss",
+      "PackagePath": "staticwebassets\\Argon\\scss\\argon-dashboard\\bootstrap\\mixins\\_reset-text.scss"
+    },
+    {
+      "Id": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\wwwroot\\Argon\\scss\\argon-dashboard\\bootstrap\\mixins\\_resize.scss",
+      "PackagePath": "staticwebassets\\Argon\\scss\\argon-dashboard\\bootstrap\\mixins\\_resize.scss"
+    },
+    {
+      "Id": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\wwwroot\\Argon\\scss\\argon-dashboard\\bootstrap\\mixins\\_table-variants.scss",
+      "PackagePath": "staticwebassets\\Argon\\scss\\argon-dashboard\\bootstrap\\mixins\\_table-variants.scss"
+    },
+    {
+      "Id": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\wwwroot\\Argon\\scss\\argon-dashboard\\bootstrap\\mixins\\_text-truncate.scss",
+      "PackagePath": "staticwebassets\\Argon\\scss\\argon-dashboard\\bootstrap\\mixins\\_text-truncate.scss"
+    },
+    {
+      "Id": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\wwwroot\\Argon\\scss\\argon-dashboard\\bootstrap\\mixins\\_transition.scss",
+      "PackagePath": "staticwebassets\\Argon\\scss\\argon-dashboard\\bootstrap\\mixins\\_transition.scss"
+    },
+    {
+      "Id": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\wwwroot\\Argon\\scss\\argon-dashboard\\bootstrap\\mixins\\_utilities.scss",
+      "PackagePath": "staticwebassets\\Argon\\scss\\argon-dashboard\\bootstrap\\mixins\\_utilities.scss"
+    },
+    {
+      "Id": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\wwwroot\\Argon\\scss\\argon-dashboard\\bootstrap\\mixins\\_visually-hidden.scss",
+      "PackagePath": "staticwebassets\\Argon\\scss\\argon-dashboard\\bootstrap\\mixins\\_visually-hidden.scss"
+    },
+    {
+      "Id": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\wwwroot\\Argon\\scss\\argon-dashboard\\bootstrap\\tests\\jasmine.js",
+      "PackagePath": "staticwebassets\\Argon\\scss\\argon-dashboard\\bootstrap\\tests\\jasmine.js"
+    },
+    {
+      "Id": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\wwwroot\\Argon\\scss\\argon-dashboard\\bootstrap\\tests\\mixins\\_auto-import-of-variables-dark.test.scss",
+      "PackagePath": "staticwebassets\\Argon\\scss\\argon-dashboard\\bootstrap\\tests\\mixins\\_auto-import-of-variables-dark.test.scss"
+    },
+    {
+      "Id": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\wwwroot\\Argon\\scss\\argon-dashboard\\bootstrap\\tests\\mixins\\_color-modes.test.scss",
+      "PackagePath": "staticwebassets\\Argon\\scss\\argon-dashboard\\bootstrap\\tests\\mixins\\_color-modes.test.scss"
+    },
+    {
+      "Id": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\wwwroot\\Argon\\scss\\argon-dashboard\\bootstrap\\tests\\mixins\\_media-query-color-mode-full.test.scss",
+      "PackagePath": "staticwebassets\\Argon\\scss\\argon-dashboard\\bootstrap\\tests\\mixins\\_media-query-color-mode-full.test.scss"
+    },
+    {
+      "Id": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\wwwroot\\Argon\\scss\\argon-dashboard\\bootstrap\\tests\\mixins\\_utilities.test.scss",
+      "PackagePath": "staticwebassets\\Argon\\scss\\argon-dashboard\\bootstrap\\tests\\mixins\\_utilities.test.scss"
+    },
+    {
+      "Id": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\wwwroot\\Argon\\scss\\argon-dashboard\\bootstrap\\tests\\sass-true\\register.js",
+      "PackagePath": "staticwebassets\\Argon\\scss\\argon-dashboard\\bootstrap\\tests\\sass-true\\register.js"
+    },
+    {
+      "Id": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\wwwroot\\Argon\\scss\\argon-dashboard\\bootstrap\\tests\\sass-true\\runner.js",
+      "PackagePath": "staticwebassets\\Argon\\scss\\argon-dashboard\\bootstrap\\tests\\sass-true\\runner.js"
+    },
+    {
+      "Id": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\wwwroot\\Argon\\scss\\argon-dashboard\\bootstrap\\tests\\utilities\\_api.test.scss",
+      "PackagePath": "staticwebassets\\Argon\\scss\\argon-dashboard\\bootstrap\\tests\\utilities\\_api.test.scss"
+    },
+    {
+      "Id": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\wwwroot\\Argon\\scss\\argon-dashboard\\bootstrap\\utilities\\_api.scss",
+      "PackagePath": "staticwebassets\\Argon\\scss\\argon-dashboard\\bootstrap\\utilities\\_api.scss"
+    },
+    {
+      "Id": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\wwwroot\\Argon\\scss\\argon-dashboard\\bootstrap\\vendor\\_rfs.scss",
+      "PackagePath": "staticwebassets\\Argon\\scss\\argon-dashboard\\bootstrap\\vendor\\_rfs.scss"
+    },
+    {
+      "Id": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\wwwroot\\Argon\\scss\\argon-dashboard\\cards\\card-background.scss",
+      "PackagePath": "staticwebassets\\Argon\\scss\\argon-dashboard\\cards\\card-background.scss"
+    },
+    {
+      "Id": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\wwwroot\\Argon\\scss\\argon-dashboard\\cards\\card-carousel.scss",
+      "PackagePath": "staticwebassets\\Argon\\scss\\argon-dashboard\\cards\\card-carousel.scss"
+    },
+    {
+      "Id": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\wwwroot\\Argon\\scss\\argon-dashboard\\custom\\_styles.scss",
+      "PackagePath": "staticwebassets\\Argon\\scss\\argon-dashboard\\custom\\_styles.scss"
+    },
+    {
+      "Id": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\wwwroot\\Argon\\scss\\argon-dashboard\\custom\\_variables.scss",
+      "PackagePath": "staticwebassets\\Argon\\scss\\argon-dashboard\\custom\\_variables.scss"
+    },
+    {
+      "Id": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\wwwroot\\Argon\\scss\\argon-dashboard\\forms\\_form-check.scss",
+      "PackagePath": "staticwebassets\\Argon\\scss\\argon-dashboard\\forms\\_form-check.scss"
+    },
+    {
+      "Id": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\wwwroot\\Argon\\scss\\argon-dashboard\\forms\\_form-select.scss",
+      "PackagePath": "staticwebassets\\Argon\\scss\\argon-dashboard\\forms\\_form-select.scss"
+    },
+    {
+      "Id": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\wwwroot\\Argon\\scss\\argon-dashboard\\forms\\_form-switch.scss",
+      "PackagePath": "staticwebassets\\Argon\\scss\\argon-dashboard\\forms\\_form-switch.scss"
+    },
+    {
+      "Id": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\wwwroot\\Argon\\scss\\argon-dashboard\\forms\\_forms.scss",
+      "PackagePath": "staticwebassets\\Argon\\scss\\argon-dashboard\\forms\\_forms.scss"
+    },
+    {
+      "Id": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\wwwroot\\Argon\\scss\\argon-dashboard\\forms\\_input-group.scss",
+      "PackagePath": "staticwebassets\\Argon\\scss\\argon-dashboard\\forms\\_input-group.scss"
+    },
+    {
+      "Id": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\wwwroot\\Argon\\scss\\argon-dashboard\\forms\\_inputs.scss",
+      "PackagePath": "staticwebassets\\Argon\\scss\\argon-dashboard\\forms\\_inputs.scss"
+    },
+    {
+      "Id": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\wwwroot\\Argon\\scss\\argon-dashboard\\forms\\_labels.scss",
+      "PackagePath": "staticwebassets\\Argon\\scss\\argon-dashboard\\forms\\_labels.scss"
+    },
+    {
+      "Id": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\wwwroot\\Argon\\scss\\argon-dashboard\\mixins\\_badge.scss",
+      "PackagePath": "staticwebassets\\Argon\\scss\\argon-dashboard\\mixins\\_badge.scss"
+    },
+    {
+      "Id": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\wwwroot\\Argon\\scss\\argon-dashboard\\mixins\\_colored-shadows.scss",
+      "PackagePath": "staticwebassets\\Argon\\scss\\argon-dashboard\\mixins\\_colored-shadows.scss"
+    },
+    {
+      "Id": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\wwwroot\\Argon\\scss\\argon-dashboard\\mixins\\_hover.scss",
+      "PackagePath": "staticwebassets\\Argon\\scss\\argon-dashboard\\mixins\\_hover.scss"
+    },
+    {
+      "Id": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\wwwroot\\Argon\\scss\\argon-dashboard\\mixins\\_social-buttons.scss",
+      "PackagePath": "staticwebassets\\Argon\\scss\\argon-dashboard\\mixins\\_social-buttons.scss"
+    },
+    {
+      "Id": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\wwwroot\\Argon\\scss\\argon-dashboard\\mixins\\mixins.scss",
+      "PackagePath": "staticwebassets\\Argon\\scss\\argon-dashboard\\mixins\\mixins.scss"
+    },
+    {
+      "Id": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\wwwroot\\Argon\\scss\\argon-dashboard\\plugins\\free\\_flatpickr.scss",
+      "PackagePath": "staticwebassets\\Argon\\scss\\argon-dashboard\\plugins\\free\\_flatpickr.scss"
+    },
+    {
+      "Id": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\wwwroot\\Argon\\scss\\argon-dashboard\\plugins\\free\\_nouislider.scss",
+      "PackagePath": "staticwebassets\\Argon\\scss\\argon-dashboard\\plugins\\free\\_nouislider.scss"
+    },
+    {
+      "Id": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\wwwroot\\Argon\\scss\\argon-dashboard\\plugins\\free\\_perfect-scrollbar.scss",
+      "PackagePath": "staticwebassets\\Argon\\scss\\argon-dashboard\\plugins\\free\\_perfect-scrollbar.scss"
+    },
+    {
+      "Id": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\wwwroot\\Argon\\scss\\argon-dashboard\\plugins\\free\\_prism.scss",
+      "PackagePath": "staticwebassets\\Argon\\scss\\argon-dashboard\\plugins\\free\\_prism.scss"
+    },
+    {
+      "Id": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\wwwroot\\Argon\\scss\\argon-dashboard\\plugins\\free\\plugins.scss",
+      "PackagePath": "staticwebassets\\Argon\\scss\\argon-dashboard\\plugins\\free\\plugins.scss"
+    },
+    {
+      "Id": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\wwwroot\\Argon\\scss\\argon-dashboard\\theme.scss",
+      "PackagePath": "staticwebassets\\Argon\\scss\\argon-dashboard\\theme.scss"
+    },
+    {
+      "Id": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\wwwroot\\Argon\\scss\\argon-dashboard\\variables\\_animations.scss",
+      "PackagePath": "staticwebassets\\Argon\\scss\\argon-dashboard\\variables\\_animations.scss"
+    },
+    {
+      "Id": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\wwwroot\\Argon\\scss\\argon-dashboard\\variables\\_avatars.scss",
+      "PackagePath": "staticwebassets\\Argon\\scss\\argon-dashboard\\variables\\_avatars.scss"
+    },
+    {
+      "Id": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\wwwroot\\Argon\\scss\\argon-dashboard\\variables\\_badge.scss",
+      "PackagePath": "staticwebassets\\Argon\\scss\\argon-dashboard\\variables\\_badge.scss"
+    },
+    {
+      "Id": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\wwwroot\\Argon\\scss\\argon-dashboard\\variables\\_breadcrumb.scss",
+      "PackagePath": "staticwebassets\\Argon\\scss\\argon-dashboard\\variables\\_breadcrumb.scss"
+    },
+    {
+      "Id": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\wwwroot\\Argon\\scss\\argon-dashboard\\variables\\_cards-extend.scss",
+      "PackagePath": "staticwebassets\\Argon\\scss\\argon-dashboard\\variables\\_cards-extend.scss"
+    },
+    {
+      "Id": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\wwwroot\\Argon\\scss\\argon-dashboard\\variables\\_cards.scss",
+      "PackagePath": "staticwebassets\\Argon\\scss\\argon-dashboard\\variables\\_cards.scss"
+    },
+    {
+      "Id": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\wwwroot\\Argon\\scss\\argon-dashboard\\variables\\_choices.scss",
+      "PackagePath": "staticwebassets\\Argon\\scss\\argon-dashboard\\variables\\_choices.scss"
+    },
+    {
+      "Id": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\wwwroot\\Argon\\scss\\argon-dashboard\\variables\\_dark-version.scss",
+      "PackagePath": "staticwebassets\\Argon\\scss\\argon-dashboard\\variables\\_dark-version.scss"
+    },
+    {
+      "Id": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\wwwroot\\Argon\\scss\\argon-dashboard\\variables\\_dropdowns.scss",
+      "PackagePath": "staticwebassets\\Argon\\scss\\argon-dashboard\\variables\\_dropdowns.scss"
+    },
+    {
+      "Id": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\wwwroot\\Argon\\scss\\argon-dashboard\\variables\\_fixed-plugin.scss",
+      "PackagePath": "staticwebassets\\Argon\\scss\\argon-dashboard\\variables\\_fixed-plugin.scss"
+    },
+    {
+      "Id": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\wwwroot\\Argon\\scss\\argon-dashboard\\variables\\_form-switch.scss",
+      "PackagePath": "staticwebassets\\Argon\\scss\\argon-dashboard\\variables\\_form-switch.scss"
+    },
+    {
+      "Id": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\wwwroot\\Argon\\scss\\argon-dashboard\\variables\\_full-calendar.scss",
+      "PackagePath": "staticwebassets\\Argon\\scss\\argon-dashboard\\variables\\_full-calendar.scss"
+    },
+    {
+      "Id": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\wwwroot\\Argon\\scss\\argon-dashboard\\variables\\_header.scss",
+      "PackagePath": "staticwebassets\\Argon\\scss\\argon-dashboard\\variables\\_header.scss"
+    },
+    {
+      "Id": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\wwwroot\\Argon\\scss\\argon-dashboard\\variables\\_info-areas.scss",
+      "PackagePath": "staticwebassets\\Argon\\scss\\argon-dashboard\\variables\\_info-areas.scss"
+    },
+    {
+      "Id": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\wwwroot\\Argon\\scss\\argon-dashboard\\variables\\_misc-extend.scss",
+      "PackagePath": "staticwebassets\\Argon\\scss\\argon-dashboard\\variables\\_misc-extend.scss"
+    },
+    {
+      "Id": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\wwwroot\\Argon\\scss\\argon-dashboard\\variables\\_misc.scss",
+      "PackagePath": "staticwebassets\\Argon\\scss\\argon-dashboard\\variables\\_misc.scss"
+    },
+    {
+      "Id": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\wwwroot\\Argon\\scss\\argon-dashboard\\variables\\_navbar-vertical.scss",
+      "PackagePath": "staticwebassets\\Argon\\scss\\argon-dashboard\\variables\\_navbar-vertical.scss"
+    },
+    {
+      "Id": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\wwwroot\\Argon\\scss\\argon-dashboard\\variables\\_navbar.scss",
+      "PackagePath": "staticwebassets\\Argon\\scss\\argon-dashboard\\variables\\_navbar.scss"
+    },
+    {
+      "Id": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\wwwroot\\Argon\\scss\\argon-dashboard\\variables\\_pagination.scss",
+      "PackagePath": "staticwebassets\\Argon\\scss\\argon-dashboard\\variables\\_pagination.scss"
+    },
+    {
+      "Id": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\wwwroot\\Argon\\scss\\argon-dashboard\\variables\\_rtl.scss",
+      "PackagePath": "staticwebassets\\Argon\\scss\\argon-dashboard\\variables\\_rtl.scss"
+    },
+    {
+      "Id": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\wwwroot\\Argon\\scss\\argon-dashboard\\variables\\_social-buttons.scss",
+      "PackagePath": "staticwebassets\\Argon\\scss\\argon-dashboard\\variables\\_social-buttons.scss"
+    },
+    {
+      "Id": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\wwwroot\\Argon\\scss\\argon-dashboard\\variables\\_table.scss",
+      "PackagePath": "staticwebassets\\Argon\\scss\\argon-dashboard\\variables\\_table.scss"
+    },
+    {
+      "Id": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\wwwroot\\Argon\\scss\\argon-dashboard\\variables\\_timeline.scss",
+      "PackagePath": "staticwebassets\\Argon\\scss\\argon-dashboard\\variables\\_timeline.scss"
+    },
+    {
+      "Id": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\wwwroot\\Argon\\scss\\argon-dashboard\\variables\\_utilities-extend.scss",
+      "PackagePath": "staticwebassets\\Argon\\scss\\argon-dashboard\\variables\\_utilities-extend.scss"
+    },
+    {
+      "Id": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\wwwroot\\Argon\\scss\\argon-dashboard\\variables\\_utilities.scss",
+      "PackagePath": "staticwebassets\\Argon\\scss\\argon-dashboard\\variables\\_utilities.scss"
+    },
+    {
+      "Id": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\wwwroot\\Argon\\scss\\argon-dashboard\\variables\\_virtual-reality.scss",
+      "PackagePath": "staticwebassets\\Argon\\scss\\argon-dashboard\\variables\\_virtual-reality.scss"
+    },
+    {
+      "Id": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\wwwroot\\css\\adminLayout.css",
+      "PackagePath": "staticwebassets\\css\\adminLayout.css"
+    },
+    {
+      "Id": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\wwwroot\\css\\ajax-loader.gif",
+      "PackagePath": "staticwebassets\\css\\ajax-loader.gif"
+    },
+    {
+      "Id": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\wwwroot\\css\\demo.css",
+      "PackagePath": "staticwebassets\\css\\demo.css"
+    },
+    {
+      "Id": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\wwwroot\\css\\normalize.css",
+      "PackagePath": "staticwebassets\\css\\normalize.css"
+    },
+    {
+      "Id": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\wwwroot\\css\\phong.css",
+      "PackagePath": "staticwebassets\\css\\phong.css"
+    },
+    {
+      "Id": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
+    },
+    {
+      "Id": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\wwwroot\\css\\swiper-bundle.min.css",
+      "PackagePath": "staticwebassets\\css\\swiper-bundle.min.css"
+    },
+    {
+      "Id": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\wwwroot\\css\\vendor.css",
+      "PackagePath": "staticwebassets\\css\\vendor.css"
+    },
+    {
+      "Id": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\wwwroot\\images\\3a6da4f6-17fa-4907-bd8d-ae5bab5a84f7.png",
+      "PackagePath": "staticwebassets\\images\\3a6da4f6-17fa-4907-bd8d-ae5bab5a84f7.png"
+    },
+    {
+      "Id": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\wwwroot\\images\\KMngayvang.png",
+      "PackagePath": "staticwebassets\\images\\KMngayvang.png"
+    },
+    {
+      "Id": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\wwwroot\\images\\KS1.jpg",
+      "PackagePath": "staticwebassets\\images\\KS1.jpg"
+    },
+    {
+      "Id": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\wwwroot\\images\\KS2.jpg",
+      "PackagePath": "staticwebassets\\images\\KS2.jpg"
+    },
+    {
+      "Id": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\wwwroot\\images\\KS3.jpg",
+      "PackagePath": "staticwebassets\\images\\KS3.jpg"
+    },
+    {
+      "Id": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\wwwroot\\images\\KS5.jpg",
+      "PackagePath": "staticwebassets\\images\\KS5.jpg"
+    },
+    {
+      "Id": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\wwwroot\\images\\KS6.jpg",
+      "PackagePath": "staticwebassets\\images\\KS6.jpg"
+    },
+    {
+      "Id": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\wwwroot\\images\\KS7.jpg",
+      "PackagePath": "staticwebassets\\images\\KS7.jpg"
+    },
+    {
+      "Id": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\wwwroot\\images\\Nhahang.jpg",
+      "PackagePath": "staticwebassets\\images\\Nhahang.jpg"
+    },
+    {
+      "Id": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\wwwroot\\images\\Tieccuoi.jpg",
+      "PackagePath": "staticwebassets\\images\\Tieccuoi.jpg"
+    },
+    {
+      "Id": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\wwwroot\\images\\arct-icon.png",
+      "PackagePath": "staticwebassets\\images\\arct-icon.png"
+    },
+    {
+      "Id": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\wwwroot\\images\\avatars\\1.png",
+      "PackagePath": "staticwebassets\\images\\avatars\\1.png"
+    },
+    {
+      "Id": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\wwwroot\\images\\avatars\\5.png",
+      "PackagePath": "staticwebassets\\images\\avatars\\5.png"
+    },
+    {
+      "Id": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\wwwroot\\images\\avatars\\6.png",
+      "PackagePath": "staticwebassets\\images\\avatars\\6.png"
+    },
+    {
+      "Id": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\wwwroot\\images\\avatars\\7.png",
+      "PackagePath": "staticwebassets\\images\\avatars\\7.png"
+    },
+    {
+      "Id": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\wwwroot\\images\\backgrounds\\18.jpg",
+      "PackagePath": "staticwebassets\\images\\backgrounds\\18.jpg"
+    },
+    {
+      "Id": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\wwwroot\\images\\dhl-logo.png",
+      "PackagePath": "staticwebassets\\images\\dhl-logo.png"
+    },
+    {
+      "Id": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\wwwroot\\images\\elements\\1.jpg",
+      "PackagePath": "staticwebassets\\images\\elements\\1.jpg"
+    },
+    {
+      "Id": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\wwwroot\\images\\elements\\11.jpg",
+      "PackagePath": "staticwebassets\\images\\elements\\11.jpg"
+    },
+    {
+      "Id": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\wwwroot\\images\\elements\\12.jpg",
+      "PackagePath": "staticwebassets\\images\\elements\\12.jpg"
+    },
+    {
+      "Id": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\wwwroot\\images\\elements\\13.jpg",
+      "PackagePath": "staticwebassets\\images\\elements\\13.jpg"
+    },
+    {
+      "Id": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\wwwroot\\images\\elements\\17.jpg",
+      "PackagePath": "staticwebassets\\images\\elements\\17.jpg"
+    },
+    {
+      "Id": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\wwwroot\\images\\elements\\18.jpg",
+      "PackagePath": "staticwebassets\\images\\elements\\18.jpg"
+    },
+    {
+      "Id": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\wwwroot\\images\\elements\\19.jpg",
+      "PackagePath": "staticwebassets\\images\\elements\\19.jpg"
+    },
+    {
+      "Id": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\wwwroot\\images\\elements\\2.jpg",
+      "PackagePath": "staticwebassets\\images\\elements\\2.jpg"
+    },
+    {
+      "Id": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\wwwroot\\images\\elements\\20.jpg",
+      "PackagePath": "staticwebassets\\images\\elements\\20.jpg"
+    },
+    {
+      "Id": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\wwwroot\\images\\elements\\3.jpg",
+      "PackagePath": "staticwebassets\\images\\elements\\3.jpg"
+    },
+    {
+      "Id": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\wwwroot\\images\\elements\\4.jpg",
+      "PackagePath": "staticwebassets\\images\\elements\\4.jpg"
+    },
+    {
+      "Id": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\wwwroot\\images\\elements\\5.jpg",
+      "PackagePath": "staticwebassets\\images\\elements\\5.jpg"
+    },
+    {
+      "Id": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\wwwroot\\images\\elements\\7.jpg",
+      "PackagePath": "staticwebassets\\images\\elements\\7.jpg"
+    },
+    {
+      "Id": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\wwwroot\\images\\favicon\\favicon.ico",
+      "PackagePath": "staticwebassets\\images\\favicon\\favicon.ico"
+    },
+    {
+      "Id": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\wwwroot\\images\\icons\\brands\\asana.png",
+      "PackagePath": "staticwebassets\\images\\icons\\brands\\asana.png"
+    },
+    {
+      "Id": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\wwwroot\\images\\icons\\brands\\behance.png",
+      "PackagePath": "staticwebassets\\images\\icons\\brands\\behance.png"
+    },
+    {
+      "Id": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\wwwroot\\images\\icons\\brands\\dribbble.png",
+      "PackagePath": "staticwebassets\\images\\icons\\brands\\dribbble.png"
+    },
+    {
+      "Id": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\wwwroot\\images\\icons\\brands\\facebook.png",
+      "PackagePath": "staticwebassets\\images\\icons\\brands\\facebook.png"
+    },
+    {
+      "Id": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\wwwroot\\images\\icons\\brands\\github.png",
+      "PackagePath": "staticwebassets\\images\\icons\\brands\\github.png"
+    },
+    {
+      "Id": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\wwwroot\\images\\icons\\brands\\google.png",
+      "PackagePath": "staticwebassets\\images\\icons\\brands\\google.png"
+    },
+    {
+      "Id": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\wwwroot\\images\\icons\\brands\\instagram.png",
+      "PackagePath": "staticwebassets\\images\\icons\\brands\\instagram.png"
+    },
+    {
+      "Id": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\wwwroot\\images\\icons\\brands\\mailchimp.png",
+      "PackagePath": "staticwebassets\\images\\icons\\brands\\mailchimp.png"
+    },
+    {
+      "Id": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\wwwroot\\images\\icons\\brands\\slack.png",
+      "PackagePath": "staticwebassets\\images\\icons\\brands\\slack.png"
+    },
+    {
+      "Id": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\wwwroot\\images\\icons\\brands\\twitter.png",
+      "PackagePath": "staticwebassets\\images\\icons\\brands\\twitter.png"
+    },
+    {
+      "Id": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\wwwroot\\images\\icons\\unicons\\cc-primary.png",
+      "PackagePath": "staticwebassets\\images\\icons\\unicons\\cc-primary.png"
+    },
+    {
+      "Id": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\wwwroot\\images\\icons\\unicons\\cc-success.png",
+      "PackagePath": "staticwebassets\\images\\icons\\unicons\\cc-success.png"
+    },
+    {
+      "Id": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\wwwroot\\images\\icons\\unicons\\cc-warning.png",
+      "PackagePath": "staticwebassets\\images\\icons\\unicons\\cc-warning.png"
+    },
+    {
+      "Id": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\wwwroot\\images\\icons\\unicons\\chart-success.png",
+      "PackagePath": "staticwebassets\\images\\icons\\unicons\\chart-success.png"
+    },
+    {
+      "Id": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\wwwroot\\images\\icons\\unicons\\chart.png",
+      "PackagePath": "staticwebassets\\images\\icons\\unicons\\chart.png"
+    },
+    {
+      "Id": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\wwwroot\\images\\icons\\unicons\\paypal.png",
+      "PackagePath": "staticwebassets\\images\\icons\\unicons\\paypal.png"
+    },
+    {
+      "Id": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\wwwroot\\images\\icons\\unicons\\wallet-info.png",
+      "PackagePath": "staticwebassets\\images\\icons\\unicons\\wallet-info.png"
+    },
+    {
+      "Id": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\wwwroot\\images\\icons\\unicons\\wallet.png",
+      "PackagePath": "staticwebassets\\images\\icons\\unicons\\wallet.png"
+    },
+    {
+      "Id": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\wwwroot\\images\\illustrations\\girl-doing-yoga-light.png",
+      "PackagePath": "staticwebassets\\images\\illustrations\\girl-doing-yoga-light.png"
+    },
+    {
+      "Id": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\wwwroot\\images\\illustrations\\man-with-laptop-light.png",
+      "PackagePath": "staticwebassets\\images\\illustrations\\man-with-laptop-light.png"
+    },
+    {
+      "Id": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\wwwroot\\images\\illustrations\\page-misc-error-light.png",
+      "PackagePath": "staticwebassets\\images\\illustrations\\page-misc-error-light.png"
+    },
+    {
+      "Id": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\wwwroot\\images\\image-152.webp",
+      "PackagePath": "staticwebassets\\images\\image-152.webp"
+    },
+    {
+      "Id": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\wwwroot\\images\\ins1.jpg",
+      "PackagePath": "staticwebassets\\images\\ins1.jpg"
+    },
+    {
+      "Id": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\wwwroot\\images\\ins2.jpg",
+      "PackagePath": "staticwebassets\\images\\ins2.jpg"
+    },
+    {
+      "Id": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\wwwroot\\images\\ins3.jpg",
+      "PackagePath": "staticwebassets\\images\\ins3.jpg"
+    },
+    {
+      "Id": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\wwwroot\\images\\ins4.jpg",
+      "PackagePath": "staticwebassets\\images\\ins4.jpg"
+    },
+    {
+      "Id": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\wwwroot\\images\\ins5.jpg",
+      "PackagePath": "staticwebassets\\images\\ins5.jpg"
+    },
+    {
+      "Id": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\wwwroot\\images\\ins6.jpg",
+      "PackagePath": "staticwebassets\\images\\ins6.jpg"
+    },
+    {
+      "Id": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\wwwroot\\images\\ks4.jpg",
+      "PackagePath": "staticwebassets\\images\\ks4.jpg"
+    },
+    {
+      "Id": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\wwwroot\\images\\layouts\\layout-container-light.png",
+      "PackagePath": "staticwebassets\\images\\layouts\\layout-container-light.png"
+    },
+    {
+      "Id": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\wwwroot\\images\\layouts\\layout-fluid-light.png",
+      "PackagePath": "staticwebassets\\images\\layouts\\layout-fluid-light.png"
+    },
+    {
+      "Id": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\wwwroot\\images\\layouts\\layout-without-menu-light.png",
+      "PackagePath": "staticwebassets\\images\\layouts\\layout-without-menu-light.png"
+    },
+    {
+      "Id": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\wwwroot\\images\\layouts\\layout-without-navbar-light.png",
+      "PackagePath": "staticwebassets\\images\\layouts\\layout-without-navbar-light.png"
+    },
+    {
+      "Id": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\wwwroot\\images\\light-logo.png",
+      "PackagePath": "staticwebassets\\images\\light-logo.png"
+    },
+    {
+      "Id": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\wwwroot\\images\\logo.svg",
+      "PackagePath": "staticwebassets\\images\\logo.svg"
+    },
+    {
+      "Id": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\wwwroot\\images\\logo1.png",
+      "PackagePath": "staticwebassets\\images\\logo1.png"
+    },
+    {
+      "Id": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\wwwroot\\images\\logo2.png",
+      "PackagePath": "staticwebassets\\images\\logo2.png"
+    },
+    {
+      "Id": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\wwwroot\\images\\logo3.png",
+      "PackagePath": "staticwebassets\\images\\logo3.png"
+    },
+    {
+      "Id": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\wwwroot\\images\\logo4.png",
+      "PackagePath": "staticwebassets\\images\\logo4.png"
+    },
+    {
+      "Id": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\wwwroot\\images\\logo5.png",
+      "PackagePath": "staticwebassets\\images\\logo5.png"
+    },
+    {
+      "Id": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\wwwroot\\images\\main-logo.png",
+      "PackagePath": "staticwebassets\\images\\main-logo.png"
+    },
+    {
+      "Id": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\wwwroot\\images\\mainlogo.jpg",
+      "PackagePath": "staticwebassets\\images\\mainlogo.jpg"
+    },
+    {
+      "Id": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\wwwroot\\images\\master-card.png",
+      "PackagePath": "staticwebassets\\images\\master-card.png"
+    },
+    {
+      "Id": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\wwwroot\\images\\pattern-bg.png",
+      "PackagePath": "staticwebassets\\images\\pattern-bg.png"
+    },
+    {
+      "Id": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\wwwroot\\images\\paypal-card.png",
+      "PackagePath": "staticwebassets\\images\\paypal-card.png"
+    },
+    {
+      "Id": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\wwwroot\\images\\phonganvip.jpg",
+      "PackagePath": "staticwebassets\\images\\phonganvip.jpg"
+    },
+    {
+      "Id": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\wwwroot\\images\\phongvip.jpg",
+      "PackagePath": "staticwebassets\\images\\phongvip.jpg"
+    },
+    {
+      "Id": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\wwwroot\\images\\quayba.jpg",
+      "PackagePath": "staticwebassets\\images\\quayba.jpg"
+    },
+    {
+      "Id": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\wwwroot\\images\\text-pattern.png",
+      "PackagePath": "staticwebassets\\images\\text-pattern.png"
+    },
+    {
+      "Id": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\wwwroot\\images\\user.svg",
+      "PackagePath": "staticwebassets\\images\\user.svg"
+    },
+    {
+      "Id": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\wwwroot\\images\\user2.jpg",
+      "PackagePath": "staticwebassets\\images\\user2.jpg"
+    },
+    {
+      "Id": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\wwwroot\\images\\video-image-2.jpg",
+      "PackagePath": "staticwebassets\\images\\video-image-2.jpg"
+    },
+    {
+      "Id": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\wwwroot\\images\\visa-card.png",
+      "PackagePath": "staticwebassets\\images\\visa-card.png"
+    },
+    {
+      "Id": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\wwwroot\\js\\SmoothScroll.js",
+      "PackagePath": "staticwebassets\\js\\SmoothScroll.js"
+    },
+    {
+      "Id": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\wwwroot\\js\\adminLayout.js",
+      "PackagePath": "staticwebassets\\js\\adminLayout.js"
+    },
+    {
+      "Id": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\wwwroot\\js\\config.js",
+      "PackagePath": "staticwebassets\\js\\config.js"
+    },
+    {
+      "Id": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\wwwroot\\js\\jquery.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\wwwroot\\js\\modernizr.js",
+      "PackagePath": "staticwebassets\\js\\modernizr.js"
+    },
+    {
+      "Id": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\wwwroot\\js\\plugins.js",
+      "PackagePath": "staticwebassets\\js\\plugins.js"
+    },
+    {
+      "Id": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\wwwroot\\js\\script.min.js",
+      "PackagePath": "staticwebassets\\js\\script.min.js"
+    },
+    {
+      "Id": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\wwwroot\\vendor\\css\\core.css",
+      "PackagePath": "staticwebassets\\vendor\\css\\core.css"
+    },
+    {
+      "Id": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\wwwroot\\vendor\\css\\pages\\page-account-settings.css",
+      "PackagePath": "staticwebassets\\vendor\\css\\pages\\page-account-settings.css"
+    },
+    {
+      "Id": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\wwwroot\\vendor\\css\\pages\\page-auth.css",
+      "PackagePath": "staticwebassets\\vendor\\css\\pages\\page-auth.css"
+    },
+    {
+      "Id": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\wwwroot\\vendor\\css\\pages\\page-icons.css",
+      "PackagePath": "staticwebassets\\vendor\\css\\pages\\page-icons.css"
+    },
+    {
+      "Id": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\wwwroot\\vendor\\css\\pages\\page-misc.css",
+      "PackagePath": "staticwebassets\\vendor\\css\\pages\\page-misc.css"
+    },
+    {
+      "Id": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\wwwroot\\vendor\\css\\theme-default.css",
+      "PackagePath": "staticwebassets\\vendor\\css\\theme-default.css"
+    },
+    {
+      "Id": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\wwwroot\\vendor\\fonts\\boxicons.css",
+      "PackagePath": "staticwebassets\\vendor\\fonts\\boxicons.css"
+    },
+    {
+      "Id": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\wwwroot\\vendor\\fonts\\boxicons\\boxicons.eot",
+      "PackagePath": "staticwebassets\\vendor\\fonts\\boxicons\\boxicons.eot"
+    },
+    {
+      "Id": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\wwwroot\\vendor\\fonts\\boxicons\\boxicons.svg",
+      "PackagePath": "staticwebassets\\vendor\\fonts\\boxicons\\boxicons.svg"
+    },
+    {
+      "Id": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\wwwroot\\vendor\\fonts\\boxicons\\boxicons.ttf",
+      "PackagePath": "staticwebassets\\vendor\\fonts\\boxicons\\boxicons.ttf"
+    },
+    {
+      "Id": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\wwwroot\\vendor\\fonts\\boxicons\\boxicons.woff",
+      "PackagePath": "staticwebassets\\vendor\\fonts\\boxicons\\boxicons.woff"
+    },
+    {
+      "Id": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\wwwroot\\vendor\\fonts\\boxicons\\boxicons.woff2",
+      "PackagePath": "staticwebassets\\vendor\\fonts\\boxicons\\boxicons.woff2"
+    },
+    {
+      "Id": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\wwwroot\\vendor\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\vendor\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\wwwroot\\vendor\\js\\helpers.js",
+      "PackagePath": "staticwebassets\\vendor\\js\\helpers.js"
+    },
+    {
+      "Id": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\wwwroot\\vendor\\js\\menu.js",
+      "PackagePath": "staticwebassets\\vendor\\js\\menu.js"
+    },
+    {
+      "Id": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\wwwroot\\vendor\\libs\\apex-charts\\apex-charts.css",
+      "PackagePath": "staticwebassets\\vendor\\libs\\apex-charts\\apex-charts.css"
+    },
+    {
+      "Id": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\wwwroot\\vendor\\libs\\apex-charts\\apexcharts.js",
+      "PackagePath": "staticwebassets\\vendor\\libs\\apex-charts\\apexcharts.js"
+    },
+    {
+      "Id": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\wwwroot\\vendor\\libs\\highlight\\highlight-github.css",
+      "PackagePath": "staticwebassets\\vendor\\libs\\highlight\\highlight-github.css"
+    },
+    {
+      "Id": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\wwwroot\\vendor\\libs\\highlight\\highlight.css",
+      "PackagePath": "staticwebassets\\vendor\\libs\\highlight\\highlight.css"
+    },
+    {
+      "Id": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\wwwroot\\vendor\\libs\\highlight\\highlight.js",
+      "PackagePath": "staticwebassets\\vendor\\libs\\highlight\\highlight.js"
+    },
+    {
+      "Id": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\wwwroot\\vendor\\libs\\jquery\\jquery.js",
+      "PackagePath": "staticwebassets\\vendor\\libs\\jquery\\jquery.js"
+    },
+    {
+      "Id": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\wwwroot\\vendor\\libs\\masonry\\masonry.js",
+      "PackagePath": "staticwebassets\\vendor\\libs\\masonry\\masonry.js"
+    },
+    {
+      "Id": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\wwwroot\\vendor\\libs\\perfect-scrollbar\\perfect-scrollbar.css",
+      "PackagePath": "staticwebassets\\vendor\\libs\\perfect-scrollbar\\perfect-scrollbar.css"
+    },
+    {
+      "Id": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\wwwroot\\vendor\\libs\\perfect-scrollbar\\perfect-scrollbar.js",
+      "PackagePath": "staticwebassets\\vendor\\libs\\perfect-scrollbar\\perfect-scrollbar.js"
+    },
+    {
+      "Id": "D:\\HOC\\BAO_CAO_LAPTRINHWEB\\BAO_CAO\\BAO_CAO\\wwwroot\\vendor\\libs\\popper\\popper.js",
+      "PackagePath": "staticwebassets\\vendor\\libs\\popper\\popper.js"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.BAO_CAO.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.BAO_CAO.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.BAO_CAO.props",
+      "PackagePath": "build\\BAO_CAO.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.BAO_CAO.props",
+      "PackagePath": "buildMultiTargeting\\BAO_CAO.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.BAO_CAO.props",
+      "PackagePath": "buildTransitive\\BAO_CAO.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

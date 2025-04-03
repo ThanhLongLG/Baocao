@@ -1,0 +1,149 @@
+﻿@using Microsoft.AspNetCore.Identity
+
+@inject SignInManager<IdentityUser> SignInManager
+@inject UserManager<IdentityUser> UserManager
+<style>
+
+
+
+
+    .dropdown-item {
+    padding: 0.5rem 1rem;
+    transition: background-color 0.2s;
+    }
+
+    .dropdown-item:hover {
+    background-color: #f1f1f1;
+    }
+
+    .dropdown-divider {
+    margin: 0;
+    }
+
+    .avatar img {
+    object-fit: cover;
+    border: 2px solid #e9ecef;
+    }
+
+    .w-px-40 {
+    width: 40px !important;
+    }
+
+    .rounded-circle {
+    border-radius: 50% !important;
+    }
+
+    img, svg {
+    vertical-align: middle;
+    }
+
+    mg {
+    overflow-clip-margin: content-box;
+    overflow: clip;
+    }
+
+    .dropdown-menu-end {
+    --bs-position: end;
+    }
+
+
+</style>
+
+<ul class="navbar-nav flex-row align-items-center ms-auto">
+    @if (SignInManager.IsSignedIn(User))
+    {
+
+
+
+        <!-- User -->
+        <li class="nav-item navbar-dropdown dropdown-user dropdown">
+            <a class="nav-link hide-arrow" href="javascript:void(0);" data-bs-toggle="dropdown">
+                <div class="avatar avatar-online">
+                    <img src="~/images/avatars/1.png" alt="" class="w-px-40 h-auto rounded-circle" />
+                </div>
+            </a>
+
+            <ul class="dropdown-menu dropdown-menu-end">
+                @if (SignInManager.IsSignedIn(User))
+                {
+                    <li>
+                        <a class="dropdown-item" href="#">
+                            <div class="d-flex">
+                                <div class="flex-shrink-0 me-3">
+                                    <div class="avatar avatar-online">
+                                        <img src="~/images/avatars/1.png" alt="" class="w-px-40 h-auto rounded-circle" />
+                                    </div>
+                                </div>
+                                <div class="flex-grow-1">
+                                    <span class="fw-semibold d-block">@UserManager.GetUserName(User)</span>
+                                    <small class="text-muted">User</small>
+                                </div>
+                            </div>
+                        </a>
+                    </li>
+                    <li><div class="dropdown-divider"></div></li>
+                    <li>
+                        @* <a class="dropdown-item" asp-area="Identity" asp-page="/Account/Manage/Index"> *@
+                        @*     <i class="bx bx-user me-2"></i> *@
+                        @*     <span class="align-middle">My Profile</span> *@
+                        @* </a> *@
+
+                        <a class="dropdown-item" asp-controller="Home" asp-action="Profile">
+                            <i class="bx bx-user me-2"></i>
+                            <span class="align-middle">My Profile</span>
+                        </a>
+                    </li>
+                    <li>
+                        <a class="dropdown-item" asp-area="Admin" asp-controller="TrangQL" asp-action="Index">
+                            <i class="bx bx-cog me-2"></i>
+                            <span class="align-middle">Settings</span>
+                        </a>
+                    </li>
+                    @if (SignInManager.IsSignedIn(User) && User.IsInRole("Admin"))
+                    {
+                        <li>
+                            <a class="dropdown-item" asp-area="Admin" asp-controller="TrangQL" asp-action="Index">
+                                <i class="bx bx-user-check me-2"></i>
+                                <span class="align-middle">Admin</span>
+                            </a>
+                        </li>
+                    }
+                    <li>
+                        <div class="dropdown-divider"></div>
+                    </li>
+                    <li>
+                        <form id="logoutForm" class="dropdown-item p-0 m-0" method="post"
+                              asp-area="Identity" asp-page="/Account/Logout"
+                              asp-route-returnUrl="@Url.Action("Index", "Home", new { area = "" })">
+                            <button id="logout" type="submit" class="btn btn-link text-dark border-0 w-100 text-start ps-3">
+                                <i class="bx bx-power-off me-2"></i> LOG OUT
+                            </button>
+                        </form>
+                    </li>
+                }
+                else
+                {
+                    @* <li> *@
+                    @*     <a class="dropdown-item" asp-area="Identity" asp-page="/Account/Login"> *@
+                    @*         <i class="bx bx-log-in me-2"></i> *@
+                    @*         <span class="align-middle">Log In</span> *@
+                    @*     </a> *@
+                    @* </li> *@
+                    @* <li> *@
+                    @*     <a class="dropdown-item" asp-area="Identity" asp-page="/Account/Register"> *@
+                    @*         <i class="bx bx-user-plus me-2"></i> *@
+                    @*         <span class="align-middle">Register</span> *@
+                    @*     </a> *@
+                    @* </li> *@
+                }
+            </ul>
+        </li>
+
+
+    }
+    else
+    {
+
+
+    }
+</ul>

@@ -1,0 +1,44 @@
+﻿@{
+    Layout = "~/Views/Shared/Admin_layout.cshtml";
+}
+@model BAO_CAO.Models.Phong
+
+<h3 class="mt-2 mb-4">DASHBOARD</h3>
+
+<h2 class="mb-4">📊 Thống kê</h2>
+
+
+<div class="row g-4">
+    <div class="col-sm-12 col-md-6 col-lg-4">
+        <div class="card bg-primary text-white shadow-lg rounded-3">
+            <div class="card-body text-center">
+                <h4 class="fw-bold">Phong</h4>
+                <p class="fs-1 fw-bold mb-2">@ViewBag.Phongcount</p>
+                <hr class="border-light" />
+                <a class="text-white text-decoration-none fw-semibold" asp-controller="Phong" asp-action="Index">Xem chi tiết →</a>
+            </div>
+        </div>
+    </div>
+    <div class="col-sm-12 col-md-6 col-lg-4">
+        <div class="card bg-success text-white shadow-lg rounded-3">
+            <div class="card-body text-center">
+                <h4 class="fw-bold">👥 Người dùng</h4>
+                <p class="fs-1 fw-bold mb-2">@ViewBag.Khachhangcount</p>
+                <hr class="border-light" />
+                <a class="text-white text-decoration-none fw-semibold" asp-controller="KhachHang" asp-action="Index">Xem chi tiết →</a>
+            </div>
+        </div>
+    </div>
+    <div class="col-sm-12 col-md-6 col-lg-4">
+        <div class="card bg-secondary text-white shadow-lg rounded-3">
+            <div class="card-body text-center">
+                <h4 class="fw-bold">👥 Nhân VIên</h4>
+                <p class="fs-1 fw-bold mb-2">@ViewBag.nhanviencount</p>
+                <hr class="border-light" />
+                <a class="text-white text-decoration-none fw-semibold" asp-controller="NhanVien" asp-action="Index">Xem chi tiết →</a>
+            </div>
+        </div>
+    </div>
+</div>
+
+

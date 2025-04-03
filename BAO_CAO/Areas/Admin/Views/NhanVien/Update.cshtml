@@ -1,0 +1,73 @@
+﻿@{
+    Layout = "~/Views/Shared/Admin_layout.cshtml";
+}
+@model BAO_CAO.Models.Nhanvien
+
+
+<nav class="mt-2 mb-4" aria-label="breadcrumb">
+    <ol class="breadcrumb">
+        <li class="breadcrumb-item"><a class="text-decoration-none" asp-controller="TrangQL" asp-action="Index">Trang Chủ</a></li>
+        <li class="breadcrumb-item"><a class="text-decoration-none" asp-action="Index">Danh Sách Nhân Viên</a></li>
+        <li class="breadcrumb-item active" aria-current="page">Chỉnh sửa Nhân Viên</li>
+    </ol>
+</nav>
+
+<h3 class="mb-5">Chỉnh sửa</h3>
+
+<form asp-action="Update" enctype="multipart/form-data">
+    <div class="row">
+        <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+        <input type="hidden" asp-for="MaNV" />
+
+        <div class="col-sm-12 col-md-7 col-lg-8 col-xl-10">
+            <div class="row">
+                <div class="col-md-12 col-lg-6">
+                    <div class="form-group mb-4">
+                        <label asp-for="TenNV" class="control-label"></label>
+                        <input asp-for="TenNV" class="form-control" />
+                        <span asp-validation-for="TenNV" class="text-danger"></span>
+                    </div>
+                </div>
+
+                <div class="col-md-12 col-lg-6">
+                    <div class="form-group mb-4">
+                        <label asp-for="DiaChi" class="control-label"></label>
+                        <input asp-for="DiaChi" class="form-control" />
+                        <span asp-validation-for="DiaChi" class="text-danger"></span>
+                    </div>
+                </div>
+                <div class="col-md-12 col-lg-6">
+                    <div class="form-group mb-4">
+                        <label asp-for="ChucVu" class="control-label"></label>
+                        <input asp-for="ChucVu" class="form-control" />
+                        <span asp-validation-for="ChucVu" class="text-danger"></span>
+                    </div>
+                </div>
+
+                <div class="col-md-12 col-lg-6">
+                    <div class="form-group mb-4">
+                        <label asp-for="hesoluong" class="control-label"></label>
+                        <input asp-for="hesoluong" class="form-control" />
+                        <span asp-validation-for="hesoluong" class="text-danger"></span>
+                    </div>
+                </div>
+         
+
+            
+            
+            </div>
+        </div>
+
+        <div class="d-flex gap-3 flex-column flex-sm-row">
+            <input type="submit" value="Cập nhật" class="btn btn-warning" />
+            <a class="btn btn-success" asp-action="Index">Quay lại</a>
+        </div>
+    </div>
+</form>
+
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}

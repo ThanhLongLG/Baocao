@@ -1,0 +1,81 @@
+﻿@{
+    Layout = "~/Views/Shared/Admin_layout.cshtml";
+}
+<head>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons/font/bootstrap-icons.css">
+    <title>@ViewData["Title"] Admin</title>
+</head>
+<nav class="mt-2 mb-4" aria-label="breadcrumb">
+    <ol class="breadcrumb">
+        <li class="breadcrumb-item"><a class="text-decoration-none" asp-controller="TrangQL" asp-action="Index">TrangChu</a></li>
+        <li class="breadcrumb-item"><a class="text-decoration-none" asp-action="Index">Danh Sách Khach Hang</a></li>
+  
+    </ol>
+</nav>
+
+<div class="container mt-4">
+    <h2 class="text-center text-primary">KhachHang</h2>
+
+    <div class="d-flex justify-content-between align-items-center mb-3">
+        <button class="btn btn-success" onclick="location.href='@Url.Action("Add", "KhachHang")'">
+            <i class="bi bi-plus-circle"></i> Add Khachhang
+        </button>
+    </div>
+    <div class="row align-items-center d-flex justify-content-between align-items-center mb-3">
+        <div class="col-md-5">
+            <form asp-controller="KhachHang" asp-action="Index" method="get">
+                <div class="input-group">
+                    <input name="searchValue" type="text" class="form-control my-input" placeholder="Bạn muốn tìm gì ?"
+                           value="@ViewBag.searchValue">
+                    <button class="btn btn-primary my-button" type="submit">Tìm kiếm</button>
+                </div>
+            </form>
+        </div>
+        <div class="col-md-6">
+            <h5 class="mb-0 d-inline-block">
+                @if (!string.IsNullOrEmpty(@ViewBag.searchValue))
+                {
+                    <span>Tất cả khach hang tên giống với <strong>"@ViewBag.searchValue"</strong></span>
+                }
+                  <a asp-controller="KhachHang" asp-action="Index" class="m-0 text-decoration-none">( Bỏ lọc )</a>
+            </h5>
+        </div>
+    </div>
+    <div class="table-responsive">
+        <table class="table table-dark table-bordered  text-white text-center table-hover">
+            <thead>
+                <tr class="text-white">
+                    <th>Ten</th>
+                    <th>DiaChi</th>
+                    <th>SDT</th>
+                    <th>Email</th>
+          
+                    <th>Actions</th>
+                </tr>
+            </thead>
+            <tbody class="text-light">
+                @foreach (var khachhang in Model)
+                {
+                    <tr>
+                        <td>@khachhang.TenKh</td>
+                        <td>@khachhang.DiaChi.ToString()</td>
+                        <td>@khachhang.SDT.ToString()</td>
+                        <td>@khachhang.email.ToString()</td>
+                  
+                        <td>
+                            <a asp-controller="KhachHang" asp-action="Display" asp-route-id="@khachhang.MaKH" class="btn btn-info btn-sm">
+                                <i class="bi bi-eye"></i> View
+                            </a>
+                            <a asp-controller="KhachHang" asp-action="Update" asp-route-id="@khachhang.MaKH" class="btn btn-warning btn-sm">
+                                <i class="bi bi-pencil-square"></i> Edit
+                            </a>
+                            <a asp-controller="KhachHang" asp-action="Delete" asp-route-id="@khachhang.MaKH" class="btn btn-danger btn-sm" onclick="return confirm('Are you sure?')">
+                                <i class="bi bi-trash"></i> Delete
+                            </a>
+                        </td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+</div>

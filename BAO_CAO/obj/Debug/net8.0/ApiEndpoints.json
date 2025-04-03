@@ -1,0 +1,52 @@
+[
+  {
+    "ContainingType": "BAO_CAO.Controllers.BookingController",
+    "Method": "Profile",
+    "RelativePath": "api/booking",
+    "HttpMethod": "",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BAO_CAO.Controllers.BookingController",
+    "Method": "Index",
+    "RelativePath": "api/booking",
+    "HttpMethod": "",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BAO_CAO.Controllers.BookingController",
+    "Method": "Privacy",
+    "RelativePath": "api/booking",
+    "HttpMethod": "",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BAO_CAO.Controllers.BookingController",
+    "Method": "Error",
+    "RelativePath": "api/booking",
+    "HttpMethod": "",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BAO_CAO.Controllers.BookingController",
+    "Method": "GetRooms",
+    "RelativePath": "api/booking",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]
